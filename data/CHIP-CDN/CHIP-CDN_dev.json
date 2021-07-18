@@ -1,0 +1,8002 @@
+[
+  {
+    "text": "1型糖尿病性植物神经病变",
+    "normalized_result": "1型糖尿病性自主神经病"
+  },
+  {
+    "text": "卵巢Ca",
+    "normalized_result": "卵巢恶性肿瘤##癌"
+  },
+  {
+    "text": "髂腰肌囊性占位",
+    "normalized_result": "髂肌囊肿##腰部囊肿"
+  },
+  {
+    "text": "子宫颈鳞癌IIB期放化疗后",
+    "normalized_result": "子宫颈恶性肿瘤##鳞状细胞癌##恶性肿瘤放疗##化学治疗"
+  },
+  {
+    "text": "肿标升高待查全麻胃肠镜丙泊酚不耐受",
+    "normalized_result": "肿瘤标记物升高"
+  },
+  {
+    "text": "无精症输精管梗阻精液淤积症",
+    "normalized_result": "无精子症##输精管梗阻##附睾精索精子淤积症"
+  },
+  {
+    "text": "乳癌术后定期化疗，门诊开药",
+    "normalized_result": "乳腺恶性肿瘤##恶性肿瘤术后化疗"
+  },
+  {
+    "text": "右膝关节骨关节炎",
+    "normalized_result": "单侧膝关节骨性关节病"
+  },
+  {
+    "text": "急性B淋巴细胞白血病L2型（标危 CR）化疗",
+    "normalized_result": "B细胞急性淋巴细胞白血病##急性淋巴细胞白血病L2##急性淋巴细胞白血病L2型##化学治疗"
+  },
+  {
+    "text": "高甘油三酯脂血症前列腺梗阻未特指",
+    "normalized_result": "前列腺未特指的疾患##高甘油三酯血症"
+  },
+  {
+    "text": "卵巢癌肿瘤细胞减灭术术后",
+    "normalized_result": "卵巢恶性肿瘤##癌##卵巢术后"
+  },
+  {
+    "text": "右膝外翻重度左膝内翻轻度",
+    "normalized_result": "膝外翻##膝内翻"
+  },
+  {
+    "text": "双叶甲状腺癌",
+    "normalized_result": "甲状腺恶性肿瘤##癌"
+  },
+  {
+    "text": "胸椎破坏伴截瘫",
+    "normalized_result": "截瘫[双下肢瘫痪]"
+  },
+  {
+    "text": "十二指肠降段隆起性病变",
+    "normalized_result": "胃和十二指肠未特指的疾病"
+  },
+  {
+    "text": "急慢性炎伴淋巴组织增生",
+    "normalized_result": "淋巴组织增生"
+  },
+  {
+    "text": "糖尿病糖尿病周围神经病变糖尿病肾病IV期",
+    "normalized_result": "糖尿病##糖尿病性周围神经病##糖尿病肾病IV期"
+  },
+  {
+    "text": "惊厥(？)",
+    "normalized_result": "其他和未特指的惊厥"
+  },
+  {
+    "text": "卵圆孔未闭发泡实验阳性",
+    "normalized_result": "卵圆孔未闭"
+  },
+  {
+    "text": "左肾缺失",
+    "normalized_result": "先天性肾缺如"
+  },
+  {
+    "text": "门诊以胃窦管状腺瘤收入院",
+    "normalized_result": "胃良性肿瘤##管状腺瘤"
+  },
+  {
+    "text": "左腋窝肉芽组织肿",
+    "normalized_result": "肉芽肿"
+  },
+  {
+    "text": "完全性肺静脉异位引流心下型无梗阻",
+    "normalized_result": "\"完全性肺静脉异位引流,心下型\""
+  },
+  {
+    "text": "右输尿管结石并右肾积液",
+    "normalized_result": "肾积水伴输尿管结石"
+  },
+  {
+    "text": "胸中段食管鳞癌化疗后",
+    "normalized_result": "食管胸中段恶性肿瘤##鳞状细胞癌##化学治疗"
+  },
+  {
+    "text": "肺曲霉病(?)",
+    "normalized_result": "肺曲霉菌病"
+  },
+  {
+    "text": "右肺上叶周围型腺癌",
+    "normalized_result": "右肺上叶恶性肿瘤##腺癌"
+  },
+  {
+    "text": "晚孕(上感)",
+    "normalized_result": "妊娠状态##上呼吸道感染"
+  },
+  {
+    "text": "下颌骨发育不全",
+    "normalized_result": "先天下颌骨颜面发育不全"
+  },
+  {
+    "text": "左足背砸伤软组织损伤",
+    "normalized_result": "足部损伤##砸伤"
+  },
+  {
+    "text": "骨转移(左11后肋、右9后肋)",
+    "normalized_result": "肋骨继发恶性肿瘤##转移性肿瘤"
+  },
+  {
+    "text": "新生儿先天性心血管畸形",
+    "normalized_result": "先天性心脏病"
+  },
+  {
+    "text": "母体妊娠糖尿病之新生儿",
+    "normalized_result": "糖尿病母亲婴儿"
+  },
+  {
+    "text": "语言迟缓铁低锌低",
+    "normalized_result": "言语障碍##锌缺乏##铁缺乏"
+  },
+  {
+    "text": "急性胃肠道功能不全",
+    "normalized_result": "胃肠功能紊乱"
+  },
+  {
+    "text": "全身多脏器功能衰竭心肝肾肺胰腺凝血肠道",
+    "normalized_result": "凝血功能障碍##多脏器功能障碍综合征[MODS]"
+  },
+  {
+    "text": "右骨盆肿物",
+    "normalized_result": "骨盆部占位"
+  },
+  {
+    "text": "右髌骨软化右股骨外髁上方局灶性囊性变",
+    "normalized_result": "髌骨软骨软化##股骨骨囊肿"
+  },
+  {
+    "text": "非胰岛素依赖型糖尿病伴有酮症酸中毒",
+    "normalized_result": "2型糖尿病性酮症酸中毒"
+  },
+  {
+    "text": "结肠溃疡型是分化腺癌",
+    "normalized_result": "结肠恶性肿瘤##腺癌"
+  },
+  {
+    "text": "宫颈小细胞癌IIA2期",
+    "normalized_result": "子宫颈恶性肿瘤##小细胞癌"
+  },
+  {
+    "text": "骶尾骨中部骨折",
+    "normalized_result": "骶骨骨折"
+  },
+  {
+    "text": "头痛口干肝肾不足",
+    "normalized_result": "头痛##口干"
+  },
+  {
+    "text": "进行性掌指角皮病",
+    "normalized_result": "角化病"
+  },
+  {
+    "text": "先天性心脏病合并妊娠",
+    "normalized_result": "妊娠合并先天性心脏病"
+  },
+  {
+    "text": "右侧肋间血管破裂",
+    "normalized_result": "血管断裂"
+  },
+  {
+    "text": "颅面骨发育不全",
+    "normalized_result": "颅面骨发育不全"
+  },
+  {
+    "text": "下段胸骨及伤口愈合不良",
+    "normalized_result": "开放性损伤愈合不良"
+  },
+  {
+    "text": "低级别滤泡性淋巴瘤IV期B组",
+    "normalized_result": "滤泡淋巴瘤"
+  },
+  {
+    "text": "急性脑梗死右侧颞枕叶出血性梗死",
+    "normalized_result": "脑梗死##多发性脑梗死##出血性脑梗死"
+  },
+  {
+    "text": "右前臂带状孢疹",
+    "normalized_result": "带状疱疹"
+  },
+  {
+    "text": "：小房缺；染色体病？",
+    "normalized_result": "房间隔缺损##染色体病"
+  },
+  {
+    "text": "双侧髂动脉右侧股浅动脉支架植入术",
+    "normalized_result": "血管支架植入术后状态"
+  },
+  {
+    "text": "腰背部劳损",
+    "normalized_result": "腰部劳损##背部劳损"
+  },
+  {
+    "text": "双髋关节退行性改变",
+    "normalized_result": "双侧髋关节骨性关节病"
+  },
+  {
+    "text": "骨关节病;坐骨神经痛肌肉关节酸痛行动不便",
+    "normalized_result": "骨关节病##坐骨神经痛##肌痛##关节痛"
+  },
+  {
+    "text": "诺卡菌病肺皮肤骨",
+    "normalized_result": "肺诺卡菌病##皮肤诺卡菌病##其他形式的诺卡菌病"
+  },
+  {
+    "text": "右眼假性剥脱综合症",
+    "normalized_result": "假性囊膜剥脱综合征"
+  },
+  {
+    "text": "肛管末端代谢局灶性增高考虑为痔疮可能性大",
+    "normalized_result": "痔"
+  },
+  {
+    "text": "甲状腺右叶乳头状微癌",
+    "normalized_result": "甲状腺恶性肿瘤##乳头状微小癌"
+  },
+  {
+    "text": "左手中指恶性黑素瘤",
+    "normalized_result": "手指恶性黑色素瘤##恶性黑色素瘤"
+  },
+  {
+    "text": "右足跟部皮肤软组织脱套伤",
+    "normalized_result": "足部套脱伤"
+  },
+  {
+    "text": "缺锌重轻度缺铁胃口睡眠差",
+    "normalized_result": "食欲不振##铁缺乏##锌缺乏##睡眠障碍"
+  },
+  {
+    "text": "精神异常原因待查",
+    "normalized_result": "精神障碍"
+  },
+  {
+    "text": "胸片提示：右上肺可疑结节",
+    "normalized_result": "肺占位性病变"
+  },
+  {
+    "text": "肺特指疾患双肺下叶斑片影",
+    "normalized_result": "肺部阴影##肺病"
+  },
+  {
+    "text": "双下肢行走异常",
+    "normalized_result": "异常步态"
+  },
+  {
+    "text": "右肺小细胞癌局限期",
+    "normalized_result": "右肺恶性肿瘤##小细胞癌"
+  },
+  {
+    "text": "阑尾开口横结肠管状腺瘤",
+    "normalized_result": "管状腺瘤##横结肠良性肿瘤"
+  },
+  {
+    "text": "胃窦隆起糜烂异位胰腺",
+    "normalized_result": "胃内异位胰腺##糜烂性胃炎"
+  },
+  {
+    "text": "1.冠心病缺血性心肌病型心功Ⅲ-Ⅳ级",
+    "normalized_result": "冠状动脉粥样硬化性心脏病##缺血性心肌病##心功能III级(NYHA分级)##心功能IV级(NYHA分级)"
+  },
+  {
+    "text": "网球肘肩部劳损",
+    "normalized_result": "肱骨外上髁炎[网球肘]##肩颈部劳损"
+  },
+  {
+    "text": "胃癌伴幽门梗阻",
+    "normalized_result": "胃恶性肿瘤##幽门梗阻##癌"
+  },
+  {
+    "text": "颈5椎体骨折",
+    "normalized_result": "颈椎骨折C5"
+  },
+  {
+    "text": "急性脊髓外伤",
+    "normalized_result": "脊髓损伤"
+  },
+  {
+    "text": "盆腔脉管瘤栓",
+    "normalized_result": "肿瘤栓子"
+  },
+  {
+    "text": "左腋窝淋巴结增生性病变",
+    "normalized_result": "腋下淋巴结肿大"
+  },
+  {
+    "text": "低锌肛周裂口",
+    "normalized_result": "锌缺乏##肛裂"
+  },
+  {
+    "text": "房室结双径路+AVNRT射频消融术后手术名称：房室结双径路+AVNRT射频消融术",
+    "normalized_result": "心脏射频消融术后"
+  },
+  {
+    "text": "糖尿病周围病变",
+    "normalized_result": "糖尿病"
+  },
+  {
+    "text": "极重度再生障碍性贫血",
+    "normalized_result": "再生障碍性贫血"
+  },
+  {
+    "text": "冠心脏心肌缺血",
+    "normalized_result": "冠状动脉粥样硬化性心脏病##心肌供血不足"
+  },
+  {
+    "text": "甲状腺乳头状癌二次术后复发",
+    "normalized_result": "甲状腺恶性肿瘤##甲状腺术后##甲状腺乳头状癌##恶性肿瘤复发"
+  },
+  {
+    "text": "右前臂软组织劳损",
+    "normalized_result": "累及上肢多个部位的脱位、扭伤和劳损"
+  },
+  {
+    "text": "双膝关节骨关节病",
+    "normalized_result": "双侧膝关节骨性关节病"
+  },
+  {
+    "text": "右锁骨考虑Sweet病",
+    "normalized_result": "急性发热性嗜中性皮病"
+  },
+  {
+    "text": "胸部皮肤破裂伤",
+    "normalized_result": "胸部开放性损伤"
+  },
+  {
+    "text": "腹部脂肪堆积",
+    "normalized_result": "腹部脂肪增多症"
+  },
+  {
+    "text": "神经系统特指疾患发作性肢体无力待查",
+    "normalized_result": "神经系统病变##肢体无力"
+  },
+  {
+    "text": "原发性支气管肺癌(左上肺 鳞癌可能 cT4N0M1(骨 )",
+    "normalized_result": "左肺上叶恶性肿瘤##鳞状细胞癌##骨继发恶性肿瘤##转移性鳞状细胞癌"
+  },
+  {
+    "text": "膀胱腺癌",
+    "normalized_result": "膀胱恶性肿瘤##腺癌"
+  },
+  {
+    "text": "慢性EBV感染",
+    "normalized_result": "EB病毒感染"
+  },
+  {
+    "text": "垂体腺瘤伴出血",
+    "normalized_result": "垂体良性肿瘤##垂体腺瘤##肿瘤伴出血"
+  },
+  {
+    "text": "左小腿皮肤剥脱撕裂伤",
+    "normalized_result": "小腿撕脱伤"
+  },
+  {
+    "text": "右下肢纤维瘤",
+    "normalized_result": "纤维瘤##下肢良性肿瘤"
+  },
+  {
+    "text": "\"儿童保健,低体重，髋关节发育不良？先心(房间隔缺损)\"",
+    "normalized_result": "低体重儿##先天性髋关节发育不良##房间隔缺损"
+  },
+  {
+    "text": "双耳异物",
+    "normalized_result": "耳内异物"
+  },
+  {
+    "text": "左腋部皮脂腺囊肿",
+    "normalized_result": "皮脂腺囊肿"
+  },
+  {
+    "text": "月经不调早孕",
+    "normalized_result": "月经紊乱##妊娠状态"
+  },
+  {
+    "text": "绒毛状腺瘤伴癌变",
+    "normalized_result": "绒毛状腺瘤##腺瘤癌变"
+  },
+  {
+    "text": "颞叶内侧脑组织局部胶质细胞轻度增生",
+    "normalized_result": "脑胶质细胞增生"
+  },
+  {
+    "text": "食积气滞脾胃不和咽炎痹症",
+    "normalized_result": "咽炎"
+  },
+  {
+    "text": "子宫内膜低分化子宫内膜样腺癌",
+    "normalized_result": "子宫内膜恶性肿瘤##子宫内膜样腺癌"
+  },
+  {
+    "text": "卵巢恶性肿瘤(IV期 骨转移)",
+    "normalized_result": "卵巢恶性肿瘤##骨继发恶性肿瘤##转移性肿瘤"
+  },
+  {
+    "text": "粒缺期发热",
+    "normalized_result": "粒细胞缺乏##发热"
+  },
+  {
+    "text": "右股骨颈骨折取除骨折内固定装置",
+    "normalized_result": "取出骨折内固定装置##股骨颈骨折"
+  },
+  {
+    "text": "3颈胸腰椎体退行性改",
+    "normalized_result": "颈椎退行性病变##胸椎退行性病变##腰椎退行性病变"
+  },
+  {
+    "text": "贲门低分化腺癌",
+    "normalized_result": "贲门恶性肿瘤##腺癌"
+  },
+  {
+    "text": "咨询;骨质疏松",
+    "normalized_result": "骨质疏松"
+  },
+  {
+    "text": "十二指肠乳头低级别绒毛状管状腺瘤",
+    "normalized_result": "十二指肠良性肿瘤##管状绒毛状腺瘤"
+  },
+  {
+    "text": "右前降支肌桥",
+    "normalized_result": "冠状动脉肌桥"
+  },
+  {
+    "text": "高空坠落伤1周右腕骨折左肩胛骨骨折头外伤左面部外伤",
+    "normalized_result": "自高处坠落##肩胛骨骨折##头部损伤##面部损伤##腕关节骨折"
+  },
+  {
+    "text": "右手背手掌皮肤撕脱并缺损",
+    "normalized_result": "手部开放性损伤##皮肤缺损"
+  },
+  {
+    "text": "妊娠合并IgA肾病",
+    "normalized_result": "IgA肾病##妊娠状态"
+  },
+  {
+    "text": "降结肠管状腺瘤未带蒂部",
+    "normalized_result": "管状腺瘤##降结肠良性肿瘤"
+  },
+  {
+    "text": "全心功能减弱",
+    "normalized_result": "全心衰竭"
+  },
+  {
+    "text": "鼻部纤维丘疹病",
+    "normalized_result": "丘疹"
+  },
+  {
+    "text": "乙型肝炎表面抗原携带者",
+    "normalized_result": "乙型病毒性肝炎表面抗原携带者"
+  },
+  {
+    "text": "右上臂截肢后残端骨质过度生长",
+    "normalized_result": "截肢"
+  },
+  {
+    "text": "高血压病Ⅲ期",
+    "normalized_result": "高血压"
+  },
+  {
+    "text": "双肺多发转移骨转移不除外",
+    "normalized_result": "肺继发恶性肿瘤##骨继发恶性肿瘤##转移性肿瘤"
+  },
+  {
+    "text": "\"胃癌,胃镜检查局麻 预防出血,超声胃镜检查\"",
+    "normalized_result": "胃恶性肿瘤##癌"
+  },
+  {
+    "text": "胸椎脊柱旁占位",
+    "normalized_result": "脊柱占位"
+  },
+  {
+    "text": "蹼状指",
+    "normalized_result": "蹼状指"
+  },
+  {
+    "text": "左乳癌术后伴双肺、多发骨转移综",
+    "normalized_result": "乳腺术后##癌##乳腺恶性肿瘤##肺继发恶性肿瘤##骨继发恶性肿瘤##转移性癌"
+  },
+  {
+    "text": "右髋关节破坏AS",
+    "normalized_result": "强直性脊柱炎"
+  },
+  {
+    "text": "风湿性心脏瓣膜病",
+    "normalized_result": "风湿性心脏病##心脏瓣膜病"
+  },
+  {
+    "text": "腹痛：胃肠道寄生虫感染",
+    "normalized_result": "腹痛##肠道寄生虫病"
+  },
+  {
+    "text": "辐射损伤",
+    "normalized_result": "\"暴露于未特指类型的辐射下造成的损伤,在未特指场所\""
+  },
+  {
+    "text": "左侧枕部硬膜下积血积气",
+    "normalized_result": "颅内积气[气颅症]##硬脑膜下积液"
+  },
+  {
+    "text": "心脏起搏器心房电极磨损",
+    "normalized_result": "具有心脏起搏器状态"
+  },
+  {
+    "text": "妊娠32+周，前置胎盘？",
+    "normalized_result": "孕32周##前置胎盘"
+  },
+  {
+    "text": "筛窦癌化疗",
+    "normalized_result": "筛窦恶性肿瘤##癌"
+  },
+  {
+    "text": "右侧大量胸腔积液",
+    "normalized_result": "胸腔积液"
+  },
+  {
+    "text": "十二指肠球降交界符合低级别管状腺瘤早期",
+    "normalized_result": "十二指肠交界性肿瘤##管状腺瘤"
+  },
+  {
+    "text": "恶性疾病经静脉化疗",
+    "normalized_result": "部位未特指的恶性肿瘤##化学治疗"
+  },
+  {
+    "text": "黄斑病变萎缩",
+    "normalized_result": "视网膜病"
+  },
+  {
+    "text": "右肾错构瘤伴部分破裂出血",
+    "normalized_result": "肾错构瘤"
+  },
+  {
+    "text": "胃窦低级别腺管状腺瘤未累及切面",
+    "normalized_result": "胃良性肿瘤##管状腺瘤"
+  },
+  {
+    "text": "躯体病样精神障碍",
+    "normalized_result": "躯体化障碍"
+  },
+  {
+    "text": "非霍杰金淋巴瘤弥漫大B细胞型",
+    "normalized_result": "弥漫大B细胞淋巴瘤"
+  },
+  {
+    "text": "右肺MT伴肺转移？",
+    "normalized_result": "右肺恶性肿瘤##肺继发恶性肿瘤##转移性肿瘤"
+  },
+  {
+    "text": "子宫内膜低中分化腺癌",
+    "normalized_result": "子宫内膜恶性肿瘤##腺癌"
+  },
+  {
+    "text": "双眼闭角型青光眼（虹膜激光周切术后）",
+    "normalized_result": "闭角型青光眼##眼术后"
+  },
+  {
+    "text": "面颈部刀伤",
+    "normalized_result": "面部开放性损伤##颈部开放性损伤"
+  },
+  {
+    "text": "G妊娠胎儿脐动脉SD升高已治愈",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "脑白质缺血脱髓鞘病变",
+    "normalized_result": "脑血管供血不足##脱髓鞘性白质脑病"
+  },
+  {
+    "text": "右膝滑膜骨软骨瘤病",
+    "normalized_result": "骨软骨瘤病##膝关节滑膜良性肿瘤"
+  },
+  {
+    "text": "双下肢活动障碍原因待查脑血管疾病后遗症",
+    "normalized_result": "运动障碍##脑血管病后遗症"
+  },
+  {
+    "text": "1左距腓前韧带撕裂2左跟腓韧带撕裂",
+    "normalized_result": "踝距腓前韧带断裂##跟腓韧带断裂"
+  },
+  {
+    "text": "脑梗死;冠状动脉粥样硬化性心脏病;心绞痛;脑动脉硬化",
+    "normalized_result": "脑梗死##冠状动脉粥样硬化性心脏病##心绞痛##脑血管硬化"
+  },
+  {
+    "text": "幼儿急疹[第六病]",
+    "normalized_result": "幼儿急疹"
+  },
+  {
+    "text": "月经不调HPV阳性宫颈CINI",
+    "normalized_result": "月经紊乱##宫颈人乳头瘤病毒感染##子宫颈上皮瘤样病变[CIN]I级"
+  },
+  {
+    "text": "扩张性心脏病心功能Ⅲ-Ⅳ级",
+    "normalized_result": "心功能III级(NYHA分级)##心功能IV级(NYHA分级)##扩张性心肌病[充血性心肌病]"
+  },
+  {
+    "text": "小儿原发性肾病综",
+    "normalized_result": "肾病综合征"
+  },
+  {
+    "text": "感染性疾病结缔组织疾病血液系统疾病",
+    "normalized_result": "结缔组织病##血液和造血器官未特指的疾病"
+  },
+  {
+    "text": "妊娠期甲状腺机能减退症",
+    "normalized_result": "妊娠合并甲状腺功能减退"
+  },
+  {
+    "text": "\"乳腺癌术后,晚期绝经后\"",
+    "normalized_result": "乳腺术后##乳腺恶性肿瘤##癌"
+  },
+  {
+    "text": "座疮伴睡眠不良",
+    "normalized_result": "痤疮##睡眠障碍"
+  },
+  {
+    "text": "面部皮肤赘生物",
+    "normalized_result": "皮赘"
+  },
+  {
+    "text": "先天性胼胝体发育不良",
+    "normalized_result": "胼胝体发育不全"
+  },
+  {
+    "text": "左颈淋巴转移癌",
+    "normalized_result": "颈部淋巴结继发恶性肿瘤"
+  },
+  {
+    "text": "原发性肝癌伴门静脉癌栓",
+    "normalized_result": "肝恶性肿瘤##门静脉瘤栓##癌"
+  },
+  {
+    "text": "多关节退变手膝髋关节并周围神经病变",
+    "normalized_result": "骨关节病##多发性神经病[多发性神经炎/周围神经炎]"
+  },
+  {
+    "text": "慢性移植物抗宿主反应病胃肠道口腔",
+    "normalized_result": "慢性移植物抗宿主病"
+  },
+  {
+    "text": "心功能不全急性心肌损伤",
+    "normalized_result": "心功能不全##心肌损害"
+  },
+  {
+    "text": "狼疮累及膀胱",
+    "normalized_result": "\"系统性红斑狼疮,累及器官或系统\""
+  },
+  {
+    "text": "癌细胞侵入胰腺组织并侵及十二指肠粘膜",
+    "normalized_result": "癌##胰腺继发恶性肿瘤##十二指肠继发恶性肿瘤"
+  },
+  {
+    "text": "宫颈癌I期",
+    "normalized_result": "子宫颈恶性肿瘤##癌"
+  },
+  {
+    "text": "结肠中分化腺癌术后",
+    "normalized_result": "结肠恶性肿瘤##腺癌##结肠术后"
+  },
+  {
+    "text": "停经352周B超提示胎儿持续伸舌状态",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "IVF治疗准备宫腔预移植",
+    "normalized_result": "试管婴儿"
+  },
+  {
+    "text": "髂窝滑囊囊肿",
+    "normalized_result": "骨盆部囊肿"
+  },
+  {
+    "text": "右侧额叶占位伴出血",
+    "normalized_result": "额叶出血##脑占位性病变"
+  },
+  {
+    "text": "右侧附件区囊性异常密度影",
+    "normalized_result": "其他特指身体结构诊断性影像检查的异常所见"
+  },
+  {
+    "text": "鼻唇沟注射整形后左眼失明",
+    "normalized_result": "单眼盲"
+  },
+  {
+    "text": "躯体疾病伴发躯体化反应",
+    "normalized_result": "躯体化障碍"
+  },
+  {
+    "text": "L5压缩性骨折",
+    "normalized_result": "腰椎骨折L5##腰椎压缩性骨折"
+  },
+  {
+    "text": "去势抵抗前列腺癌",
+    "normalized_result": "前列腺恶性肿瘤##癌"
+  },
+  {
+    "text": "RSA-2右单角子宫HT细胞免疫紊乱NK",
+    "normalized_result": "单角子宫"
+  },
+  {
+    "text": "左肾静脉压迫综合征",
+    "normalized_result": "左肾静脉压迫综合征[胡桃夹现象]"
+  },
+  {
+    "text": "发作性意识不清大小便失禁待查",
+    "normalized_result": "尿失禁##大便失禁##意识模糊"
+  },
+  {
+    "text": "青年期心律失常",
+    "normalized_result": "心律失常"
+  },
+  {
+    "text": "侧脑室异常信号影",
+    "normalized_result": "\"颅骨和头诊断性影像检查的异常所见,不可归类在他处者\""
+  },
+  {
+    "text": "从2米高房屋上摔下致伤",
+    "normalized_result": "自高处坠落"
+  },
+  {
+    "text": "双眼VKH综合征原田氏病",
+    "normalized_result": "Vogt-小柳原田综合征"
+  },
+  {
+    "text": "椎基底动脉血栓形成",
+    "normalized_result": "椎动脉血栓形成##基底动脉血栓形成"
+  },
+  {
+    "text": "停经26周外院彩超胎儿心脏继发隔显示欠清",
+    "normalized_result": "孕26周"
+  },
+  {
+    "text": "乳腺非典型增生",
+    "normalized_result": "乳腺增生"
+  },
+  {
+    "text": "口底癌",
+    "normalized_result": "口底恶性肿瘤##癌"
+  },
+  {
+    "text": "冠心病，缺血性心肌病，糖尿病，肾病",
+    "normalized_result": "冠状动脉粥样硬化性心脏病##缺血性心肌病##糖尿病##肾病"
+  },
+  {
+    "text": "风湿性疾病伴肺部侵犯",
+    "normalized_result": "风湿病"
+  },
+  {
+    "text": "前列腺囊性占位",
+    "normalized_result": "前列腺囊肿"
+  },
+  {
+    "text": "胃癌IV期化疗后",
+    "normalized_result": "胃恶性肿瘤##化学治疗##癌"
+  },
+  {
+    "text": "肘关节骨折术后",
+    "normalized_result": "肘关节骨折##骨折术后"
+  },
+  {
+    "text": "感冒/霉菌性皮炎/气管炎",
+    "normalized_result": "感冒##真菌性皮炎##气管炎"
+  },
+  {
+    "text": "胸背部疼痛待查",
+    "normalized_result": "胸段背痛"
+  },
+  {
+    "text": "盆腔未分化肉瘤术后",
+    "normalized_result": "盆腔恶性肿瘤##未分化肉瘤##盆腔术后"
+  },
+  {
+    "text": "口咽部消化道化学灼伤",
+    "normalized_result": "消化道化学伤"
+  },
+  {
+    "text": "左大腿开水烫伤",
+    "normalized_result": "沸水烫伤##下肢烫伤"
+  },
+  {
+    "text": "右踝部感染",
+    "normalized_result": "感染"
+  },
+  {
+    "text": "高尿酸高粘滞血症尿感",
+    "normalized_result": "高粘稠血症##高尿酸血症"
+  },
+  {
+    "text": "颈部增生性瘢痕",
+    "normalized_result": "颈部瘢痕"
+  },
+  {
+    "text": "2型糖尿病性合并正中神经病变",
+    "normalized_result": "2型糖尿病##正中神经损害"
+  },
+  {
+    "text": "符合巨幼红细胞性贫血骨髓改变",
+    "normalized_result": "巨幼红细胞性贫血"
+  },
+  {
+    "text": "中位心",
+    "normalized_result": "中位心"
+  },
+  {
+    "text": "低钙儿童异常动态脑电图",
+    "normalized_result": "钙代谢紊乱##脑电图异常"
+  },
+  {
+    "text": "右肾盂低级别乳头状尿路上皮癌",
+    "normalized_result": "肾盂恶性肿瘤##乳头状尿路上皮癌"
+  },
+  {
+    "text": "眶下软组织外伤",
+    "normalized_result": "眼和眶未特指的损伤"
+  },
+  {
+    "text": "乳腺肿瘤(化疗后)",
+    "normalized_result": "乳腺恶性肿瘤##化学治疗"
+  },
+  {
+    "text": "右上腹皮肤麻木",
+    "normalized_result": "皮肤感觉异常"
+  },
+  {
+    "text": "右肺胸水",
+    "normalized_result": "胸腔积液"
+  },
+  {
+    "text": "左中指及环指皮肤缺失伴坏死",
+    "normalized_result": "后天性单侧手指缺失##手坏死"
+  },
+  {
+    "text": "胚胎移植后宫内早孕合并宫外孕",
+    "normalized_result": "胚胎移植术后##异位妊娠"
+  },
+  {
+    "text": "脑梗死多发颅内血管狭窄",
+    "normalized_result": "脑梗死"
+  },
+  {
+    "text": "双股骨头AVN继发OA",
+    "normalized_result": "股骨头缺血性坏死##髋骨关节病"
+  },
+  {
+    "text": "子宫发育不全",
+    "normalized_result": "子宫发育不全"
+  },
+  {
+    "text": "腹腔广泛种植转移",
+    "normalized_result": "腹腔继发恶性肿瘤##广泛转移性肿瘤"
+  },
+  {
+    "text": "反复睡眠差鼻塞缺钙",
+    "normalized_result": "钙代谢紊乱"
+  },
+  {
+    "text": "抑郁伴躯体形式障碍未特指的",
+    "normalized_result": "抑郁发作##未特指的躯体形式障碍"
+  },
+  {
+    "text": "纵膈淋巴组织细胞增生",
+    "normalized_result": "淋巴组织增生"
+  },
+  {
+    "text": "降结肠溃疡型中分化腺癌",
+    "normalized_result": "降结肠恶性肿瘤##腺癌"
+  },
+  {
+    "text": "右上颌窦内翻乳头瘤术后",
+    "normalized_result": "鼻窦占位"
+  },
+  {
+    "text": "妊娠39+3周，胎儿宫内窘迫？",
+    "normalized_result": "孕39周"
+  },
+  {
+    "text": "（右侧附件）符合卵巢卵泡膜细胞瘤，输卵管未见肿瘤。",
+    "normalized_result": "卵巢良性肿瘤##泡膜细胞瘤"
+  },
+  {
+    "text": "腘动脉动脉瘤",
+    "normalized_result": "腘动脉瘤"
+  },
+  {
+    "text": "膀胱癌(高级别尿路上皮癌)",
+    "normalized_result": "尿路上皮癌##膀胱恶性肿瘤"
+  },
+  {
+    "text": "胆囊腺肌瘤",
+    "normalized_result": "胆囊肌腺症"
+  },
+  {
+    "text": "右肺下叶鳞状细胞癌",
+    "normalized_result": "右肺下叶恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "主动脉中度关闭不全伴轻度狭窄",
+    "normalized_result": "动脉狭窄##主动脉瓣关闭不全"
+  },
+  {
+    "text": "大肠肿物",
+    "normalized_result": "肠占位"
+  },
+  {
+    "text": "胎盘残留伴部分胎盘植入",
+    "normalized_result": "胎盘部分残留不伴出血##胎盘植入不伴出血"
+  },
+  {
+    "text": "右乳癌综合治疗后肝、骨转移 IV期",
+    "normalized_result": "乳腺恶性肿瘤##骨继发恶性肿瘤##肝继发恶性肿瘤##癌##转移性癌"
+  },
+  {
+    "text": "良性前列腺组织伴局部区域间质慢性炎",
+    "normalized_result": "慢性前列腺炎"
+  },
+  {
+    "text": "结膜炎;结膜下出血;白内障术后",
+    "normalized_result": "结膜炎##结膜下出血##白内障##眼术后"
+  },
+  {
+    "text": "右下肺中心型小细胞肺癌",
+    "normalized_result": "右肺下叶恶性肿瘤##小细胞癌"
+  },
+  {
+    "text": "食管中分化鳞形细胞癌",
+    "normalized_result": "食管恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "其他d左前额裂伤d",
+    "normalized_result": "前额开放性损伤"
+  },
+  {
+    "text": "皮肤瘙痒症待查老年瘙痒症可能",
+    "normalized_result": "瘙痒症"
+  },
+  {
+    "text": "前降支肌桥",
+    "normalized_result": "冠状动脉肌桥"
+  },
+  {
+    "text": "多形红斑性药物疹",
+    "normalized_result": "药物性红斑"
+  },
+  {
+    "text": "尿瘘术后",
+    "normalized_result": "尿道瘘##尿道术后"
+  },
+  {
+    "text": "继发性凝血障碍维生素K依赖性",
+    "normalized_result": "凝血功能障碍##维生素K缺乏"
+  },
+  {
+    "text": "脑病待诊",
+    "normalized_result": "脑病[器质性脑病]"
+  },
+  {
+    "text": "缺血性脑改变脑内多发缺血性改变",
+    "normalized_result": "脑血管供血不足"
+  },
+  {
+    "text": "鞭炮炸伤1%II°右前臂",
+    "normalized_result": "前臂开放性损伤##爆竹炸伤"
+  },
+  {
+    "text": "左肱二头肌腱断裂",
+    "normalized_result": "上肢肌肉肌腱断裂"
+  },
+  {
+    "text": "右乳病变不排除恶性待石蜡",
+    "normalized_result": "乳腺恶性肿瘤"
+  },
+  {
+    "text": "右距骨及第5趾骨基底部撕脱性骨折",
+    "normalized_result": "距骨骨折##指骨骨折"
+  },
+  {
+    "text": "右侧多囊卵巢",
+    "normalized_result": "卵巢多囊样改变"
+  },
+  {
+    "text": "右肺尖纤维硬结灶性质待查",
+    "normalized_result": "肺诊断性影像异常"
+  },
+  {
+    "text": "1型糖尿病性胃肠神经病变胃轻瘫",
+    "normalized_result": "1型糖尿病##糖尿病性胃轻瘫"
+  },
+  {
+    "text": "胃低分化腺癌",
+    "normalized_result": "胃恶性肿瘤##腺癌"
+  },
+  {
+    "text": "周围型肺癌可能大",
+    "normalized_result": "肺恶性肿瘤##癌"
+  },
+  {
+    "text": "右肺纤维硬结灶右肺肥大泡",
+    "normalized_result": "肺诊断性影像异常##肺大疱"
+  },
+  {
+    "text": "; 直肠癌术后; 内痔",
+    "normalized_result": "直肠术后##直肠恶性肿瘤##内痔##癌"
+  },
+  {
+    "text": "右侧DDHCroweIV型继发OA",
+    "normalized_result": "先天性髋关节发育不良##髋骨关节病"
+  },
+  {
+    "text": "SLE肺间质病变髋病变",
+    "normalized_result": "间质性肺病##系统性红斑狼疮"
+  },
+  {
+    "text": "双上眼睑血管瘤",
+    "normalized_result": "血管瘤"
+  },
+  {
+    "text": "狭颅症(额缝早闭)",
+    "normalized_result": "颅缝早闭"
+  },
+  {
+    "text": "右下叶肺癌",
+    "normalized_result": "右肺下叶恶性肿瘤##癌"
+  },
+  {
+    "text": "胃癌(伴转移)",
+    "normalized_result": "胃恶性肿瘤##癌"
+  },
+  {
+    "text": "淋巴继发恶性肿瘤",
+    "normalized_result": "淋巴结继发恶性肿瘤"
+  },
+  {
+    "text": "胸45椎体破坏伴截瘫",
+    "normalized_result": "截瘫[双下肢瘫痪]"
+  },
+  {
+    "text": "植物状态肌张力增高",
+    "normalized_result": "肌张力障碍"
+  },
+  {
+    "text": "门静脉及下腔静脉、左心房内癌栓。",
+    "normalized_result": "门静脉瘤栓##腔静脉瘤栓"
+  },
+  {
+    "text": "下咽癌合并胸中段食管癌",
+    "normalized_result": "下咽恶性肿瘤##食管胸中段恶性肿瘤##癌"
+  },
+  {
+    "text": "直肠下端占位？炎症？",
+    "normalized_result": "直肠占位性病变##直肠炎"
+  },
+  {
+    "text": "回盲部溃疡型中分化腺癌",
+    "normalized_result": "回盲部恶性肿瘤##腺癌"
+  },
+  {
+    "text": "腹腔淋巴结继发癌",
+    "normalized_result": "腹腔淋巴结继发恶性肿瘤##癌"
+  },
+  {
+    "text": "溃疡癌变",
+    "normalized_result": "溃疡癌变"
+  },
+  {
+    "text": "风心瓣膜病，AI（中-重）MS轻-中TIA过后，",
+    "normalized_result": "风湿性心脏病##心脏瓣膜病##短暂性脑缺血发作##多发性硬化"
+  },
+  {
+    "text": "肝曲横结肠管状腺瘤低级别局灶高级别",
+    "normalized_result": "管状腺瘤##结肠肝曲良性肿瘤"
+  },
+  {
+    "text": "多动症.铅高",
+    "normalized_result": "注意缺陷与多动障碍##铅中毒"
+  },
+  {
+    "text": "扁桃体占位",
+    "normalized_result": "口腔和咽喉部占位"
+  },
+  {
+    "text": "关节肿大待查粘多糖病",
+    "normalized_result": "关节肿胀##粘多糖贮积病"
+  },
+  {
+    "text": "腹盆腔淋巴结继发恶性肿瘤",
+    "normalized_result": "腹腔淋巴结继发恶性肿瘤##腹腔淋巴结继发恶性肿瘤"
+  },
+  {
+    "text": "脑内多发腔隙灶老年性脑改变",
+    "normalized_result": "腔隙性脑梗死"
+  },
+  {
+    "text": "高血压糖尿病上感",
+    "normalized_result": "高血压##糖尿病##上呼吸道感染"
+  },
+  {
+    "text": "臀先露前置血管帆状胎盘可能",
+    "normalized_result": "前置胎盘##妊娠合并帆状胎盘"
+  },
+  {
+    "text": "双下肢静脉曲张伴溃疡",
+    "normalized_result": "静脉曲张合并溃疡"
+  },
+  {
+    "text": "工伤综合征",
+    "normalized_result": "工作中的意外损伤"
+  },
+  {
+    "text": "淤血性脾肿大灶性钙盐沉积",
+    "normalized_result": "脾大##钙质沉着症"
+  },
+  {
+    "text": "首诊房颤",
+    "normalized_result": "心房颤动[心房纤颤]"
+  },
+  {
+    "text": "宫内环白带异常",
+    "normalized_result": "具有子宫内避孕装置"
+  },
+  {
+    "text": "\"宫颈癌 肠镜检查 肠道准备 肠镜麻醉,焦虑抑郁状态伴失眠，神经痛\"",
+    "normalized_result": "子宫颈恶性肿瘤##焦虑状态##抑郁状态##失眠##神经痛##癌"
+  },
+  {
+    "text": "垂体机能减退综合征Simmond病",
+    "normalized_result": "腺垂体功能减退症"
+  },
+  {
+    "text": "右拇指离断伤",
+    "normalized_result": "拇指创伤性切断(完全)(部分)"
+  },
+  {
+    "text": "甲状腺癌伴肺M内放疗三程后",
+    "normalized_result": "甲状腺恶性肿瘤##癌##肺继发恶性肿瘤##恶性肿瘤放疗##转移性癌"
+  },
+  {
+    "text": "痛经，IUD",
+    "normalized_result": "痛经##具有子宫内避孕装置"
+  },
+  {
+    "text": "多发性梗塞椎基底A供血不足",
+    "normalized_result": "椎-基底动脉供血不全"
+  },
+  {
+    "text": "病毒性肝炎慢性乙肝",
+    "normalized_result": "慢性乙型病毒性肝炎"
+  },
+  {
+    "text": "副脾符合副脾伴淤血性肿大",
+    "normalized_result": "先天性副脾##脾大"
+  },
+  {
+    "text": "F2胎儿FGR合并多发结构异常",
+    "normalized_result": "胎儿生长受限"
+  },
+  {
+    "text": "多脏器功能不全累及脑循环心肝肾胃肠代谢",
+    "normalized_result": "多脏器功能障碍综合征[MODS]"
+  },
+  {
+    "text": "偶发房性期前收缩[房性早搏]",
+    "normalized_result": "房性期前收缩[房性早搏]"
+  },
+  {
+    "text": "肾发育不良",
+    "normalized_result": "肾发育不全"
+  },
+  {
+    "text": "左腿肌纤维组织炎性坏死",
+    "normalized_result": "坏死性肌炎"
+  },
+  {
+    "text": "先天性三尖瓣发育不良",
+    "normalized_result": "三尖瓣发育异常"
+  },
+  {
+    "text": "疑右臀上皮下血肿机化",
+    "normalized_result": "血肿机化"
+  },
+  {
+    "text": "右基底节梗塞灶亚急性左基底节陈旧",
+    "normalized_result": "基底节脑梗死"
+  },
+  {
+    "text": "肢体无力原因格林巴利综合征",
+    "normalized_result": "肢体无力##吉兰-巴雷综合征"
+  },
+  {
+    "text": "舌根鳞状细胞癌",
+    "normalized_result": "舌根恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "发育不全",
+    "normalized_result": "先天性发育异常"
+  },
+  {
+    "text": "胸腰椎多发压缩性骨折",
+    "normalized_result": "胸椎压缩性骨折##腰椎压缩性骨折"
+  },
+  {
+    "text": "带状疱疹性耳炎",
+    "normalized_result": "带状疱疹伴有其他并发症"
+  },
+  {
+    "text": "盆底功能障碍性疾病阴道穹隆膨出Ⅳ度",
+    "normalized_result": "阴道脱垂##盆底功能障碍"
+  },
+  {
+    "text": "右肾结节查因错构瘤",
+    "normalized_result": "肾错构瘤##肾占位性病变"
+  },
+  {
+    "text": "老年性精神病认知功能障碍老年性",
+    "normalized_result": "精神障碍##认知障碍"
+  },
+  {
+    "text": "左膝皮肤破裂伤",
+    "normalized_result": "下肢撕裂伤"
+  },
+  {
+    "text": "双卵巢中分化腺癌",
+    "normalized_result": "卵巢恶性肿瘤##腺癌"
+  },
+  {
+    "text": "眼球病变",
+    "normalized_result": "分类于他处的疾病引起的玻璃体和眼球的其他疾患"
+  },
+  {
+    "text": "盲肠肝曲横结肠远段管状腺瘤",
+    "normalized_result": "管状腺瘤##横结肠良性肿瘤##盲肠良性肿瘤##结肠肝曲良性肿瘤"
+  },
+  {
+    "text": "异位肾伴旋转不良伴巨输尿管右侧",
+    "normalized_result": "肾异位##先天性肾旋转不良##先天性巨输尿管"
+  },
+  {
+    "text": "右肩胛骨4期压疮截肢残端多处3期压疮",
+    "normalized_result": "截肢"
+  },
+  {
+    "text": "右侧臂丛神经断裂",
+    "normalized_result": "臂丛神经损伤##神经断裂"
+  },
+  {
+    "text": "左侧少量胸水考虑结核性",
+    "normalized_result": "结核性胸腔积液"
+  },
+  {
+    "text": "放疗后继发不适",
+    "normalized_result": "放射治"
+  },
+  {
+    "text": "左肺部块影待查：肺恶性肿瘤？肺炎？肺结核？",
+    "normalized_result": "肺部阴影##左肺恶性肿瘤##肺炎##肺结核"
+  },
+  {
+    "text": "Q64800泌尿系统的特指先天性畸形",
+    "normalized_result": "泌尿系统未特指的先天性畸形"
+  },
+  {
+    "text": "双肾多发囊肿伴部分出血",
+    "normalized_result": "肾囊肿"
+  },
+  {
+    "text": "贲门鳞癌",
+    "normalized_result": "贲门恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "绒癌化疗后",
+    "normalized_result": "绒毛膜癌##化学治疗"
+  },
+  {
+    "text": "右股骨骨折术后1年余无畸形无发热",
+    "normalized_result": "股骨骨折##骨折术后"
+  },
+  {
+    "text": "左髋痛胸腰畸形;骨质疏松",
+    "normalized_result": "下肢疼痛##骨质疏松##脊柱畸形"
+  },
+  {
+    "text": "糖尿病并泌尿系感染",
+    "normalized_result": "泌尿系感染##糖尿病"
+  },
+  {
+    "text": "冠状动脉粥样硬化性心脏病;支架植入术后状态;高脂血症;高血压;周围神经病;感冒",
+    "normalized_result": "冠状动脉粥样硬化性心脏病##冠状动脉支架植入术后状态##高脂血症##高血压##多发性神经病[多发性神经炎/周围神经炎]##感冒"
+  },
+  {
+    "text": "多处皮肤擦挫伤、多处软组织伤",
+    "normalized_result": "多处皮肤浅表擦伤##多处皮肤浅表挫伤##多处损伤"
+  },
+  {
+    "text": "新生儿狼疮",
+    "normalized_result": "新生儿狼疮综合征"
+  },
+  {
+    "text": "待查右侧睾丸增大稍膜积水",
+    "normalized_result": "鞘膜积液"
+  },
+  {
+    "text": "苍白球钙化",
+    "normalized_result": "脑钙化"
+  },
+  {
+    "text": "痉挛发作",
+    "normalized_result": "痉挛"
+  },
+  {
+    "text": "心脏起搏器更换电池",
+    "normalized_result": "心脏起搏器调整和管理"
+  },
+  {
+    "text": "右前臂皮下血肿伴机化",
+    "normalized_result": "血肿机化"
+  },
+  {
+    "text": "继发性不孕子宫输卵管碘油造影预防抗炎",
+    "normalized_result": "继发不孕"
+  },
+  {
+    "text": "右侧乳腺积乳囊肿",
+    "normalized_result": "乳液囊肿"
+  },
+  {
+    "text": "右食指创伤性软组织缺损伴甲床缺损",
+    "normalized_result": "后天性指缺损"
+  },
+  {
+    "text": "头晕心悸待查：高血压;椎-基底动脉供血不全;冠心病心律失常型;心绞痛",
+    "normalized_result": "头晕##心悸##高血压##椎-基底动脉供血不全##冠心病心律失常型##心绞痛"
+  },
+  {
+    "text": "原发性支气管肺癌(左肺腺癌 cT3N1M1a(胸膜) IVA期 EGFR野生型 HER-2(E20第771-774杂合性",
+    "normalized_result": "左肺恶性肿瘤##腺癌##胸膜继发恶性肿瘤"
+  },
+  {
+    "text": "双下肢无力原因待查腰椎病所致可能性大",
+    "normalized_result": "肢体无力##腰椎病"
+  },
+  {
+    "text": "胆石症伴慢性胆囊炎",
+    "normalized_result": "胆石症##慢性胆囊炎"
+  },
+  {
+    "text": "盲肠降结肠符合管状腺瘤",
+    "normalized_result": "盲肠良性肿瘤##降结肠良性肿瘤##管状腺瘤"
+  },
+  {
+    "text": "胎儿盆腔异位肾可能",
+    "normalized_result": "肾异位"
+  },
+  {
+    "text": "舌腹血管畸形",
+    "normalized_result": "舌血管畸形"
+  },
+  {
+    "text": "回肠双腔造瘘术后",
+    "normalized_result": "回肠造口状态"
+  },
+  {
+    "text": "卵巢良性畸胎瘤",
+    "normalized_result": "卵巢良性肿瘤##良性畸胎瘤"
+  },
+  {
+    "text": "回盲部肠管坏死并破裂",
+    "normalized_result": "肠坏死##肠破裂"
+  },
+  {
+    "text": "腰45椎间盘突出",
+    "normalized_result": "腰椎间盘突出"
+  },
+  {
+    "text": "咳嗽变异性哮喘？支气管炎，百日咳综合症？",
+    "normalized_result": "咳嗽变异型哮喘##支气管炎##百日咳"
+  },
+  {
+    "text": "左膝关节软组织挫伤",
+    "normalized_result": "膝部挫伤"
+  },
+  {
+    "text": "双手麻木僵硬原因右膝OA",
+    "normalized_result": "单侧膝关节骨性关节病"
+  },
+  {
+    "text": "慢性静脉功能不全",
+    "normalized_result": "静脉功能不全(慢性)(周围性)"
+  },
+  {
+    "text": "停经宫内囊样结构待查",
+    "normalized_result": "子宫囊肿##停经"
+  },
+  {
+    "text": "周围神经病变右侧腋神经正中神经尺神经损害",
+    "normalized_result": "多发性神经病[多发性神经炎/周围神经炎]##尺神经损害##正中神经损害##腋神经损伤"
+  },
+  {
+    "text": "左侧膝关节放疗后",
+    "normalized_result": "放射治疗"
+  },
+  {
+    "text": "T1012椎体压缩性骨折病理性骨折不除外",
+    "normalized_result": "胸椎压缩性骨折##病理性骨折"
+  },
+  {
+    "text": "龈口炎",
+    "normalized_result": "龈炎##口炎"
+  },
+  {
+    "text": "肺癌(骨转移)",
+    "normalized_result": "肺恶性肿瘤##癌##骨继发恶性肿瘤##转移性癌"
+  },
+  {
+    "text": "不育睾丸内硬结",
+    "normalized_result": "男性不育症##睾丸结节"
+  },
+  {
+    "text": "乘坐客车时翻车导致头胸腹部被撞击致伤",
+    "normalized_result": "头部损伤##胸部损伤##腹部损伤"
+  },
+  {
+    "text": "双侧基底节区及额叶多发腔隙灶老年脑改变",
+    "normalized_result": "腔隙性脑梗死"
+  },
+  {
+    "text": "左面神经疾患左面神经功能亢进",
+    "normalized_result": "未特指的面神经疾患##面神经功能障碍"
+  },
+  {
+    "text": "右手中指陈旧性外伤性末节缺损",
+    "normalized_result": "创伤性手指缺如"
+  },
+  {
+    "text": "膨胀纹cushing综合症",
+    "normalized_result": "皮质醇增多症[库欣综合征]"
+  },
+  {
+    "text": "胫骨骨样骨瘤",
+    "normalized_result": "胫骨良性肿瘤##骨样骨瘤"
+  },
+  {
+    "text": "指甲破损并脱位",
+    "normalized_result": "甲脱离"
+  },
+  {
+    "text": "左大腿被他人踢伤",
+    "normalized_result": "大腿损伤##被别人殴打、踢、拧、咬或抓伤"
+  },
+  {
+    "text": "肝继发性恶性肿瘤介入治疗",
+    "normalized_result": "肝继发恶性肿瘤##恶性肿瘤介入治疗"
+  },
+  {
+    "text": "表皮肿物感染",
+    "normalized_result": "感染"
+  },
+  {
+    "text": "右眼下睑内翻倒睫",
+    "normalized_result": "倒睫"
+  },
+  {
+    "text": "食管胃底静脉重度曲张",
+    "normalized_result": "胃底静脉曲张##食管静脉曲张"
+  },
+  {
+    "text": "痛风别嘌醇过敏",
+    "normalized_result": "痛风##激素药物反应"
+  },
+  {
+    "text": "卵巢乳头腺液性腺癌术后",
+    "normalized_result": "卵巢术后##乳头状浆液性腺癌##卵巢恶性肿瘤"
+  },
+  {
+    "text": "甲状腺双侧叶乳头状癌",
+    "normalized_result": "甲状腺乳头状癌##甲状腺恶性肿瘤"
+  },
+  {
+    "text": "上纵隔异常密度影",
+    "normalized_result": "其他特指身体结构诊断性影像检查的异常所见"
+  },
+  {
+    "text": "弥漫性大B细胞癌",
+    "normalized_result": "弥漫大B细胞淋巴瘤"
+  },
+  {
+    "text": "消化不良(+内脏感觉过敏)",
+    "normalized_result": "消化不良"
+  },
+  {
+    "text": "冠心病高血压病高脂血症",
+    "normalized_result": "冠状动脉粥样硬化性心脏病##高血压##高脂血症"
+  },
+  {
+    "text": "高血压。冠心病。咳嗽。咽痛。腰腿痛。失眠。头晕",
+    "normalized_result": "高血压##冠状动脉粥样硬化性心脏病##咳嗽##咽痛##下肢疼痛##腰痛##失眠##头晕"
+  },
+  {
+    "text": "低锌低铁",
+    "normalized_result": "锌缺乏##铁缺乏"
+  },
+  {
+    "text": "鼻骨骨折鼻外伤",
+    "normalized_result": "鼻骨骨折"
+  },
+  {
+    "text": "胃弥漫大B细胞型生发中心B细胞来源",
+    "normalized_result": "胃恶性肿瘤##弥漫大B细胞淋巴瘤"
+  },
+  {
+    "text": "右乳增生病伴纤维腺瘤",
+    "normalized_result": "乳腺良性肿瘤##纤维腺瘤##乳腺增生"
+  },
+  {
+    "text": "颈肌筋膜炎",
+    "normalized_result": "筋膜炎"
+  },
+  {
+    "text": "AECOPD肺心衰右侧包裹性胸水",
+    "normalized_result": "慢性阻塞性肺疾病急性加重##包裹性胸腔积液##心力衰竭"
+  },
+  {
+    "text": "停经245周B超提示胎儿上腔静脉走形迂曲",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "头晕胀痛",
+    "normalized_result": "头晕##头痛"
+  },
+  {
+    "text": "子宫内膜癌糖尿病 高血压",
+    "normalized_result": "子宫内膜恶性肿瘤##癌##糖尿病##高血压"
+  },
+  {
+    "text": "冠心病;失眠;慢性喘息性支气管炎",
+    "normalized_result": "冠状动脉粥样硬化性心脏病##失眠##O"
+  },
+  {
+    "text": "绝经前后诸症手麻手痒眼干",
+    "normalized_result": "干眼症"
+  },
+  {
+    "text": "胃肠息肉病待排",
+    "normalized_result": "胃息肉##肠息肉"
+  },
+  {
+    "text": "卵巢类癌",
+    "normalized_result": "类癌瘤"
+  },
+  {
+    "text": "升结肠1符合管状腺瘤升结肠2管状腺瘤",
+    "normalized_result": "升结肠良性肿瘤##管状腺瘤"
+  },
+  {
+    "text": "先天性上脸下垂",
+    "normalized_result": "先天性上睑下垂"
+  },
+  {
+    "text": "低度鳞状上皮内病变HPV高危型35阳性",
+    "normalized_result": "人乳头瘤病毒感染"
+  },
+  {
+    "text": "右下肢浮肿待查淋巴回流障碍可能",
+    "normalized_result": "淋巴回流障碍##下肢水肿"
+  },
+  {
+    "text": "包皮新生物",
+    "normalized_result": "皮赘"
+  },
+  {
+    "text": "右肺小细胞癌化疗后伽玛刀治疗后",
+    "normalized_result": "右肺恶性肿瘤##小细胞癌##化学治疗"
+  },
+  {
+    "text": "慢性肾衰竭尿毒症期CKD5期痛风性肾病",
+    "normalized_result": "\"慢性肾脏病,5期##痛风性肾病\""
+  },
+  {
+    "text": "慢性非特异性溃疡性结肠炎",
+    "normalized_result": "溃疡性结肠炎"
+  },
+  {
+    "text": "左半结肠中低化腺癌PT4AN0MXⅡB期",
+    "normalized_result": "结肠恶性肿瘤##腺癌"
+  },
+  {
+    "text": "肺浸润性腺癌",
+    "normalized_result": "肺继发恶性肿瘤##腺癌"
+  },
+  {
+    "text": "副乳腺腺病",
+    "normalized_result": "副乳腺腺病"
+  },
+  {
+    "text": "右肘游离体创伤性OA",
+    "normalized_result": "肘关节内游离体##肘骨关节病"
+  },
+  {
+    "text": "右卵巢浆液性腺癌",
+    "normalized_result": "卵巢恶性肿瘤##浆液性腺癌"
+  },
+  {
+    "text": "胎儿生长发育受限刘鹤莺",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "乳糜胸腹水",
+    "normalized_result": "乳糜胸##腹水"
+  },
+  {
+    "text": "急性T淋巴细胞白血病伴髓系表达",
+    "normalized_result": "T淋巴细胞和髓系混合表型急性白血病"
+  },
+  {
+    "text": "MODS肝肾心功能损害DIC",
+    "normalized_result": "多脏器功能障碍综合征[MODS]##弥散性血管内凝血"
+  },
+  {
+    "text": "咽鼓管开放症左咽鼓管功能不良",
+    "normalized_result": "咽鼓管未特指的疾患"
+  },
+  {
+    "text": "前交叉韧带断裂术后",
+    "normalized_result": "膝关节前十字韧带完全断裂"
+  },
+  {
+    "text": "\"左肺周围型小细胞肺癌广泛期放化疗 ,胃镜检查 置管,无法进食\"",
+    "normalized_result": "左肺恶性肿瘤##小细胞癌##放射治疗##化学治疗"
+  },
+  {
+    "text": "颏部瘘道原因缝线反应",
+    "normalized_result": "皮肤瘘管"
+  },
+  {
+    "text": "脑内少量小脱髓鞘斑",
+    "normalized_result": "脱髓鞘性脑病"
+  },
+  {
+    "text": "口腔黏膜恶性肿瘤晚期",
+    "normalized_result": "口腔黏膜恶性肿瘤"
+  },
+  {
+    "text": "胸主动脉夹层(DE BAKEYⅢ型)",
+    "normalized_result": "主动脉夹层B型"
+  },
+  {
+    "text": "左示指皮肤缺失甲床缺损骨外露",
+    "normalized_result": "皮肤缺损"
+  },
+  {
+    "text": "\"左侧乳腺癌术后,双肺转移\"",
+    "normalized_result": "乳腺术后##乳腺恶性肿瘤##癌##肺继发恶性肿瘤##转移性癌"
+  },
+  {
+    "text": "左膝关节腘窝囊肿",
+    "normalized_result": "膝关节囊肿##腘窝囊肿"
+  },
+  {
+    "text": "右肺上叶小细胞癌维持性化学治疗",
+    "normalized_result": "右肺上叶恶性肿瘤##小细胞癌##恶性肿瘤维持性化学治疗"
+  },
+  {
+    "text": "左眼神经损伤",
+    "normalized_result": "身体未特指部位的神经损伤"
+  },
+  {
+    "text": "会厌肿物",
+    "normalized_result": "喉肿物"
+  },
+  {
+    "text": "停经312周B超提示胎儿双侧肾窦分离轻度",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "右肺中叶鳞状细胞癌",
+    "normalized_result": "右肺中叶恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "乳腺多处恶性肿瘤",
+    "normalized_result": "乳腺恶性肿瘤"
+  },
+  {
+    "text": "右侧肢体发僵流涎待查",
+    "normalized_result": "流涎症##肢体僵硬"
+  },
+  {
+    "text": "亚急性皮肤型红斑狼疮",
+    "normalized_result": "皮肤红斑狼疮"
+  },
+  {
+    "text": "胸髓病变并不全性截瘫",
+    "normalized_result": "不完全性瘫痪##截瘫[双下肢瘫痪]"
+  },
+  {
+    "text": "左踝创伤性下垂足",
+    "normalized_result": "踝关节损伤##足畸形"
+  },
+  {
+    "text": "语言功能障碍",
+    "normalized_result": "言语和语言发育障碍"
+  },
+  {
+    "text": "结肠crohn病",
+    "normalized_result": "未特指的克罗恩病"
+  },
+  {
+    "text": "先天性喉软骨发育不良(轻度)",
+    "normalized_result": "先天性喉发育不全"
+  },
+  {
+    "text": "女性不育症与宫角阻塞有关",
+    "normalized_result": "子宫起因的女性不孕症"
+  },
+  {
+    "text": "右肺下叶硬结灶双肺下叶间质改变",
+    "normalized_result": "肺诊断性影像异常"
+  },
+  {
+    "text": "\"左肺不典型类癌,骨转移？\"",
+    "normalized_result": "左肺恶性肿瘤##骨继发恶性肿瘤##类癌瘤##转移性类癌"
+  },
+  {
+    "text": "妊娠期B族链球菌感染",
+    "normalized_result": "链球菌感染##妊娠状态"
+  },
+  {
+    "text": "小脑扁桃体下疝伴脊髓空洞",
+    "normalized_result": "脊髓空洞症##小脑扁桃体下疝畸形[Arnold-Chiari综合征]"
+  },
+  {
+    "text": "胰腺副肿瘤神经系统综合征",
+    "normalized_result": "神经系统副肿瘤综合征"
+  },
+  {
+    "text": "酒精火焰烧伤双上肢",
+    "normalized_result": "上肢烧伤##火焰烧伤"
+  },
+  {
+    "text": "抽搐查因继发性癫痫",
+    "normalized_result": "抽搐状态##症状性癫痫[继发性癫痫]"
+  },
+  {
+    "text": "右输尿管结石并肾积水",
+    "normalized_result": "肾积水伴输尿管结石"
+  },
+  {
+    "text": "西医1后循环缺血2左侧椎动脉发育变异",
+    "normalized_result": "后循环缺血"
+  },
+  {
+    "text": "周围神经病变桡神经病变右侧",
+    "normalized_result": "多发性神经病[多发性神经炎/周围神经炎]"
+  },
+  {
+    "text": "二性症发育不佳",
+    "normalized_result": "第二性征发育不全"
+  },
+  {
+    "text": "chiari畸型I型并骨髓空洞",
+    "normalized_result": "小脑扁桃体下疝畸形[Arnold-Chiari综合征]##脊髓空洞症"
+  },
+  {
+    "text": "2型糖尿病并肾病（尿毒症期）",
+    "normalized_result": "2型糖尿病肾病V期"
+  },
+  {
+    "text": "左冠前降支心肌桥伴粥样硬化斑块",
+    "normalized_result": "冠状动脉肌桥##冠状动脉粥样硬化"
+  },
+  {
+    "text": "腰椎间多发盘膨出",
+    "normalized_result": "腰椎间盘突出"
+  },
+  {
+    "text": "颈椎硬膜外血肿并截瘫",
+    "normalized_result": "未特指的截瘫##硬脊膜外血肿"
+  },
+  {
+    "text": "双侧跟骨刺",
+    "normalized_result": "跟骨骨质增生[跟骨骨刺]"
+  },
+  {
+    "text": "右乳头乳晕Paget's病",
+    "normalized_result": "乳房佩吉特病##乳晕恶性肿瘤##乳头恶性肿瘤"
+  },
+  {
+    "text": "个矮",
+    "normalized_result": "身材矮小症"
+  },
+  {
+    "text": "右肾及输尿管结石",
+    "normalized_result": "肾输尿管结石"
+  },
+  {
+    "text": "子宫内膜息肉术后",
+    "normalized_result": "子宫内膜息肉##子宫术后"
+  },
+  {
+    "text": "肿瘤术后免疫治疗",
+    "normalized_result": "恶性肿瘤术后免疫治疗"
+  },
+  {
+    "text": "前列腺癌T3bN0M1",
+    "normalized_result": "前列腺恶性肿瘤##癌"
+  },
+  {
+    "text": "乳腺分叶状肿瘤",
+    "normalized_result": "叶状瘤"
+  },
+  {
+    "text": "主动脉弓缩窄CHF",
+    "normalized_result": "主动脉弓狭窄##充血性心力衰竭"
+  },
+  {
+    "text": "右上肺继发性支扩复诊继发性肺纤维化",
+    "normalized_result": "支气管扩张症##肺纤维化"
+  },
+  {
+    "text": "从房屋或建筑结构上跌落或跌出",
+    "normalized_result": "自高处坠落"
+  },
+  {
+    "text": "右肱骨内上髁炎",
+    "normalized_result": "内侧上髁炎"
+  },
+  {
+    "text": "32cm结肠绒毛状管状腺瘤低级别",
+    "normalized_result": "结肠良性肿瘤##管状绒毛状腺瘤"
+  },
+  {
+    "text": "脑干出血后遗症期",
+    "normalized_result": "脑出血后遗症"
+  },
+  {
+    "text": "右手发麻待查桡神经病变",
+    "normalized_result": "桡神经损害"
+  },
+  {
+    "text": "卵巢交界瘤术后复查",
+    "normalized_result": "卵巢交界性肿瘤##卵巢术后"
+  },
+  {
+    "text": "巧囊术后",
+    "normalized_result": "卵巢巧克力样囊肿##卵巢术后"
+  },
+  {
+    "text": "皮肤瘙痒症，甲减，类风湿性关节炎",
+    "normalized_result": "瘙痒(症)##甲状腺功能减退##类风湿性关节炎"
+  },
+  {
+    "text": "上肢原位黑色素瘤",
+    "normalized_result": "上肢原位黑色素瘤##原位黑色素瘤"
+  },
+  {
+    "text": "粒细胞缺乏伴肺部感染",
+    "normalized_result": "粒细胞缺乏##肺部感染"
+  },
+  {
+    "text": "双眼屈光不正；黄斑病变；双眼糖尿病眼底病变",
+    "normalized_result": "屈光不正##O##糖尿病性视网膜病变"
+  },
+  {
+    "text": "十二指肠转移",
+    "normalized_result": "转移性肿瘤##十二指肠继发恶性肿瘤"
+  },
+  {
+    "text": "右肾小错构瘤",
+    "normalized_result": "肾错构瘤"
+  },
+  {
+    "text": "颅内多发囊虫1纵裂池囊虫",
+    "normalized_result": "未特指的囊虫病"
+  },
+  {
+    "text": "双侧股骨头置换术后",
+    "normalized_result": "人工关节术后"
+  },
+  {
+    "text": "左眼视网膜剥脱失明",
+    "normalized_result": "视网膜脱离##单眼盲"
+  },
+  {
+    "text": "糖尿病高血压糖尿病神经病变",
+    "normalized_result": "高血压##糖尿病##糖尿病伴神经系统并发症"
+  },
+  {
+    "text": "右顶部良性脑膜瘤",
+    "normalized_result": "脑膜瘤"
+  },
+  {
+    "text": "食管髓质型鳞状细胞癌",
+    "normalized_result": "食管恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "白内障(右眼术后)",
+    "normalized_result": "白内障##眼术后"
+  },
+  {
+    "text": "符合横结肠低级别绒毛管状腺瘤",
+    "normalized_result": "横结肠良性肿瘤##管状绒毛状腺瘤"
+  },
+  {
+    "text": "扩张型心肌病心律失常：持续性室速慢性心功能不全NYHAIII-IV级",
+    "normalized_result": "扩张性心肌病[充血性心肌病]##心律失常##持续性室性心动过速##心功能III级(NYHA分级)##心功能IV级(NYHA分级)"
+  },
+  {
+    "text": "WHO肺高压心功能分级II级",
+    "normalized_result": "心功能Ⅱ级(NYHA分级)##肺动脉高压"
+  },
+  {
+    "text": "海马变性硬化",
+    "normalized_result": "大脑变性##海马硬化[颞叶内侧硬化]"
+  },
+  {
+    "text": "未分化多形性肉瘤",
+    "normalized_result": "肉瘤"
+  },
+  {
+    "text": "深静脉血栓形成后综合征（左下肢）",
+    "normalized_result": "下肢深静脉血栓形成"
+  },
+  {
+    "text": "冠心病不稳定性心绞痛陈旧心梗",
+    "normalized_result": "冠状动脉粥样硬化性心脏病##不稳定性心绞痛##陈旧性心肌梗死"
+  },
+  {
+    "text": "前列腺癌近距离治疗术后",
+    "normalized_result": "前列腺恶性肿瘤##癌"
+  },
+  {
+    "text": "双手麻木原因末梢神经病",
+    "normalized_result": "末梢神经病[末梢神经炎]"
+  },
+  {
+    "text": "右上肢尺桡骨折",
+    "normalized_result": "桡骨骨折##尺骨骨折"
+  },
+  {
+    "text": "甲状腺机能亢进-甲状腺机能减退综合征",
+    "normalized_result": "甲状腺功能亢进症##甲状腺功能减退"
+  },
+  {
+    "text": "车祸伤，左胫骨下段骨折",
+    "normalized_result": "胫骨远端骨折"
+  },
+  {
+    "text": "阑尾腺癌",
+    "normalized_result": "阑尾恶性肿瘤##腺癌"
+  },
+  {
+    "text": "右腋窝异物院外术后伤口感染",
+    "normalized_result": "手术后切口感染"
+  },
+  {
+    "text": "直肠术后化疗",
+    "normalized_result": "恶性肿瘤术后化疗"
+  },
+  {
+    "text": "\"多发性骨髓瘤(LAM轻链型),D-S分期IIIB期,ISS分期III期\"",
+    "normalized_result": "多发性骨髓瘤(轻链λ型)##多发性骨髓瘤(ISS分期III期)##多发性骨髓瘤(DS分期III期B组)"
+  },
+  {
+    "text": "肝内胆管同描述符合Caroli`s病改变",
+    "normalized_result": "先天性肝内胆管囊状扩张症[Caroli病]"
+  },
+  {
+    "text": "左束支传导组织阻滞",
+    "normalized_result": "左束支传导阻滞"
+  },
+  {
+    "text": "右侧颈内透析隧道导管脱出",
+    "normalized_result": "透析导管引起的机械性并发症"
+  },
+  {
+    "text": "口腔软组织挫伤",
+    "normalized_result": "口腔和咽喉部损伤"
+  },
+  {
+    "text": "LOA剖一男活婴持续性枕横位",
+    "normalized_result": "经未特指的剖宫产术分娩"
+  },
+  {
+    "text": "多脏器功能不全肝肾肌酶凝血",
+    "normalized_result": "多脏器功能障碍综合征[MODS]"
+  },
+  {
+    "text": "右颊粘膜舌尖及下唇扁平苔藓",
+    "normalized_result": "口腔扁平苔癣##舌扁平苔癣"
+  },
+  {
+    "text": "鼻部皮肤裂伤",
+    "normalized_result": "鼻部开放性损伤"
+  },
+  {
+    "text": "胎儿异位融合肾",
+    "normalized_result": "肾异位##融合肾"
+  },
+  {
+    "text": "双输尿管积水",
+    "normalized_result": "输尿管积水"
+  },
+  {
+    "text": "右肺癌放化疗后",
+    "normalized_result": "右肺恶性肿瘤##化学治疗##恶性肿瘤放疗"
+  },
+  {
+    "text": "表皮肥厚伴灶性棘层肥厚",
+    "normalized_result": "其他表皮肥厚"
+  },
+  {
+    "text": "左胫骨假关节",
+    "normalized_result": "骨折不连接[假关节]"
+  },
+  {
+    "text": "右跟腱断裂伴撕脱骨折",
+    "normalized_result": "跟腱断裂##跟骨骨折"
+  },
+  {
+    "text": "胃窦癌中分化腺癌",
+    "normalized_result": "胃窦恶性肿瘤##腺癌"
+  },
+  {
+    "text": "\"左卵巢高级别浆液性癌,甲状腺功能低下,失眠 关节疼痛,严重骨质疏松,失眠,便秘\"",
+    "normalized_result": "卵巢恶性肿瘤##浆液性癌##甲状腺功能减退##失眠##关节痛##重度骨质疏松##失眠##便秘"
+  },
+  {
+    "text": "\"食管癌抗过敏,胃镜检查预防出血,抗过敏化疗肝损伤,化疗预处理,水肿利尿,化疗呕吐,反流性食道炎伴溃疡\"",
+    "normalized_result": "食管恶性肿瘤##化疗药物反应##肝损伤##水肿##化疗药物反应##呕吐##反流性食管炎##食管溃疡##癌"
+  },
+  {
+    "text": "子宫偏小PCOS",
+    "normalized_result": "多囊卵巢综合征[Stein-Leventhal综合征]"
+  },
+  {
+    "text": "右胸腰部软组织裂口",
+    "normalized_result": "胸部开放性损伤##下背开放性损伤"
+  },
+  {
+    "text": "左口角粘膜包块",
+    "normalized_result": "口腔肿物"
+  },
+  {
+    "text": "右侧乳房溢血",
+    "normalized_result": "乳头溢液"
+  },
+  {
+    "text": "左侧泌尿系结石碎石后，腰疼待查;",
+    "normalized_result": "泌尿系结石##腰痛"
+  },
+  {
+    "text": "电解质代谢紊乱低钾低钠低氯血症",
+    "normalized_result": "电解质紊乱##低钠血症##低钾血症##低氯血症"
+  },
+  {
+    "text": "髋关节肌腱膜炎",
+    "normalized_result": "肌腱炎"
+  },
+  {
+    "text": "右面部红肿痒疑过敏",
+    "normalized_result": "过敏反应"
+  },
+  {
+    "text": "左眼睑挫裂伤",
+    "normalized_result": "眼睑裂伤##眼睑挫伤"
+  },
+  {
+    "text": "纵隔癌",
+    "normalized_result": "纵隔恶性肿瘤##癌"
+  },
+  {
+    "text": "肩背冷痛月经先期",
+    "normalized_result": "背痛##肩痛"
+  },
+  {
+    "text": "糖尿病并血管病変",
+    "normalized_result": "糖尿病"
+  },
+  {
+    "text": "骨关节病OA",
+    "normalized_result": "骨关节病"
+  },
+  {
+    "text": "膀胱mt术后",
+    "normalized_result": "膀胱恶性肿瘤##膀胱术后"
+  },
+  {
+    "text": "胎盘后低回声团胎盘早剥",
+    "normalized_result": "胎盘早期剥离"
+  },
+  {
+    "text": "鼻咽右侧壁高分化粘液表皮样癌",
+    "normalized_result": "鼻咽侧壁恶性肿瘤##粘液表皮样癌"
+  },
+  {
+    "text": "胸12椎体陈旧性病变",
+    "normalized_result": "脊椎病"
+  },
+  {
+    "text": "体检先心（房间隔缺损）",
+    "normalized_result": "房间隔缺损"
+  },
+  {
+    "text": "牙龈损伤",
+    "normalized_result": "牙及相关组织损伤"
+  },
+  {
+    "text": "左侧输尿管切开取石术后",
+    "normalized_result": "输尿管结石##输尿管术后"
+  },
+  {
+    "text": "皮肤色素斑",
+    "normalized_result": "色素斑"
+  },
+  {
+    "text": "右上肢疤痕挛缩粘连",
+    "normalized_result": "瘢痕挛缩##瘢痕粘连"
+  },
+  {
+    "text": "乙状结肠癌肝转移姑息术后腹腔淋巴结转移综合治疗后",
+    "normalized_result": "乙状结肠恶性肿瘤##肝继发恶性肿瘤##腹腔淋巴结继发恶性肿瘤##癌##转移性癌"
+  },
+  {
+    "text": "右第骨骨折并肺挫伤",
+    "normalized_result": "肋骨骨折##肺挫伤"
+  },
+  {
+    "text": "低钾低钠底钙血症",
+    "normalized_result": "低钾血症##低钠血症##低钙血症"
+  },
+  {
+    "text": "腰5骶1间盘膨出骶管巨大囊肿",
+    "normalized_result": "其他特指的椎间盘移位##椎管囊肿"
+  },
+  {
+    "text": "双下肢胀痛",
+    "normalized_result": "下肢疼痛"
+  },
+  {
+    "text": "膀胱Ca",
+    "normalized_result": "膀胱恶性肿瘤##癌"
+  },
+  {
+    "text": "右侧结核性炎",
+    "normalized_result": "结核感染"
+  },
+  {
+    "text": "B2锥形牙牙间隙",
+    "normalized_result": "锥形牙##牙齿间隙"
+  },
+  {
+    "text": "宫颈低级别上皮内病变CINI级",
+    "normalized_result": "子宫颈上皮瘤样病变[CIN]I级"
+  },
+  {
+    "text": "腰椎侧凸腰椎分隔不全",
+    "normalized_result": "腰椎侧弯"
+  },
+  {
+    "text": "肝右叶肝细胞癌M81700/32",
+    "normalized_result": "肝细胞癌"
+  },
+  {
+    "text": "腰椎椎体内异常密度影原因",
+    "normalized_result": "其他特指身体结构诊断性影像检查的异常所见"
+  },
+  {
+    "text": "待查类风湿强脊炎",
+    "normalized_result": "强直性脊柱炎##类风湿性关节炎"
+  },
+  {
+    "text": "肠系膜血管病-肠管坏死",
+    "normalized_result": "肠坏死"
+  },
+  {
+    "text": "右肾盂旁囊肿",
+    "normalized_result": "肾盂囊肿"
+  },
+  {
+    "text": "肝右外叶肝细胞癌",
+    "normalized_result": "肝细胞癌##肝细胞癌"
+  },
+  {
+    "text": "慢性肾脏病功能不全矿物质骨代谢异常",
+    "normalized_result": "慢性肾病##矿物质代谢紊乱"
+  },
+  {
+    "text": "停经146周B超提示胎儿后颈部多枚囊性",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "双侧硬膜下慢性硬膜下血肿",
+    "normalized_result": "硬膜下血肿"
+  },
+  {
+    "text": "胆总管结石(术后)",
+    "normalized_result": "胆总管结石##胆道术后"
+  },
+  {
+    "text": "双眼屈光不正（远视 远视散光）",
+    "normalized_result": "屈光不正##远视##散光"
+  },
+  {
+    "text": "L32腰椎体终板炎L",
+    "normalized_result": "骨软骨炎"
+  },
+  {
+    "text": "心功能Ⅰ级KILLIP",
+    "normalized_result": "KillipI级"
+  },
+  {
+    "text": "右肺小细胞癌维持性化学治疗",
+    "normalized_result": "右肺恶性肿瘤##小细胞癌##恶性肿瘤维持性化学治疗"
+  },
+  {
+    "text": "反射性躯体神经病",
+    "normalized_result": "交感神经反射性营养不良"
+  },
+  {
+    "text": "d发作性无力原因待查",
+    "normalized_result": "肢体无力"
+  },
+  {
+    "text": "带状疱疹后综合征",
+    "normalized_result": "带状疱疹"
+  },
+  {
+    "text": "阴道前壁重度膨出后壁中度膨出",
+    "normalized_result": "阴道前后壁脱垂"
+  },
+  {
+    "text": "粒细胞减低症",
+    "normalized_result": "中性粒细胞减少症"
+  },
+  {
+    "text": "右胫骨中下段骨质破坏骨纤维结构不良症",
+    "normalized_result": "骨质破坏##胫骨纤维结构不良"
+  },
+  {
+    "text": "双足坏疽伴感染",
+    "normalized_result": "下肢坏疽##感染"
+  },
+  {
+    "text": "急性放射性黏膜炎2级",
+    "normalized_result": "放射性损害"
+  },
+  {
+    "text": "右肺下叶GGO",
+    "normalized_result": "肺部阴影"
+  },
+  {
+    "text": "慢性收缩性全心衰心功能III级C期",
+    "normalized_result": "心功能III级(NYHA分级)##全心衰竭"
+  },
+  {
+    "text": "热水烫伤躯干右股TBSA7%深Ⅱ度",
+    "normalized_result": "下肢烫伤"
+  },
+  {
+    "text": "右侧小脑半球大面积脑梗塞",
+    "normalized_result": "小脑梗死##大面积脑梗死"
+  },
+  {
+    "text": "非霍奇金淋巴瘤 弥漫大B细胞淋巴瘤II期A 化疗+靶向",
+    "normalized_result": "非霍奇金淋巴瘤##弥漫大B细胞淋巴瘤##化学治疗##恶性肿瘤靶向治疗"
+  },
+  {
+    "text": "甲状腺滤泡性癌",
+    "normalized_result": "甲状腺恶性肿瘤##滤泡性癌"
+  },
+  {
+    "text": "胃病变粘膜下剥离术ESD",
+    "normalized_result": "胃和十二指肠未特指的疾病"
+  },
+  {
+    "text": "右下肢骨缺损骨不连",
+    "normalized_result": "骨折不连接[假关节]##下肢骨折"
+  },
+  {
+    "text": "预计综合症射频消融",
+    "normalized_result": "预激综合征[沃-帕-怀综合征]##射频消融术后"
+  },
+  {
+    "text": "胃间质瘤朮后",
+    "normalized_result": "胃肠道间质性瘤##胃术后"
+  },
+  {
+    "text": "双肺结核性病变部分空洞形成",
+    "normalized_result": "空洞型肺结核"
+  },
+  {
+    "text": "右肺小细胞肺癌IV期",
+    "normalized_result": "右肺恶性肿瘤##小细胞癌"
+  },
+  {
+    "text": "脊髓恶性压迫并截瘫",
+    "normalized_result": "脊髓压迫症##未特指的截瘫"
+  },
+  {
+    "text": "心律不齐房颤",
+    "normalized_result": "心律失常##心房颤动[心房纤颤]"
+  },
+  {
+    "text": "右手中指远节完全离断",
+    "normalized_result": "单指完全离断"
+  },
+  {
+    "text": "右眼睑裂斑双眼MGD",
+    "normalized_result": "睑板腺功能障碍##睑裂斑"
+  },
+  {
+    "text": "胰腺癌史",
+    "normalized_result": "胰腺恶性肿瘤史"
+  },
+  {
+    "text": "痹证寒湿痹阻证西医诊断1腰椎间盘膨出症",
+    "normalized_result": "腰椎间盘移位"
+  },
+  {
+    "text": "G3P1孕39周已产ROA",
+    "normalized_result": "正常分娩"
+  },
+  {
+    "text": "左乳腺溢血待查",
+    "normalized_result": "乳头溢液"
+  },
+  {
+    "text": "右乳浸润性导管癌中医治疗",
+    "normalized_result": "乳腺恶性肿瘤##浸润性导管癌##恶性肿瘤中医治疗"
+  },
+  {
+    "text": "家族性渗出性玻璃体视网膜病变",
+    "normalized_result": "家族性渗出性玻璃体视网膜病变"
+  },
+  {
+    "text": "急粒、乙肝3.3",
+    "normalized_result": "急性粒细胞白血病##O"
+  },
+  {
+    "text": "手指肌断裂(术后)",
+    "normalized_result": "手部肌肉肌腱断裂"
+  },
+  {
+    "text": "右足化脓性病灶切开延迟愈合",
+    "normalized_result": "开放性损伤延期愈合##足感染"
+  },
+  {
+    "text": "宫内早孕",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "慢性心功能不全心功能III级",
+    "normalized_result": "心功能III级(NYHA分级)"
+  },
+  {
+    "text": "右冠心肌桥",
+    "normalized_result": "冠状动脉肌桥"
+  },
+  {
+    "text": "开放性特重型颅脑外伤性意识障碍",
+    "normalized_result": "头部损伤##意识障碍"
+  },
+  {
+    "text": "\"腰痛,腰椎骨性关节炎,行动不便\"",
+    "normalized_result": "腰痛##脊柱骨关节病"
+  },
+  {
+    "text": "左膝软组织挫裂伤",
+    "normalized_result": "膝部挫伤##下肢撕裂伤"
+  },
+  {
+    "text": "\"肺腺鳞癌,脑转移,非小细胞肺癌晚期,化疗止吐,抗过敏\"",
+    "normalized_result": "肺恶性肿瘤##腺鳞癌##脑继发恶性肿瘤##非小细胞癌##肺恶性肿瘤##化学治疗##转移性腺鳞癌"
+  },
+  {
+    "text": "高血压(眩晕-肝肾不足)",
+    "normalized_result": "高血压##眩晕"
+  },
+  {
+    "text": "腰4-5椎间盘突出症",
+    "normalized_result": "腰椎间盘突出"
+  },
+  {
+    "text": "子宫内膜消融术后",
+    "normalized_result": "子宫术后"
+  },
+  {
+    "text": "左拇指腱鞘狭窄",
+    "normalized_result": "狭窄性腱鞘炎"
+  },
+  {
+    "text": "腭部鳞状细胞癌",
+    "normalized_result": "腭部恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "特指泌尿系疾病阴茎扭转",
+    "normalized_result": "泌尿系统其他特指的疾患##阴茎未特指的疾患"
+  },
+  {
+    "text": "点状角膜炎",
+    "normalized_result": "浅层点状角膜炎"
+  },
+  {
+    "text": "右手无力待查",
+    "normalized_result": "肌无力"
+  },
+  {
+    "text": "冠心病急性非ST段抬高型心肌梗死",
+    "normalized_result": "急性非ST段抬高型心肌梗死##冠状动脉粥样硬化性心脏病"
+  },
+  {
+    "text": "前交通动脉瘤破裂",
+    "normalized_result": "前交通动脉动脉瘤##大脑动脉瘤破裂"
+  },
+  {
+    "text": "头面部外伤-头外伤后反应左第八肋骨骨折",
+    "normalized_result": "头部损伤##面部损伤##肋骨骨折"
+  },
+  {
+    "text": "左眼黄斑区神经上皮层线脱离双眼老年性白内",
+    "normalized_result": "老年性白内障##视网膜脱离"
+  },
+  {
+    "text": "右外耳中耳癌",
+    "normalized_result": "中耳恶性肿瘤##癌"
+  },
+  {
+    "text": "右手中指血管球瘤",
+    "normalized_result": "肢端血管瘤##血管球瘤"
+  },
+  {
+    "text": "腹痛-胃肠功能紊乱",
+    "normalized_result": "腹痛##胃肠功能紊乱"
+  },
+  {
+    "text": "盲肠升结肠横结肠管状腺瘤",
+    "normalized_result": "盲肠良性肿瘤##升结肠良性肿瘤##横结肠良性肿瘤##管状腺瘤"
+  },
+  {
+    "text": "并周围神经病变并双眼代谢性眼病",
+    "normalized_result": "多发性神经病[多发性神经炎/周围神经炎]"
+  },
+  {
+    "text": "左颈慢性肉芽肿性炎",
+    "normalized_result": "肉芽肿"
+  },
+  {
+    "text": "回肠下端粘膜急慢性炎胃体小片浅表胃粘膜",
+    "normalized_result": "胃和十二指肠未特指的疾病"
+  },
+  {
+    "text": "颈部粥样斑块硬化症",
+    "normalized_result": "颈动脉粥样硬化"
+  },
+  {
+    "text": "左胫骨平台开放性粉粹性骨折伴骨质部分缺损",
+    "normalized_result": "胫骨骨折"
+  },
+  {
+    "text": "肿瘤手术后",
+    "normalized_result": "性质未特指的肿瘤"
+  },
+  {
+    "text": "胃窦溃疡型低分化腺癌伴印戒细胞癌成分",
+    "normalized_result": "胃窦恶性肿瘤##腺癌##印戒细胞癌"
+  },
+  {
+    "text": "脊柱OA伴狭窄",
+    "normalized_result": "脊柱骨关节病"
+  },
+  {
+    "text": "肥大细胞增生症",
+    "normalized_result": "肥大细胞增生症"
+  },
+  {
+    "text": "右膝髌骨骨梗死左肩峰下撞击征",
+    "normalized_result": "骨坏死##肩撞击综合征"
+  },
+  {
+    "text": "颈脊椎病",
+    "normalized_result": "颈椎病"
+  },
+  {
+    "text": "乙状结肠中分化腺癌伴肝转移术后（T3N1M1 D",
+    "normalized_result": "乙状结肠恶性肿瘤##肝继发恶性肿瘤##腺癌##转移性腺癌"
+  },
+  {
+    "text": "右下肢神经病变",
+    "normalized_result": "多发性神经病[多发性神经炎/周围神经炎]"
+  },
+  {
+    "text": "胰腺癌Ⅲ期",
+    "normalized_result": "胰腺恶性肿瘤##癌"
+  },
+  {
+    "text": "鞍区坏死组织不除外寄生虫虫卵",
+    "normalized_result": "寄生虫病"
+  },
+  {
+    "text": "头晕。颈椎病。椎动脉供血不全",
+    "normalized_result": "头晕##颈椎病##椎-基底动脉供血不全"
+  },
+  {
+    "text": "腰骶部外伤",
+    "normalized_result": "\"躯干未特指的损伤,水平未特指\""
+  },
+  {
+    "text": "右踝距腓前韧带撕脱性骨折前踝软组织撞击症",
+    "normalized_result": "踝关节撞击综合征##踝骨骨折"
+  },
+  {
+    "text": "双膝重度OA右侧平足伴OA",
+    "normalized_result": "双侧膝关节骨性关节病##骨关节病##扁平足"
+  },
+  {
+    "text": "退变的纤维软骨",
+    "normalized_result": "软骨疾患"
+  },
+  {
+    "text": "肾小球轻微病变伴高血压肾损害",
+    "normalized_result": "高血压肾损害##肾小球微小病变"
+  },
+  {
+    "text": "颅内多发大动脉重度狭窄双侧椎动脉基底动脉",
+    "normalized_result": "动脉狭窄##椎动脉狭窄##基底动脉狭窄"
+  },
+  {
+    "text": "cGVHD广泛期眼睛口腔肺脏肝脏皮肤",
+    "normalized_result": "慢性移植物抗宿主病"
+  },
+  {
+    "text": "黏膜白斑",
+    "normalized_result": "\"白斑病,不可归类在他处者\""
+  },
+  {
+    "text": "腰2椎体良性病变",
+    "normalized_result": "腰椎病"
+  },
+  {
+    "text": "抑郁症脑血管疾病后",
+    "normalized_result": "抑郁发作##脑血管病"
+  },
+  {
+    "text": "主动脉返流",
+    "normalized_result": "主动脉瓣关闭不全"
+  },
+  {
+    "text": "强迫症",
+    "normalized_result": "强迫性障碍"
+  },
+  {
+    "text": "1颈髓病变炎性EDSS评分25分",
+    "normalized_result": "脊髓炎"
+  },
+  {
+    "text": "喘大气待查：心肌损伤",
+    "normalized_result": "喘息##心肌损害"
+  },
+  {
+    "text": "左下颌骨造釉细胞瘤左颌下淋巴结",
+    "normalized_result": "面骨良性肿瘤##成釉细胞瘤"
+  },
+  {
+    "text": "\"体表肿瘤活检 喉癌术后,复查开药 胃镜检查\"",
+    "normalized_result": "喉术后##喉恶性肿瘤##癌"
+  },
+  {
+    "text": "偶发房性早博",
+    "normalized_result": "房性期前收缩[房性早搏]"
+  },
+  {
+    "text": "双眼人工晶体植入状态左眼晶体移位",
+    "normalized_result": "人工晶体脱位"
+  },
+  {
+    "text": "经典型霍奇金淋巴瘤IV期B 结节硬化型  侵及右颈部、双锁骨区、前纵隔、右胸肌间、右腋窝、双侧膈区、左內乳区淋巴结  侵及骨（多发）",
+    "normalized_result": "结节硬化型经典霍奇金淋巴瘤"
+  },
+  {
+    "text": "短暂性脑缺血椎基底动脉系统TIA发作",
+    "normalized_result": "短暂性脑缺血发作##椎-基底动脉供血不全"
+  },
+  {
+    "text": "左颊及右舌粘膜扁平苔藓免疫异常",
+    "normalized_result": "扁平苔癣##舌扁平苔癣"
+  },
+  {
+    "text": "先天性肺囊肿并感染",
+    "normalized_result": "先天性肺囊肿##肺部感染"
+  },
+  {
+    "text": "甲状腺功能减低Turner综合症",
+    "normalized_result": "甲状腺功能减退##特纳综合征[Turner综合征]"
+  },
+  {
+    "text": "右腋下皮脂腺囊肿待病理",
+    "normalized_result": "皮脂腺囊肿"
+  },
+  {
+    "text": "中耳胆脂瘤(术后)",
+    "normalized_result": "耳术后##中耳胆脂瘤"
+  },
+  {
+    "text": "部分发作继发全身发作",
+    "normalized_result": "癫痫部分性发作##癫痫大发作状态"
+  },
+  {
+    "text": "汗证厌食花剥舌夜惊配药",
+    "normalized_result": "睡惊症[夜惊症]"
+  },
+  {
+    "text": "胎盘绒毛部分纤维素样坏死绒毛血管扩张充血",
+    "normalized_result": "未特指的胎盘疾患"
+  },
+  {
+    "text": "小脑脑出血",
+    "normalized_result": "小脑出血"
+  },
+  {
+    "text": "血行播散型肺结核",
+    "normalized_result": "肺结核"
+  },
+  {
+    "text": "左前臂KT综合征",
+    "normalized_result": "血管骨肥大综合征[Klippel-Trenaunay-Weber综合征]"
+  },
+  {
+    "text": "\"乳腺癌改良根治术后,化疗,骨转移,骨质疏松,肝转移,肝损伤\"",
+    "normalized_result": "乳腺术后##乳腺恶性肿瘤##恶性肿瘤术后化疗##骨继发恶性肿瘤##骨质疏松##肝继发恶性肿瘤##肝损伤##癌##转移性癌"
+  },
+  {
+    "text": "小肠恶性肿瘤(术后 透明细胞肉瘤)",
+    "normalized_result": "小肠恶性肿瘤##透明细胞肉瘤"
+  },
+  {
+    "text": "脑血管病; 高脂血症;免疫功能低下 支气管炎",
+    "normalized_result": "脑血管病##高脂血症##支气管炎"
+  },
+  {
+    "text": "头部蜂蜇伤复诊",
+    "normalized_result": "蜂螫伤##头部损伤"
+  },
+  {
+    "text": "胰腺结石术后",
+    "normalized_result": "胰结石##胰腺术后"
+  },
+  {
+    "text": "鞍区肿瘤放疗后",
+    "normalized_result": "脑恶性肿瘤##恶性肿瘤放疗"
+  },
+  {
+    "text": "特发性斑疹毛细血管扩张",
+    "normalized_result": "毛细血管扩张症##皮疹"
+  },
+  {
+    "text": "急性B淋巴细胞型白血病(PH+)",
+    "normalized_result": "B细胞急性淋巴细胞白血病"
+  },
+  {
+    "text": "结肠肝曲结肠脾区管状腺瘤部分腺体较增生",
+    "normalized_result": "管状腺瘤##结肠肝曲良性肿瘤##结肠脾曲良性肿瘤"
+  },
+  {
+    "text": "右腕部胡蜂蜇伤",
+    "normalized_result": "蜂螫伤##腕部损伤"
+  },
+  {
+    "text": "甲状腺乳头状微小癌术后",
+    "normalized_result": "乳头状微小癌##甲状腺恶性肿瘤##甲状腺术后"
+  },
+  {
+    "text": "多发性梗塞累及脑干",
+    "normalized_result": "多发性脑梗死##脑干梗死"
+  },
+  {
+    "text": "弥漫大B细胞性非霍奇金淋巴瘤",
+    "normalized_result": "弥漫大B细胞淋巴瘤"
+  },
+  {
+    "text": "右梨状窝癌",
+    "normalized_result": "梨状窝恶性肿瘤##癌"
+  },
+  {
+    "text": "双肺间质纤维化并感染",
+    "normalized_result": "肺间质纤维化##肺部感染"
+  },
+  {
+    "text": "右侧股骨内侧副韧带止点撕脱性骨折",
+    "normalized_result": "股骨骨折"
+  },
+  {
+    "text": "腰椎间盘突出症继发椎管狭窄",
+    "normalized_result": "腰椎间盘突出##腰椎管狭窄"
+  },
+  {
+    "text": "小细胞低色素多发性抽动",
+    "normalized_result": "不自主运动##低色素性小细胞性贫血"
+  },
+  {
+    "text": "胃窦病分化腺癌",
+    "normalized_result": "胃窦恶性肿瘤##腺癌"
+  },
+  {
+    "text": "痛风肾病",
+    "normalized_result": "痛风##肾病"
+  },
+  {
+    "text": "乳腺癌术后骨转移严重骨质疏松",
+    "normalized_result": "乳腺术后##乳腺恶性肿瘤##癌##骨继发恶性肿瘤##重度骨质疏松##转移性癌"
+  },
+  {
+    "text": "心肌缺血心功能降低",
+    "normalized_result": "心肌供血不足"
+  },
+  {
+    "text": "T细胞淋巴组织增殖性疾病1级增生性",
+    "normalized_result": "淋巴细胞增殖性疾病"
+  },
+  {
+    "text": "非萎缩性胃炎",
+    "normalized_result": "胃炎"
+  },
+  {
+    "text": "骨癌",
+    "normalized_result": "骨恶性肿瘤##癌"
+  },
+  {
+    "text": "左眼虹膜周边切除术房角分离术",
+    "normalized_result": "眼术后"
+  },
+  {
+    "text": "停经32周B超提示延髓池增宽",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "右肘肱骨外髁骨不连",
+    "normalized_result": "肱骨骨折不连接"
+  },
+  {
+    "text": "直肠憩室炎",
+    "normalized_result": "憩室炎"
+  },
+  {
+    "text": "脑炎后遗症",
+    "normalized_result": "脑炎后综合征"
+  },
+  {
+    "text": "胃癌?胃镜检查，预防出血",
+    "normalized_result": "胃恶性肿瘤##癌"
+  },
+  {
+    "text": "多发腔隙性梗死脑干双侧基底节及放射冠区",
+    "normalized_result": "腔隙性脑梗死##基底节脑梗死##多发性脑梗死"
+  },
+  {
+    "text": "宫颈低级别上皮内病变CINI改变",
+    "normalized_result": "子宫颈上皮瘤样病变[CIN]I级"
+  },
+  {
+    "text": "甲状腺腺瘤切除术后",
+    "normalized_result": "甲状腺良性肿瘤##腺瘤##甲状腺术后"
+  },
+  {
+    "text": "内耳眩晕症",
+    "normalized_result": "耳源性眩晕"
+  },
+  {
+    "text": "腹膜后及腹腔内多发稍大淋巴结",
+    "normalized_result": "腹腔淋巴结肿大##腹膜后淋巴结肿大"
+  },
+  {
+    "text": "肝Ca肝硬化乙肝",
+    "normalized_result": "肝恶性肿瘤##癌##肝硬化##O"
+  },
+  {
+    "text": "股四头肌末端病臀上皮神经卡压征",
+    "normalized_result": "臀上皮神经卡压综合征[臀上皮神经炎]##肌病"
+  },
+  {
+    "text": "迟发型急性移植物抗宿主反应I度",
+    "normalized_result": "急性移植物抗宿主病"
+  },
+  {
+    "text": "贫血血小板高2周",
+    "normalized_result": "贫血##血小板增多"
+  },
+  {
+    "text": "肛门扩约肌功能稍弱",
+    "normalized_result": "肛门括约肌松弛"
+  },
+  {
+    "text": "梨状窝鳞状细胞癌",
+    "normalized_result": "梨状窝恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "新生儿缺氧缺血性脑损伤",
+    "normalized_result": "新生儿缺氧缺血性脑病"
+  },
+  {
+    "text": "双侧额叶脑出血术后",
+    "normalized_result": "额叶出血##脑术后"
+  },
+  {
+    "text": "多发肋骨病变考虑骨结构不良",
+    "normalized_result": "骨病变##肋骨纤维异常增殖症"
+  },
+  {
+    "text": "趾外翻",
+    "normalized_result": "足畸形"
+  },
+  {
+    "text": "L1腰椎压缩性骨折",
+    "normalized_result": "腰椎压缩性骨折"
+  },
+  {
+    "text": "贲门胃体病变内镜粘膜下剥离术",
+    "normalized_result": "胃和十二指肠未特指的疾病"
+  },
+  {
+    "text": "左眼角膜间质纤维化伴灶性浅表糜烂",
+    "normalized_result": "角膜糜烂"
+  },
+  {
+    "text": "甲状腺低功4肾功不良",
+    "normalized_result": "甲状腺功能减退##肾功能异常"
+  },
+  {
+    "text": "右环指取除骨折内固定装置",
+    "normalized_result": "取出骨折内固定装置##指骨骨折"
+  },
+  {
+    "text": "左肱骨中下段不全骨裂",
+    "normalized_result": "肱骨骨折"
+  },
+  {
+    "text": "S2-3椎管囊性病灶",
+    "normalized_result": "椎管囊肿"
+  },
+  {
+    "text": "左耳廓软骨组织部分呈变性改变",
+    "normalized_result": "骨病变"
+  },
+  {
+    "text": "肛门Paget病",
+    "normalized_result": "乳房以外的佩吉特病##肛门恶性肿瘤"
+  },
+  {
+    "text": "增生的纤维结缔组织其内查见真菌",
+    "normalized_result": "真菌感染"
+  },
+  {
+    "text": "右额颞叶脑梗死合并脑出血破入脑室",
+    "normalized_result": "脑梗死##脑出血"
+  },
+  {
+    "text": "膀胱微乳头型尿路上皮癌",
+    "normalized_result": "膀胱恶性肿瘤##乳头状尿路上皮癌"
+  },
+  {
+    "text": "双下肢胫前动脉闭塞双下肢胫后动脉闭塞",
+    "normalized_result": "胫前动脉闭塞##胫后动脉闭塞"
+  },
+  {
+    "text": "人偏肺病毒阳性",
+    "normalized_result": "病毒感染"
+  },
+  {
+    "text": "先天性左肾缺失",
+    "normalized_result": "先天性肾缺如"
+  },
+  {
+    "text": "乳头状微癌",
+    "normalized_result": "乳头状微小癌"
+  },
+  {
+    "text": "阴囊阴茎派杰病",
+    "normalized_result": "乳房以外的佩吉特病##阴囊恶性肿瘤##阴茎恶性肿瘤"
+  },
+  {
+    "text": "面双上肢灼伤10%2度",
+    "normalized_result": "面部开放性损伤##上肢开放性损伤"
+  },
+  {
+    "text": "化脓性脑膜炎恢复期",
+    "normalized_result": "脑膜炎恢复期"
+  },
+  {
+    "text": "意识不清待诊",
+    "normalized_result": "意识障碍"
+  },
+  {
+    "text": "左眼球挫裂伤",
+    "normalized_result": "眼球挫伤##眼球破裂伤"
+  },
+  {
+    "text": "回肠美克尔憩室炎",
+    "normalized_result": "麦克尔憩室##小肠憩室炎"
+  },
+  {
+    "text": "铅高多动",
+    "normalized_result": "铅中毒##注意缺陷与多动障碍"
+  },
+  {
+    "text": "左侧腰骶部血管性肿瘤",
+    "normalized_result": "躯干血管瘤"
+  },
+  {
+    "text": "左腹股沟疝术后",
+    "normalized_result": "单侧腹股沟疝##腹股沟术后"
+  },
+  {
+    "text": "双胎13死胎725复白带",
+    "normalized_result": "双胎妊娠##胎死宫内"
+  },
+  {
+    "text": "-慢性盆腔炎",
+    "normalized_result": "盆腔炎"
+  },
+  {
+    "text": "IGA肾炎",
+    "normalized_result": "IgA肾病"
+  },
+  {
+    "text": "宫腔异常回声待查节育环下移",
+    "normalized_result": "避孕环移位"
+  },
+  {
+    "text": "停经345周MR提示胎儿后颅窝池增大",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "子宫发育异常",
+    "normalized_result": "子宫畸形"
+  },
+  {
+    "text": "右足皮肤撕脱伴坏死",
+    "normalized_result": "足部软组织撕脱伤##足坏死"
+  },
+  {
+    "text": "胃窦溃疡型中低分化腺癌",
+    "normalized_result": "胃窦恶性肿瘤##腺癌"
+  },
+  {
+    "text": "吞咽梗阻",
+    "normalized_result": "吞咽困难"
+  },
+  {
+    "text": "冠状动脉供血不足;高脂血症;焦虑状态;支架植入术后状态",
+    "normalized_result": "冠状动脉供血不足##高脂血症##焦虑状态##冠状动脉支架植入术后状态"
+  },
+  {
+    "text": "乳腺腺瘤",
+    "normalized_result": "腺瘤##乳腺良性肿瘤"
+  },
+  {
+    "text": "腮弓综合征发育筛查",
+    "normalized_result": "第一、二鳃弓综合征[Goldenhar综合征]"
+  },
+  {
+    "text": "创伤性硬膜下积液",
+    "normalized_result": "硬膜下积液"
+  },
+  {
+    "text": "右隐睾包茎",
+    "normalized_result": "单侧隐睾##包茎"
+  },
+  {
+    "text": "低磷抗D性软骨病转归其他",
+    "normalized_result": "低磷血症##抗维生素D性佝偻病"
+  },
+  {
+    "text": "胃食管交界区低分化腺癌IV期",
+    "normalized_result": "食管胃连接部恶性肿瘤##腺癌"
+  },
+  {
+    "text": "右眼糖尿病视网膜病变II期",
+    "normalized_result": "糖尿病视网膜病(E10-E14+伴有共用第四位数.3)"
+  },
+  {
+    "text": "停经351周B超提示胎儿心脏结构异常",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "乙状结肠隆起型中分化腺癌",
+    "normalized_result": "乙状结肠恶性肿瘤##腺癌"
+  },
+  {
+    "text": "右腹股沟滤泡性淋巴瘤靶向治疗",
+    "normalized_result": "滤泡淋巴瘤##恶性肿瘤靶向治疗"
+  },
+  {
+    "text": "上呼吸道感染哭闹待查",
+    "normalized_result": "上呼吸道感染"
+  },
+  {
+    "text": "右半结肠回盲部腺癌",
+    "normalized_result": "回盲部恶性肿瘤##腺癌"
+  },
+  {
+    "text": "冠心病—心律失常",
+    "normalized_result": "冠状动脉粥样硬化性心脏病##心律失常"
+  },
+  {
+    "text": "胃癌不除外",
+    "normalized_result": "胃恶性肿瘤##癌"
+  },
+  {
+    "text": "缺锌和缺铁明显",
+    "normalized_result": "铁缺乏##锌缺乏"
+  },
+  {
+    "text": "糖尿病高血压高血脂症",
+    "normalized_result": "糖尿病##高血压##高脂血症"
+  },
+  {
+    "text": "食欲不振咽部梗阻感",
+    "normalized_result": "食欲不振##吞咽困难"
+  },
+  {
+    "text": "右甲MT术后",
+    "normalized_result": "甲状腺恶性肿瘤##甲状腺术后"
+  },
+  {
+    "text": "\"原发性高血压病(药物控制后,极高危)\"",
+    "normalized_result": "原发性高血压"
+  },
+  {
+    "text": "双膝骨关病并游离体",
+    "normalized_result": "膝关节游离体##双侧膝关节骨性关节病"
+  },
+  {
+    "text": "左肺上叶腺癌cT3N3M0 IIIB期（第八版） 化疗",
+    "normalized_result": "左肺上叶恶性肿瘤##腺癌##化学治疗##淋巴结继发恶性肿瘤"
+  },
+  {
+    "text": "双眼闭角型青光眼（右眼抗青术后，左眼临床前期）",
+    "normalized_result": "闭角型青光眼##眼术后"
+  },
+  {
+    "text": "中耳长肠虫症",
+    "normalized_result": "寄生虫病"
+  },
+  {
+    "text": "颈髓脱髓鞘改变",
+    "normalized_result": "脱髓鞘性脊髓病"
+  },
+  {
+    "text": "先天性颅裂枕部脑膜膨出",
+    "normalized_result": "先天性脑膜膨出"
+  },
+  {
+    "text": "面部双手双下肢色素沉着待查",
+    "normalized_result": "皮肤色素沉着"
+  },
+  {
+    "text": "肉芽肿性唇炎",
+    "normalized_result": "唇炎"
+  },
+  {
+    "text": "非霍奇金弥漫性大B细胞淋巴瘤III期A",
+    "normalized_result": "非霍奇金淋巴瘤##弥漫大B细胞淋巴瘤"
+  },
+  {
+    "text": "溶血原因自身免疫性溶血可能性大",
+    "normalized_result": "自身免疫病"
+  },
+  {
+    "text": "右手前臂过敏红肿痒",
+    "normalized_result": "过敏反应"
+  },
+  {
+    "text": "胆管错构瘤可能",
+    "normalized_result": "胆管错构瘤"
+  },
+  {
+    "text": "肛门感觉异常阴部神经症候群",
+    "normalized_result": "神经症性障碍"
+  },
+  {
+    "text": "下肢静脉瓣膜功能不全",
+    "normalized_result": "下肢静脉功能不全"
+  },
+  {
+    "text": "先天性青光眼",
+    "normalized_result": "先天性水眼[眼积水]"
+  },
+  {
+    "text": "咀嚼无力吞咽无力功能性疾病可能性大",
+    "normalized_result": "吞咽障碍"
+  },
+  {
+    "text": "尺神经病变颈腰椎病取药",
+    "normalized_result": "颈椎病##腰椎病"
+  },
+  {
+    "text": "子宫颈鳞状细胞癌Ib1期G1-2",
+    "normalized_result": "子宫颈恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "左侧颞顶枕部硬膜血肿机化",
+    "normalized_result": "血肿机化"
+  },
+  {
+    "text": "双足第5趾外侧皮肤灼伤",
+    "normalized_result": "足部损伤"
+  },
+  {
+    "text": "宫内晚孕橫位",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "停经22周B超提示胎儿右侧肺内异常回声",
+    "normalized_result": "孕22周"
+  },
+  {
+    "text": "格林巴利综合征可能性大脑白质病变不除外",
+    "normalized_result": "吉兰-巴雷综合征##脑白质病"
+  },
+  {
+    "text": "肝部继发性恶性肿瘤",
+    "normalized_result": "肝继发恶性肿瘤"
+  },
+  {
+    "text": "双下肢皮肤搔痒症",
+    "normalized_result": "瘙痒症"
+  },
+  {
+    "text": "\"化疗呕吐失眠,小细胞肺癌化疗脑转移癌,白细胞减少抗凝,行动不便便秘高血压,行动不便过敏肝功能异常,反流性食道炎伴溃疡便秘,重度疼痛抗过敏水肿利尿\"",
+    "normalized_result": "化学治疗##呕吐##失眠##肺恶性肿瘤##小细胞癌##脑继发恶性肿瘤##化学治疗##白细胞减少##便秘##高血压##肝功能异常##反流性食管炎##食管溃疡##疼痛##水肿##转移性小细胞癌"
+  },
+  {
+    "text": "低鼻眼袋成形",
+    "normalized_result": "下睑袋"
+  },
+  {
+    "text": "急性胆囊炎并胆囊结石",
+    "normalized_result": "胆囊结石伴急性胆囊炎"
+  },
+  {
+    "text": "先天性主动脉瓣畸形并中-重度关闭不全",
+    "normalized_result": "先天性主动脉瓣畸形##先天性主动脉瓣关闭不全"
+  },
+  {
+    "text": "创伤性脊椎病坎梅耳氏病",
+    "normalized_result": "创伤后脊椎病##kummell病"
+  },
+  {
+    "text": "异常子宫出血排卵障碍",
+    "normalized_result": "异常子宫出血"
+  },
+  {
+    "text": "右肾造瘘口漏尿",
+    "normalized_result": "肾造口状态"
+  },
+  {
+    "text": "冠心病高血压脑梗塞结膜炎",
+    "normalized_result": "冠状动脉粥样硬化性心脏病##高血压##脑梗死##结膜炎"
+  },
+  {
+    "text": "1.右眼老年性白内障；2.左眼白内障术后人工晶体眼；3.双眼玻璃体混浊；4.双眼视网膜动脉硬化",
+    "normalized_result": "老年性白内障##人工晶体植入状态##玻璃体混浊##视网膜动脉硬化"
+  },
+  {
+    "text": "双足扁平足双膝关节OA",
+    "normalized_result": "双侧膝关节骨性关节病##扁平足"
+  },
+  {
+    "text": "淋巴瘤治疗后的随诊检查",
+    "normalized_result": "淋巴瘤##淋巴瘤"
+  },
+  {
+    "text": "失眠(神经衰弱)",
+    "normalized_result": "神经衰弱##失眠"
+  },
+  {
+    "text": "眼睑静脉畸形",
+    "normalized_result": "周围静脉畸形"
+  },
+  {
+    "text": "双肺多发性囊性支扩肺心衰",
+    "normalized_result": "心力衰竭##支气管扩张症"
+  },
+  {
+    "text": "脑动脉瘤包裹术后",
+    "normalized_result": "脑动脉瘤##脑术后"
+  },
+  {
+    "text": "脑动脉硬化脂肪肝",
+    "normalized_result": "动脉硬化##脂肪肝"
+  },
+  {
+    "text": "送检胎盘胎膜组织显退变伴钙盐沉积",
+    "normalized_result": "钙质沉着症"
+  },
+  {
+    "text": "多发腔隙性脑梗死灶",
+    "normalized_result": "多发性脑梗死##腔隙性脑梗死"
+  },
+  {
+    "text": "高级别DCIS伴局灶浸润",
+    "normalized_result": "乳腺导管原位癌"
+  },
+  {
+    "text": "急性ST段抬高型前间壁心肌梗死",
+    "normalized_result": "急性前间壁心肌梗死##急性ST段抬高型心肌梗死"
+  },
+  {
+    "text": "左拇指指腹皮肤缺失",
+    "normalized_result": "皮肤缺损"
+  },
+  {
+    "text": "先天性肝内胆管扩张症",
+    "normalized_result": "先天性胆管扩张"
+  },
+  {
+    "text": "卵巢癌IV期第二次化疗后",
+    "normalized_result": "卵巢恶性肿瘤##化学治疗##癌"
+  },
+  {
+    "text": "\"左肾透明细胞癌,右侧隐睾下降固定术后\"",
+    "normalized_result": "肾恶性肿瘤##透明细胞癌##隐睾"
+  },
+  {
+    "text": "先天性鞍鼻畸形",
+    "normalized_result": "先天性鼻畸形##鞍鼻"
+  },
+  {
+    "text": "\"肝占位,肝癌\"",
+    "normalized_result": "肝恶性肿瘤##癌##肝占位性病变"
+  },
+  {
+    "text": "结缔组织增生性黑素瘤待排",
+    "normalized_result": "恶性黑色素瘤"
+  },
+  {
+    "text": "\"头晕,高血压,糖尿病；脑出血恢复期\"",
+    "normalized_result": "头晕##高血压##糖尿病##脑出血恢复期"
+  },
+  {
+    "text": "不育待查严重弱精子症",
+    "normalized_result": "男性不育症##男方弱精症"
+  },
+  {
+    "text": "下肢淤血性皮炎双侧",
+    "normalized_result": "皮炎"
+  },
+  {
+    "text": "侵入性肺曲霉病治疗后",
+    "normalized_result": "肺曲霉菌病"
+  },
+  {
+    "text": "CAA肺部感染",
+    "normalized_result": "淀粉样脑血管病##肺部感染"
+  },
+  {
+    "text": "右胸腔巨大占位并胸腔积液",
+    "normalized_result": "胸腔积液##胸部占位"
+  },
+  {
+    "text": "胎盘绒毛及蜕膜组织局部可见变性梗死",
+    "normalized_result": "胎盘梗死"
+  },
+  {
+    "text": "右枕叶占位",
+    "normalized_result": "脑占位性病变"
+  },
+  {
+    "text": "脐尿管瘘并感染",
+    "normalized_result": "先天性脐尿管瘘##感染"
+  },
+  {
+    "text": "强直性脊柱炎并胸腰椎后凸畸形",
+    "normalized_result": "强直性脊柱炎##胸椎后凸##腰椎后凸"
+  },
+  {
+    "text": "隐匿性抑郁慢性主观性头昏",
+    "normalized_result": "抑郁状态##头晕"
+  },
+  {
+    "text": "先天性阴茎扭转",
+    "normalized_result": "阴茎的其他先天性畸形"
+  },
+  {
+    "text": "左侧室旁脱髓鞘左侧颞前小囊肿",
+    "normalized_result": "脱髓鞘性脑病"
+  },
+  {
+    "text": "妊娠26周孕3产1先兆流产",
+    "normalized_result": "孕26周##先兆流产"
+  },
+  {
+    "text": "主动脉瓣钙化伴关闭不全",
+    "normalized_result": "主动脉瓣关闭不全##主动脉瓣钙化"
+  },
+  {
+    "text": "冠心病高血压骨关节病",
+    "normalized_result": "冠状动脉粥样硬化性心脏病##高血压##骨关节病"
+  },
+  {
+    "text": "左侧髌骨骨梗死右膝髌股关节退变",
+    "normalized_result": "单侧膝关节骨性关节病##骨坏死"
+  },
+  {
+    "text": "重度免疫相关性血细胞减少症",
+    "normalized_result": "免疫相关性血细胞减少症（IRP）"
+  },
+  {
+    "text": "腰椎病左侧神经根受压",
+    "normalized_result": "腰椎病"
+  },
+  {
+    "text": "核上性麻痹",
+    "normalized_result": "进行性核上性眼肌麻痹[斯蒂尔-里查森-奥尔谢夫斯基]"
+  },
+  {
+    "text": "右踝肿块",
+    "normalized_result": "下肢肿物"
+  },
+  {
+    "text": "\"左乳癌术后,右下肺占位\"",
+    "normalized_result": "乳腺术后##癌##乳腺恶性肿瘤##肺占位性病变"
+  },
+  {
+    "text": "左踝和左足条索状疤痕左踝关节强直",
+    "normalized_result": "踝关节强硬##足部瘢痕##踝部瘢痕"
+  },
+  {
+    "text": "粘膜扁平苔藓伴糜烂",
+    "normalized_result": "扁平苔癣"
+  },
+  {
+    "text": "慢阻肺肺心病急性发作",
+    "normalized_result": "肺源性心脏病##慢性阻塞性肺疾病"
+  },
+  {
+    "text": "胰头肿物",
+    "normalized_result": "胰腺肿物"
+  },
+  {
+    "text": "失血性贫血",
+    "normalized_result": "贫血"
+  },
+  {
+    "text": "染色体平衡移位t'13",
+    "normalized_result": "未特指的染色体异常"
+  },
+  {
+    "text": "双基底节区及双额深区多发腔隙性梗死",
+    "normalized_result": "腔隙性脑梗死##多发性脑梗死##基底节脑梗死"
+  },
+  {
+    "text": "下肢胫前皮肤色素沉着",
+    "normalized_result": "色素沉着未特指的疾患"
+  },
+  {
+    "text": "特指手术后状态(左腋窝术后改变、左胸壁术后积液)",
+    "normalized_result": "其他特指的手术后状态##手术后胸腔积液"
+  },
+  {
+    "text": "G1P1孕41周已产LO",
+    "normalized_result": "正常分娩"
+  },
+  {
+    "text": "鼻咽癌肺转移、骨转移术后",
+    "normalized_result": "鼻咽恶性肿瘤##癌##骨继发恶性肿瘤##转移性癌"
+  },
+  {
+    "text": "左上臂开放性犬咬伤",
+    "normalized_result": "上肢开放性损伤##被狗咬伤"
+  },
+  {
+    "text": "胃窦癌伴肝转移术后",
+    "normalized_result": "胃窦恶性肿瘤##癌##肝继发恶性肿瘤##转移性癌"
+  },
+  {
+    "text": "手开放性伤口",
+    "normalized_result": "手部开放性损伤"
+  },
+  {
+    "text": "病脑视幻",
+    "normalized_result": "病毒性脑炎##幻视"
+  },
+  {
+    "text": "双下肢麻烦待查OA",
+    "normalized_result": "骨关节病"
+  },
+  {
+    "text": "直肠腺癌 第一次化疗",
+    "normalized_result": "直肠恶性肿瘤##化学治疗##腺癌"
+  },
+  {
+    "text": "前纵隔占位，小细胞恶性肿瘤",
+    "normalized_result": "前纵隔恶性肿瘤##小细胞型恶性肿瘤"
+  },
+  {
+    "text": "L12溶骨性破坏伴不全瘫",
+    "normalized_result": "不完全性瘫痪##骨质破坏"
+  },
+  {
+    "text": "先天性巨结肠(赫希施普隆氏病)",
+    "normalized_result": "先天性巨结肠"
+  },
+  {
+    "text": "先天性染色体病45XXrob1315",
+    "normalized_result": "先天性染色体病"
+  },
+  {
+    "text": "食指近节关节囊破裂并关节面部分缺失",
+    "normalized_result": "手指损伤"
+  },
+  {
+    "text": "甲状旁腺腺瘤",
+    "normalized_result": "甲状旁腺良性肿瘤##腺瘤"
+  },
+  {
+    "text": "下颌瞬目综合征左",
+    "normalized_result": "下颌瞬目综合征[MarcusGunn综合征]"
+  },
+  {
+    "text": "左臂部恶性黑素瘤",
+    "normalized_result": "上肢恶性黑色素瘤##恶性黑色素瘤"
+  },
+  {
+    "text": "下腹瘢痕痛",
+    "normalized_result": "腹部瘢痕##疼痛"
+  },
+  {
+    "text": "先天性肠重复畸形",
+    "normalized_result": "肠重复畸形"
+  },
+  {
+    "text": "肝内外胆管结石伴急性胆管炎",
+    "normalized_result": "胆管结石伴急性胆囊炎"
+  },
+  {
+    "text": "右乳腺病伴导管扩张症及大汗腺化生",
+    "normalized_result": "乳房未特指的疾患##乳腺导管扩张症"
+  },
+  {
+    "text": "回盲部肠外肿瘤",
+    "normalized_result": "回盲部肿瘤"
+  },
+  {
+    "text": "右肺结节 肺癌不除外",
+    "normalized_result": "肺占位性病变##肺恶性肿瘤##癌"
+  },
+  {
+    "text": "乳腺动态未定肿瘤新D48600",
+    "normalized_result": "乳房动态未定或动态未知的肿瘤"
+  },
+  {
+    "text": "胸下段食管鳞状细胞癌",
+    "normalized_result": "食管胸下段恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "子宫颈中低分化鳞状细胞癌",
+    "normalized_result": "子宫颈恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "肾上腺肿物腺瘤可能",
+    "normalized_result": "肾上腺肿物##腺瘤##肾上腺良性肿瘤"
+  },
+  {
+    "text": "G2P0孕34+5周宫内妊娠L",
+    "normalized_result": "孕34周"
+  },
+  {
+    "text": "成骨不全双下肢畸形",
+    "normalized_result": "成骨不全##先天性下肢畸形"
+  },
+  {
+    "text": "全身多发神经纤维瘤病",
+    "normalized_result": "神经纤维瘤病[VonRecklinghausen病]"
+  },
+  {
+    "text": "削水果时不慎被水果刀划伤右手指",
+    "normalized_result": "\"手指开放性损伤##接触刀、剑或匕首造成的损伤,在未特指场所\""
+  },
+  {
+    "text": "良性前列腺增生术后",
+    "normalized_result": "前列腺增生##前列腺术后"
+  },
+  {
+    "text": "卵巢中低分化腺癌",
+    "normalized_result": "卵巢恶性肿瘤##腺癌"
+  },
+  {
+    "text": "颌下皮瘘",
+    "normalized_result": "皮肤瘘管"
+  },
+  {
+    "text": "左甲MT术后",
+    "normalized_result": "甲状腺恶性肿瘤##甲状腺术后"
+  },
+  {
+    "text": "颅内支架置入术后",
+    "normalized_result": "血管支架植入术后状态"
+  },
+  {
+    "text": "直肠恶性肿瘤免疫治疗",
+    "normalized_result": "直肠恶性肿瘤##恶性肿瘤免疫治疗"
+  },
+  {
+    "text": "右腿撞伤",
+    "normalized_result": "\"下肢未特指的损伤,水平未特指\""
+  },
+  {
+    "text": "慢性心衰急性加重期心功能Ⅳ期",
+    "normalized_result": "心功能IV级(NYHA分级)##慢性心力衰竭"
+  },
+  {
+    "text": "慢性阻塞性肺病伴急性加重伴双肺肺炎",
+    "normalized_result": "慢性阻塞性肺疾病急性加重##肺炎"
+  },
+  {
+    "text": "冠状动脉粥样硬化性血管病",
+    "normalized_result": "冠状动脉粥样硬化"
+  },
+  {
+    "text": "糖尿病性末梢神经损坏脑供血障碍",
+    "normalized_result": "脑血管供血不足##未特指的糖尿病伴有神经的并发症"
+  },
+  {
+    "text": "先天性紫绀四联症",
+    "normalized_result": "先天性心脏病##法洛四联症"
+  },
+  {
+    "text": "双下肢粥样硬型闭塞症",
+    "normalized_result": "下肢动脉粥样硬化闭塞症"
+  },
+  {
+    "text": "癫痫或癫痫综合征",
+    "normalized_result": "癫痫"
+  },
+  {
+    "text": "左骨盆骨肉瘤复发术后(ENNEKING分期 III期)",
+    "normalized_result": "骨盆恶性肿瘤##骨肉瘤##盆腔术后##恶性肿瘤复发"
+  },
+  {
+    "text": "前列腺滤泡腺癌放疗后",
+    "normalized_result": "前列腺恶性肿瘤##腺癌##恶性肿瘤放疗"
+  },
+  {
+    "text": "腺性膀胱炎术后复查",
+    "normalized_result": "腺性膀胱炎##膀胱术后"
+  },
+  {
+    "text": "头皮疖肿低钙",
+    "normalized_result": "钙代谢紊乱##头部疖"
+  },
+  {
+    "text": "乙状结肠癌肝多发转移原发灶切除术后（T4N1M1 IV期）",
+    "normalized_result": "结肠术后##乙状结肠恶性肿瘤##肝继发恶性肿瘤##癌##转移性癌"
+  },
+  {
+    "text": "腰椎膝OA",
+    "normalized_result": "膝骨关节病##腰椎退行性病变"
+  },
+  {
+    "text": "皮肤软组织撕脱并缺损",
+    "normalized_result": "皮肤缺损"
+  },
+  {
+    "text": "\"肝占位病变,考虑肝癌\"",
+    "normalized_result": "肝恶性肿瘤##癌##肝占位性病变"
+  },
+  {
+    "text": "胃壁间质瘤",
+    "normalized_result": "胃肠道间质性瘤"
+  },
+  {
+    "text": "右足外侧皮肤缺血坏死",
+    "normalized_result": "下肢皮肤坏死##下肢供血不足"
+  },
+  {
+    "text": "左右侧颈动脉软斑及右侧锁骨下动脉混合斑",
+    "normalized_result": "锁骨下动脉斑块"
+  },
+  {
+    "text": "升结肠癌并不全性肠梗阻",
+    "normalized_result": "升结肠恶性肿瘤##不完全性肠梗阻##癌"
+  },
+  {
+    "text": "室性早搏射频消融术后",
+    "normalized_result": "室性期前收缩##心脏射频消融术后"
+  },
+  {
+    "text": "患儿在玩耍时不慎跌伤",
+    "normalized_result": "摔伤"
+  },
+  {
+    "text": "右胫腓骨骨缺损性骨不连",
+    "normalized_result": "腓骨骨折不连接##胫骨骨折不连接"
+  },
+  {
+    "text": "乳麻尿",
+    "normalized_result": "乳糜尿"
+  },
+  {
+    "text": "皮肤软组织挫伤",
+    "normalized_result": "皮肤挫伤"
+  },
+  {
+    "text": "胎-胎输血综合征供血者",
+    "normalized_result": "双胎输血综合征"
+  },
+  {
+    "text": "胎儿双肾发育异常",
+    "normalized_result": "肾发育不全"
+  },
+  {
+    "text": "剑突下疼痛待查;心肌梗死;",
+    "normalized_result": "剑突下疼痛"
+  },
+  {
+    "text": "脊柱退变异位骨化",
+    "normalized_result": "脊柱骨关节病"
+  },
+  {
+    "text": "右示指皮肤缺失皮肤软组织缺失",
+    "normalized_result": "皮肤缺损"
+  },
+  {
+    "text": "混合性肝细胞癌和胆管癌",
+    "normalized_result": "肝细胞癌##胆管癌"
+  },
+  {
+    "text": "右下肢神经、血管损伤",
+    "normalized_result": "身体未特指部位的神经损伤##身体未特指部位的血管损伤"
+  },
+  {
+    "text": "自身免疫性溶血性疾病(冷型)",
+    "normalized_result": "自身免疫性溶血性贫血(冷型)"
+  },
+  {
+    "text": "肺源性心脏病失代偿期",
+    "normalized_result": "肺源性心脏病"
+  },
+  {
+    "text": "双侧颈部淋巴结病变",
+    "normalized_result": "淋巴结病"
+  },
+  {
+    "text": "慢性移植物抗宿主反应病口腔皮肤眼",
+    "normalized_result": "慢性移植物抗宿主病"
+  },
+  {
+    "text": "慢性荨麻疹（皮肤划痕征）",
+    "normalized_result": "慢性荨麻疹##人为性荨麻疹"
+  },
+  {
+    "text": "室性自搏心律",
+    "normalized_result": "室性自搏"
+  },
+  {
+    "text": "右肺中叶外侧段肺组织膨胀不全",
+    "normalized_result": "肺不张"
+  },
+  {
+    "text": "周围神经病慢性格林巴雷急性发作",
+    "normalized_result": "吉兰-巴雷综合征##多发性神经病[多发性神经炎/周围神经炎]"
+  },
+  {
+    "text": "双子宫双阴道",
+    "normalized_result": "双阴道##双子宫"
+  },
+  {
+    "text": "胃早期癌",
+    "normalized_result": "胃恶性肿瘤##癌"
+  },
+  {
+    "text": "子宫颈癌IIB",
+    "normalized_result": "子宫颈恶性肿瘤##癌"
+  },
+  {
+    "text": "桡骨骨折术后",
+    "normalized_result": "桡骨骨折##骨折术后"
+  },
+  {
+    "text": "双肾盂输尿管上段积液",
+    "normalized_result": "输尿管积水##肾积水"
+  },
+  {
+    "text": "膀胱结石取石术后",
+    "normalized_result": "膀胱结石##膀胱术后"
+  },
+  {
+    "text": "右侧中央型肺癌伴阻塞性肺炎",
+    "normalized_result": "肺恶性肿瘤##阻塞性肺炎##癌"
+  },
+  {
+    "text": "中耳炎(伴急性结膜炎)",
+    "normalized_result": "中耳炎##急性结膜炎"
+  },
+  {
+    "text": "直肠中分化腺癌根治术后 IIIc期 pT4aN2aM0",
+    "normalized_result": "直肠术后##直肠恶性肿瘤##腺癌##淋巴结继发恶性肿瘤"
+  },
+  {
+    "text": "左颊部及右舌部扁平苔藓",
+    "normalized_result": "口腔扁平苔癣##舌扁平苔癣"
+  },
+  {
+    "text": "右支气管肺恶性肿瘤",
+    "normalized_result": "右肺恶性肿瘤"
+  },
+  {
+    "text": "右乳乳腺纤维腺瘤",
+    "normalized_result": "乳腺良性肿瘤##纤维腺瘤"
+  },
+  {
+    "text": "脑膜瘤放疗后",
+    "normalized_result": "脑膜瘤##恶性肿瘤放疗"
+  },
+  {
+    "text": "Lutembacher综合征",
+    "normalized_result": "卢滕巴赫综合征[Lutembacher综合征]"
+  },
+  {
+    "text": "右额颞顶部慢性硬膜下积液",
+    "normalized_result": "硬脑膜下积液"
+  },
+  {
+    "text": "传单反复扁桃体发炎",
+    "normalized_result": "扁桃体炎##传染性单核细胞增多症[腺性热]"
+  },
+  {
+    "text": "右肾癌骨继发恶性肿瘤",
+    "normalized_result": "肾恶性肿瘤##癌骨继发恶性肿瘤"
+  },
+  {
+    "text": "泌尿结石，软组织伤",
+    "normalized_result": "泌尿系结石"
+  },
+  {
+    "text": "右肺鳞癌 cT4N3M1 Ⅳ期",
+    "normalized_result": "右肺恶性肿瘤##鳞状细胞癌##淋巴结继发恶性肿瘤"
+  },
+  {
+    "text": "第1趾末节部分缺血性坏死右足血供不足",
+    "normalized_result": "下肢供血不足##足坏死"
+  },
+  {
+    "text": "眼眶骨瘤",
+    "normalized_result": "眶骨良性肿瘤"
+  },
+  {
+    "text": "胃淋巴肉瘤",
+    "normalized_result": "胃淋巴瘤"
+  },
+  {
+    "text": "鼻咽癌放化疗术后6年复查",
+    "normalized_result": "鼻咽恶性肿瘤##癌##恶性肿瘤放疗##化学治疗"
+  },
+  {
+    "text": "醣尿病肾功能轻度降低",
+    "normalized_result": "未特指的糖尿病伴有肾的并发症"
+  },
+  {
+    "text": "粟粒疹",
+    "normalized_result": "痱子"
+  },
+  {
+    "text": "右眼眼底黄斑变性",
+    "normalized_result": "黄斑变性"
+  },
+  {
+    "text": "颈45不稳伴退变",
+    "normalized_result": "颈椎不稳定##颈椎退行性病变"
+  },
+  {
+    "text": "右输尿管上段结石并积水",
+    "normalized_result": "输尿管结石##输尿管积水"
+  },
+  {
+    "text": "左示指皮肤缺失伴小片甲床缺损",
+    "normalized_result": "皮肤缺损"
+  },
+  {
+    "text": "右卵巢腺癌",
+    "normalized_result": "卵巢恶性肿瘤##腺癌"
+  },
+  {
+    "text": "b0干骺软骨发育不良症b",
+    "normalized_result": "干骺端发育不良"
+  },
+  {
+    "text": "左膝关节内侧半月板后角附着点撕脱性骨折",
+    "normalized_result": "膝关节骨折"
+  },
+  {
+    "text": "多脏器功能障碍衰竭ARDS肾血液心脏胃肠",
+    "normalized_result": "急性呼吸窘迫综合征##多脏器功能衰竭"
+  },
+  {
+    "text": "新生儿缺氧缺血性脑病并颅内出血",
+    "normalized_result": "新生儿缺氧缺血性脑病##颅内出血"
+  },
+  {
+    "text": "左髋关节骨关节炎",
+    "normalized_result": "髋骨关节病"
+  },
+  {
+    "text": "癫痫。运动发育落后",
+    "normalized_result": "癫痫"
+  },
+  {
+    "text": "横结肠1管状腺瘤横结肠2管状腺瘤",
+    "normalized_result": "管状腺瘤##横结肠良性肿瘤"
+  },
+  {
+    "text": "右上腭及右扁桃体经典霍奇金淋巴瘤化疗后",
+    "normalized_result": "经典型霍奇金淋巴瘤##扁桃体淋巴瘤##化学治疗"
+  },
+  {
+    "text": "面部双手多处划伤",
+    "normalized_result": "面部开放性损伤##手部开放性损伤"
+  },
+  {
+    "text": "双侧骨性关节炎",
+    "normalized_result": "骨关节病"
+  },
+  {
+    "text": "肝内多发占位与肝硬化",
+    "normalized_result": "肝硬化##肝占位性病变"
+  },
+  {
+    "text": "右肺低分化鳞状细胞癌",
+    "normalized_result": "右肺恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "中度混合性听力下降",
+    "normalized_result": "未特指的混合性传导性和感音神经性听觉丧失"
+  },
+  {
+    "text": "左股骨骨质破坏区姑息性放疗后",
+    "normalized_result": "骨质破坏##姑息医疗##放射治疗"
+  },
+  {
+    "text": "多发骨质破坏原因代谢性骨病氟骨病肿瘤",
+    "normalized_result": "骨质破坏##氟骨症##性质未特指的肿瘤"
+  },
+  {
+    "text": "左额硬膜下血肿非创伤性",
+    "normalized_result": "非创伤性硬脑膜下血肿"
+  },
+  {
+    "text": "原发性甲状腺功能减退症（甲状腺囊肿术后甲减）",
+    "normalized_result": "原发性甲状腺功能减退##甲状腺囊肿##甲状腺功能减退"
+  },
+  {
+    "text": "右面部软组织挫裂伤",
+    "normalized_result": "面部软组织挫伤"
+  },
+  {
+    "text": "腰45右侧小关节异常改变请结合定位检查",
+    "normalized_result": "腰椎小关节紊乱"
+  },
+  {
+    "text": "右眼黄斑裂口",
+    "normalized_result": "黄斑裂孔"
+  },
+  {
+    "text": "智力语言发育差原因待查",
+    "normalized_result": "言语和语言发育障碍"
+  },
+  {
+    "text": "退行性心瓣膜病变",
+    "normalized_result": "心脏瓣膜病"
+  },
+  {
+    "text": "双膝外侧盘状半月板",
+    "normalized_result": "先天性盘状半月板"
+  },
+  {
+    "text": "胃食管结合部癌综合治疗后吻合口复发",
+    "normalized_result": "食管胃连接部恶性肿瘤##癌##恶性肿瘤复发"
+  },
+  {
+    "text": "宫颈上皮内瘤样病变II-III级",
+    "normalized_result": "子宫颈上皮内瘤变III级[CINIII级]##宫颈上皮瘤样病变[CIN]II级"
+  },
+  {
+    "text": "双膝关节髌上滑膜皱襞综合症",
+    "normalized_result": "膝关节滑膜皱襞综合征"
+  },
+  {
+    "text": "先天性胆道扩张症",
+    "normalized_result": "先天性胆管扩张"
+  },
+  {
+    "text": "下腹疼痛（盆腔炎？）",
+    "normalized_result": "下腹痛##女性盆腔炎"
+  },
+  {
+    "text": "右足犬抓伤",
+    "normalized_result": "足部开放性损伤##被狗抓伤"
+  },
+  {
+    "text": "右髂动脉及股动脉支架置入术",
+    "normalized_result": "血管支架植入术后状态"
+  },
+  {
+    "text": "左小脑半球血管网状细胞病",
+    "normalized_result": "烟雾病[脑底异常血管网病]"
+  },
+  {
+    "text": "名称子宫下段剖宫产术",
+    "normalized_result": "无指征剖宫产的单胎分娩"
+  },
+  {
+    "text": "腹膜后平滑肌肉瘤",
+    "normalized_result": "腹膜后恶性肿瘤##平滑肌肉瘤"
+  },
+  {
+    "text": "右眼急性视网膜坏死",
+    "normalized_result": "急性视网膜坏死综合征"
+  },
+  {
+    "text": "左额叶脑肿胀",
+    "normalized_result": "脑水肿"
+  },
+  {
+    "text": "左枕部皮肤划伤",
+    "normalized_result": "头皮开放性损伤"
+  },
+  {
+    "text": "癌症化放疗",
+    "normalized_result": "癌症##恶性肿瘤放疗##化学治疗"
+  },
+  {
+    "text": "右手中指伸肌腱止点撕脱性骨折",
+    "normalized_result": "指骨骨折"
+  },
+  {
+    "text": "多发性周围神经运动支感觉支脱髓鞘异常",
+    "normalized_result": "脱髓鞘病##多发性神经病[多发性神经炎/周围神经炎]"
+  },
+  {
+    "text": "完全流产",
+    "normalized_result": "\"流产,完全性或未特指,无并发症\""
+  },
+  {
+    "text": "停经236周B超提示胎儿心脏双主动脉弓",
+    "normalized_result": "妊娠状态##先天性双主动脉弓##胎儿先天性心脏病"
+  },
+  {
+    "text": "双耳先天性极重度感音神经性聋",
+    "normalized_result": "双侧感音神经性聋##先天性聋"
+  },
+  {
+    "text": "1妊娠晚期胎盘伴灶片状钙化2胎膜大致正常",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "右眼goldenhar综合征",
+    "normalized_result": "第一、二鳃弓综合征[Goldenhar综合征]"
+  },
+  {
+    "text": "急性粒细胞减少症",
+    "normalized_result": "中性粒细胞减少症"
+  },
+  {
+    "text": "4、右胫骨中段骨折术后骨愈合",
+    "normalized_result": "胫骨骨折##骨折术后"
+  },
+  {
+    "text": "主动脉瓣换瓣术后",
+    "normalized_result": "具有其他心脏瓣膜置换"
+  },
+  {
+    "text": "鼻腔放化疗后",
+    "normalized_result": "恶性肿瘤放疗##化学治疗##鼻腔恶性肿瘤"
+  },
+  {
+    "text": "特指手术后状态(右肝癌术后)",
+    "normalized_result": "肝恶性肿瘤##癌##肝术后##其他特指的手术后状态"
+  },
+  {
+    "text": "重度骨质疏松(绝经期)",
+    "normalized_result": "重度骨质疏松##绝经期"
+  },
+  {
+    "text": "肝胆管粘液腺癌",
+    "normalized_result": "肝胆管恶性肿瘤##粘液腺癌"
+  },
+  {
+    "text": "孕38+1周羊水偏少",
+    "normalized_result": "孕38周##羊水过少"
+  },
+  {
+    "text": "左侧下肢多发A-V瘘",
+    "normalized_result": "动静脉瘘"
+  },
+  {
+    "text": "右肺周围型中分化腺癌",
+    "normalized_result": "右肺恶性肿瘤##腺癌"
+  },
+  {
+    "text": "1.子宫腺肌病。增生期子宫内膜。子宫内膜息肉",
+    "normalized_result": "子宫肌腺症##子宫内膜息肉"
+  },
+  {
+    "text": "脑内多发缺血性脱髓鞘6双侧上颌窦少量积液",
+    "normalized_result": "脱髓鞘性脑病##脑血管供血不足"
+  },
+  {
+    "text": "右胸壁脂肪坏死",
+    "normalized_result": "脂肪坏死"
+  },
+  {
+    "text": "残胃癌并梗阻",
+    "normalized_result": "残胃恶性肿瘤##癌"
+  },
+  {
+    "text": "右肺上叶鳞癌",
+    "normalized_result": "右肺上叶恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "待查重叠重合征低钾血征",
+    "normalized_result": "低钾血症##重叠综合征"
+  },
+  {
+    "text": "肝胃不和血脂高",
+    "normalized_result": "高脂血症"
+  },
+  {
+    "text": "其他诊断完全性肺静脉异位引流——混合型",
+    "normalized_result": "\"完全性肺静脉异位引流,混合型\""
+  },
+  {
+    "text": "鼻咽分化型非角化癌",
+    "normalized_result": "鼻咽恶性肿瘤##癌"
+  },
+  {
+    "text": "滑膜炎左膝滑膜皱襞综合症",
+    "normalized_result": "滑膜炎##膝关节滑膜皱襞综合征"
+  },
+  {
+    "text": "多点取材仅见少量高度变性癌细胞胃壁全",
+    "normalized_result": "胃恶性肿瘤##癌"
+  },
+  {
+    "text": "糖尿病消化不良高尿酸高血脂",
+    "normalized_result": "糖尿病##消化不良##高尿酸血症##高脂血症"
+  },
+  {
+    "text": "胃底病变内镜粘膜下剥离术",
+    "normalized_result": "胃和十二指肠未特指的疾病"
+  },
+  {
+    "text": "胸部腹部软组织肿瘤",
+    "normalized_result": "腹部肿瘤##胸部肿瘤"
+  },
+  {
+    "text": "系统性硬皮病并雷诺病",
+    "normalized_result": "系统性硬化症##雷诺综合征"
+  },
+  {
+    "text": "结肠癌术后，化疗后",
+    "normalized_result": "结肠恶性肿瘤##癌##恶性肿瘤术后化疗"
+  },
+  {
+    "text": "腰椎压缩性骨折L3",
+    "normalized_result": "腰椎压缩性骨折##腰椎骨折L3"
+  },
+  {
+    "text": "右侧乳腺外上象限恶性肿瘤",
+    "normalized_result": "乳腺外上象限恶性肿瘤"
+  },
+  {
+    "text": "剖宫产后，低热",
+    "normalized_result": "经未特指的剖宫产术分娩##发热"
+  },
+  {
+    "text": "左小腿浅静脉血栓，软组织挫伤",
+    "normalized_result": "下肢静脉血栓形成"
+  },
+  {
+    "text": "外院CAVCCOA左心发育欠佳",
+    "normalized_result": "左心发育不良综合征"
+  },
+  {
+    "text": "颅骨后天性缺损",
+    "normalized_result": "后天性颅骨缺损"
+  },
+  {
+    "text": "腰椎压缩性骨折术后",
+    "normalized_result": "腰椎压缩性骨折##骨折术后"
+  },
+  {
+    "text": "运动神经功能损害",
+    "normalized_result": "运动神经元病"
+  },
+  {
+    "text": "牙周炎A67牙本质过敏C2-D1楔缺",
+    "normalized_result": "牙本质过敏症##牙齿楔状缺损##牙周炎"
+  },
+  {
+    "text": "浸润性突眼",
+    "normalized_result": "突眼性情况"
+  },
+  {
+    "text": "宫颈鳞状细胞癌IIIB期化疗后",
+    "normalized_result": "子宫颈恶性肿瘤##鳞状细胞癌##化学治疗"
+  },
+  {
+    "text": "2双下肢股骨头坏死",
+    "normalized_result": "股骨头缺血性坏死"
+  },
+  {
+    "text": "腰骶筋膜炎",
+    "normalized_result": "筋膜炎"
+  },
+  {
+    "text": "左眼角膜中央板层戳伤",
+    "normalized_result": "角膜损伤"
+  },
+  {
+    "text": "下唇疖肿",
+    "normalized_result": "皮肤疖肿"
+  },
+  {
+    "text": "右乳错构瘤",
+    "normalized_result": "乳房错构瘤"
+  },
+  {
+    "text": "副乳腺",
+    "normalized_result": "副乳"
+  },
+  {
+    "text": "食道癌放疗后",
+    "normalized_result": "食管恶性肿瘤##癌##恶性肿瘤放疗"
+  },
+  {
+    "text": "黏膜组织慢性炎伴淋巴组织增生",
+    "normalized_result": "淋巴组织增生##淋巴组织增生病"
+  },
+  {
+    "text": "2型糖尿病合并2型糖尿病性周围神经病变",
+    "normalized_result": "2型糖尿病##2型糖尿病性周围神经病"
+  },
+  {
+    "text": "骶尾部穿透伤",
+    "normalized_result": "骨盆开放性损伤"
+  },
+  {
+    "text": "卵巢恶性肿瘤伴腹水",
+    "normalized_result": "卵巢恶性肿瘤##腹水"
+  },
+  {
+    "text": "上消化道出血待查：溃疡？",
+    "normalized_result": "上消化道出血##消化性溃疡"
+  },
+  {
+    "text": "肝局灶增生血脂高",
+    "normalized_result": "高脂血症"
+  },
+  {
+    "text": "双颈部淋巴结反应性增生",
+    "normalized_result": "颈淋巴结肿大"
+  },
+  {
+    "text": "侧脑室心房分流术后",
+    "normalized_result": "脑脊液分流状态"
+  },
+  {
+    "text": "双侧输卵管高级别浆液性癌IIIC期",
+    "normalized_result": "浆液性癌##输卵管恶性肿瘤"
+  },
+  {
+    "text": "左膝关节浅表肿物",
+    "normalized_result": "膝关节肿物"
+  },
+  {
+    "text": "嗜酸细胞性支气管炎",
+    "normalized_result": "支气管炎"
+  },
+  {
+    "text": "食管浅表溃疡型中分化鳞状细胞癌",
+    "normalized_result": "食管恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "双侧肾动脉支架植入术",
+    "normalized_result": "血管支架植入术后状态"
+  },
+  {
+    "text": "腹部左大腿打伤",
+    "normalized_result": "腹部损伤##大腿损伤"
+  },
+  {
+    "text": "阴道胚胎性横纹肌肉瘤",
+    "normalized_result": "阴道恶性肿瘤##胚胎型横纹肌肉瘤"
+  },
+  {
+    "text": "右眼睑过敏",
+    "normalized_result": "眼睑变应性皮炎"
+  },
+  {
+    "text": "胎盘绒毛血管增多底板绒毛外滋养细胞增多",
+    "normalized_result": "未特指的胎盘疾患"
+  },
+  {
+    "text": "腘绳肌腱膜炎",
+    "normalized_result": "肌腱炎"
+  },
+  {
+    "text": "右侧肾盂粘膜炎性病变",
+    "normalized_result": "肾盂炎"
+  },
+  {
+    "text": "心悸气短",
+    "normalized_result": "心悸##气短"
+  },
+  {
+    "text": "右侧输尿管切开取石术后",
+    "normalized_result": "输尿管结石##输尿管术后"
+  },
+  {
+    "text": "念珠菌性外阴阴N92.600道炎",
+    "normalized_result": "念球菌性外阴炎"
+  },
+  {
+    "text": "口腔黏膜擦伤",
+    "normalized_result": "口腔和咽喉部损伤"
+  },
+  {
+    "text": "动脉粥样硬化(颈动脉斑块)",
+    "normalized_result": "颈动脉粥样硬化"
+  },
+  {
+    "text": "口咽鳞状细胞癌化疗后",
+    "normalized_result": "口咽恶性肿瘤##鳞状细胞癌##化学治疗"
+  },
+  {
+    "text": "右颊粘膜右舌背扁平苔藓伴轻糜免疫异常",
+    "normalized_result": "口腔扁平苔癣##舌扁平苔癣"
+  },
+  {
+    "text": "右侧陈旧性腔隙性脑梗死",
+    "normalized_result": "腔隙性脑梗死"
+  },
+  {
+    "text": "左足底裂伤伴感染",
+    "normalized_result": "足裂伤##足软组织感染"
+  },
+  {
+    "text": "痔疮术后出血",
+    "normalized_result": "痔##出血"
+  },
+  {
+    "text": "高血压;A族高脂血症;心绞痛;支架植入术后状态;肺部感染",
+    "normalized_result": "高血压##A族高脂血症##心绞痛##冠状动脉支架植入术后状态##肺部感染"
+  },
+  {
+    "text": "乳腺浸润性导管癌Ⅱ-Ⅲ级",
+    "normalized_result": "乳腺恶性肿瘤##浸润性导管癌"
+  },
+  {
+    "text": "出血性脑梗死后遗症继发癫痫发作",
+    "normalized_result": "出血性脑梗死##脑梗死后遗症##症状性癫痫[继发性癫痫]"
+  },
+  {
+    "text": "腰5-骶1病变伴双下肢不全瘫",
+    "normalized_result": "截瘫[双下肢瘫痪]##不完全性瘫痪"
+  },
+  {
+    "text": "肿瘤性马尾神经不全损伤",
+    "normalized_result": "马尾损伤"
+  },
+  {
+    "text": "左腕舟骨月骨三角骨缺血坏死",
+    "normalized_result": "月骨缺血性坏死##骨缺血性坏死"
+  },
+  {
+    "text": "Bowen环状扁平苔藓",
+    "normalized_result": "扁平苔癣##鲍恩病"
+  },
+  {
+    "text": "念珠菌感染",
+    "normalized_result": "念珠菌病"
+  },
+  {
+    "text": "右乳癌综合治疗后肝",
+    "normalized_result": "乳腺恶性肿瘤##癌"
+  },
+  {
+    "text": "躯体化症状肝郁脾虚",
+    "normalized_result": "躯体化障碍"
+  },
+  {
+    "text": "腹腔镜保胆取石术后",
+    "normalized_result": "胆囊术后##胆石症"
+  },
+  {
+    "text": "荨麻疹，胃肠型",
+    "normalized_result": "胃肠型荨麻疹"
+  },
+  {
+    "text": "结肠管状腺瘤2结肠管状腺瘤",
+    "normalized_result": "结肠良性肿瘤##管状腺瘤"
+  },
+  {
+    "text": "膀胱移行上皮癌",
+    "normalized_result": "膀胱恶性肿瘤##癌"
+  },
+  {
+    "text": "游离体骨和软骨结构",
+    "normalized_result": "关节游离体"
+  },
+  {
+    "text": "意识丧失伴肢体抽搐",
+    "normalized_result": "意识丧失##抽搐状态"
+  },
+  {
+    "text": "肝脏结合病史符合外伤性肝破裂",
+    "normalized_result": "肝破裂"
+  },
+  {
+    "text": "神经症右下肺间质性损害",
+    "normalized_result": "神经症性障碍##间质性肺病"
+  },
+  {
+    "text": "颈胸腰椎间盘退行性变",
+    "normalized_result": "颈椎退行性病变##胸椎退行性病变##腰椎退行性病变"
+  },
+  {
+    "text": "单纯疱疹病毒感染症",
+    "normalized_result": "单纯疱疹"
+  },
+  {
+    "text": "2左胫骨远端骨不连",
+    "normalized_result": "胫骨骨折不连接"
+  },
+  {
+    "text": "心c肌桥累及前降支",
+    "normalized_result": "冠状动脉肌桥"
+  },
+  {
+    "text": "硬化性肾小球肾炎",
+    "normalized_result": "硬化性肾炎"
+  },
+  {
+    "text": "子宫黏膜下肌瘤",
+    "normalized_result": "子宫粘膜下平滑肌瘤##子宫平滑肌瘤"
+  },
+  {
+    "text": "左下叶开口非小细胞Ca考虑鳞状细胞Ca",
+    "normalized_result": "左肺下叶恶性肿瘤##非小细胞癌##鳞状细胞癌"
+  },
+  {
+    "text": "全身强直型发作",
+    "normalized_result": "癫痫大发作[全身强直-阵挛性发作]"
+  },
+  {
+    "text": "产伤性Ⅰ度会阴裂伤",
+    "normalized_result": "分娩伴会阴裂伤I度"
+  },
+  {
+    "text": "左侧结节性甲状腺肿物",
+    "normalized_result": "甲状腺肿物"
+  },
+  {
+    "text": "1接触性皮炎2唇炎",
+    "normalized_result": "接触性皮炎##唇炎"
+  },
+  {
+    "text": "右侧颞顶骨折",
+    "normalized_result": "顶骨骨折##颞骨骨折"
+  },
+  {
+    "text": "骶尾部纤维脂肪组织化脓",
+    "normalized_result": "软组织感染"
+  },
+  {
+    "text": "阴茎发育异常",
+    "normalized_result": "先天性阴茎发育不全"
+  },
+  {
+    "text": "肝脏肿瘤：肝母细胞瘤？",
+    "normalized_result": "肝恶性肿瘤##肝母细胞瘤##肝母细胞瘤"
+  },
+  {
+    "text": "高血酯病4高血酯病",
+    "normalized_result": "高脂血症"
+  },
+  {
+    "text": "口腔血管瘤",
+    "normalized_result": "口腔血管瘤##血管瘤"
+  },
+  {
+    "text": "CAVC左室发育小",
+    "normalized_result": "完全型心内膜垫缺损"
+  },
+  {
+    "text": "左胫腓骨挫伤",
+    "normalized_result": "胫骨骨折##腓骨骨折"
+  },
+  {
+    "text": "纵隔鳞癌",
+    "normalized_result": "纵隔恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "乙状结肠癌同时性肝转移IV期，化疗白细胞低 肝损害，消化不良，腹泻",
+    "normalized_result": "乙状结肠恶性肿瘤##肝继发恶性肿瘤##化疗药物反应##白细胞减少##肝损害##消化不良##O##癌##转移性癌"
+  },
+  {
+    "text": "前纵裂及基底池血肿",
+    "normalized_result": "蛛网膜下腔血肿##颅内血肿"
+  },
+  {
+    "text": "直肠肛门松弛症",
+    "normalized_result": "直肠脱垂##肛门括约肌松弛"
+  },
+  {
+    "text": "贲门粘液腺癌",
+    "normalized_result": "贲门恶性肿瘤##粘液腺癌"
+  },
+  {
+    "text": "胸髓病变T9完全横贯性损害梗死",
+    "normalized_result": "脊髓病##急性脊髓梗死"
+  },
+  {
+    "text": "双足CMT",
+    "normalized_result": "腓骨肌萎缩"
+  },
+  {
+    "text": "中分化鳞形细胞癌",
+    "normalized_result": "鳞状细胞癌"
+  },
+  {
+    "text": "右肺中叶腺癌化学治疗后的随诊检查",
+    "normalized_result": "右肺中叶恶性肿瘤##腺癌##恶性肿瘤化学治疗后的随诊检查"
+  },
+  {
+    "text": "乙状结肠癌（pT3N2aMx）",
+    "normalized_result": "乙状结肠恶性肿瘤##癌##淋巴结继发恶性肿瘤"
+  },
+  {
+    "text": "L1-2椎管内神经鞘瘤",
+    "normalized_result": "神经鞘瘤##椎管内良性肿瘤"
+  },
+  {
+    "text": "左腘窝滑膜软瘤病",
+    "normalized_result": "软骨瘤病##腘窝良性肿瘤"
+  },
+  {
+    "text": "咳喘原因待查",
+    "normalized_result": "咳嗽##喘息"
+  },
+  {
+    "text": "右侧扁桃体鳞状细胞癌",
+    "normalized_result": "鳞状细胞癌##扁桃体恶性肿瘤"
+  },
+  {
+    "text": "葡萄酒色痣",
+    "normalized_result": "鲜红斑痣[葡萄酒色痣]"
+  },
+  {
+    "text": "纵膈积气颈胸部皮下气肿",
+    "normalized_result": "纵隔气肿"
+  },
+  {
+    "text": "左胸壁先天性鳃裂瘘管",
+    "normalized_result": "鳃裂瘘"
+  },
+  {
+    "text": "右腿麻软查因",
+    "normalized_result": "肌无力"
+  },
+  {
+    "text": "左踝关节损伤",
+    "normalized_result": "踝关节扭伤"
+  },
+  {
+    "text": "右下肺癌、肺结核（-）",
+    "normalized_result": "右肺下叶恶性肿瘤##癌"
+  },
+  {
+    "text": "电弧烧伤面部",
+    "normalized_result": "面部烧伤##电流引起烧伤"
+  },
+  {
+    "text": "左侧胸膜胸壁占位",
+    "normalized_result": "胸壁占位##胸膜占位"
+  },
+  {
+    "text": "右膝关节外侧盘状半月板前交叉韧带止点血肿",
+    "normalized_result": "先天性盘状半月板"
+  },
+  {
+    "text": "胼胝体发育异常",
+    "normalized_result": "胼胝体发育不全"
+  },
+  {
+    "text": "冠心病冠脉支架置入术后",
+    "normalized_result": "冠状动脉粥样硬化性心脏病##冠状动脉支架植入术后状态"
+  },
+  {
+    "text": "左颌颈部肉芽肿性炎",
+    "normalized_result": "肉芽肿"
+  },
+  {
+    "text": "颅内多发腔隙性梗塞",
+    "normalized_result": "腔隙性脑梗死##多发性脑梗死"
+  },
+  {
+    "text": "肝门区囊性病灶右肝低密度性质待查",
+    "normalized_result": "肝囊肿"
+  },
+  {
+    "text": "右上肺结节:肺癌",
+    "normalized_result": "肺占位性病变##右肺上叶恶性肿瘤##癌"
+  },
+  {
+    "text": "下腹部包块待查；双侧腹股沟疝气术后",
+    "normalized_result": "腹部肿物##双侧腹股沟疝##腹股沟术后"
+  },
+  {
+    "text": "腰5椎体病变伴双下肢不全瘫",
+    "normalized_result": "不完全性瘫痪##截瘫[双下肢瘫痪]##腰椎病"
+  },
+  {
+    "text": "左肾盂及上段输尿管扩张积水，左侧输尿管盆腔段狭窄",
+    "normalized_result": "输尿管扩张##肾盂扩张##输尿管积水##输尿管狭窄"
+  },
+  {
+    "text": "双颈动脉粥样硬化症",
+    "normalized_result": "颈动脉粥样硬化"
+  },
+  {
+    "text": "横结肠低分化腺癌",
+    "normalized_result": "横结肠恶性肿瘤##腺癌"
+  },
+  {
+    "text": "脾稍增大副脾",
+    "normalized_result": "先天性副脾##脾大"
+  },
+  {
+    "text": "血脂升高",
+    "normalized_result": "高脂血症"
+  },
+  {
+    "text": "头面部多发骨折",
+    "normalized_result": "颅骨和面骨多发性骨折"
+  },
+  {
+    "text": "L1椎体压缩骨折",
+    "normalized_result": "腰椎压缩性骨折"
+  },
+  {
+    "text": "NSE神经元特异性烯醇化酶异常升高",
+    "normalized_result": "肿瘤标记物升高"
+  },
+  {
+    "text": "肝功能异常癌症放化疗",
+    "normalized_result": "肝功能异常##化学治疗##恶性肿瘤放疗##癌症"
+  },
+  {
+    "text": "发育不良待查",
+    "normalized_result": "先天性发育异常"
+  },
+  {
+    "text": "腰椎病理性压缩骨折",
+    "normalized_result": "腰椎压缩性骨折##病理性骨折"
+  },
+  {
+    "text": "右手小指腱鞘巨细胞瘤",
+    "normalized_result": "腱鞘巨细胞瘤##手部肿瘤"
+  },
+  {
+    "text": "肱骨内上髁炎左侧",
+    "normalized_result": "内侧上髁炎"
+  },
+  {
+    "text": "脊柱退变形疾病",
+    "normalized_result": "脊柱骨关节病"
+  },
+  {
+    "text": "左上颌窦见大量真菌菌丝及钙盐沉积",
+    "normalized_result": "真菌性上颌窦炎##钙质沉着症"
+  },
+  {
+    "text": "MODS心功能肾功能凝血功能",
+    "normalized_result": "多脏器功能障碍综合征[MODS]"
+  },
+  {
+    "text": "外伤后瘢痕",
+    "normalized_result": "瘢痕"
+  },
+  {
+    "text": "停经234周院外B超提示左侧肾盂增宽",
+    "normalized_result": "停经"
+  },
+  {
+    "text": "急性脑梗塞陈旧性脑干梗塞",
+    "normalized_result": "脑梗死##陈旧性脑梗死##脑干梗死"
+  },
+  {
+    "text": "右股骨中下段骨折",
+    "normalized_result": "股骨骨折"
+  },
+  {
+    "text": "（左肾）符合重复肾",
+    "normalized_result": "重复肾"
+  },
+  {
+    "text": "胃粘液腺癌",
+    "normalized_result": "粘液腺癌##胃恶性肿瘤"
+  },
+  {
+    "text": "右肾囊肿伴结石",
+    "normalized_result": "肾结石##肾囊肿"
+  },
+  {
+    "text": "\"胃体癌，弥漫型,胃镜检查,超声胃镜检查,出血倾向,贫血\"",
+    "normalized_result": "胃体恶性肿瘤##癌##出血倾向##贫血"
+  },
+  {
+    "text": "左前臂骨筋膜综合症",
+    "normalized_result": "上肢骨筋膜室综合征"
+  },
+  {
+    "text": "语言发育差查因",
+    "normalized_result": "言语和语言发育障碍"
+  },
+  {
+    "text": "骨穿支持免疫相关性血细胞减少",
+    "normalized_result": "免疫相关性血细胞减少症（IRP）"
+  },
+  {
+    "text": "高甘油三酯脂血症心脏病未特指",
+    "normalized_result": "高甘油三酯血症##未特指的心脏病"
+  },
+  {
+    "text": "左手犬抓伤",
+    "normalized_result": "手部开放性损伤##被狗抓伤"
+  },
+  {
+    "text": "右胸壁脂肪坏死性肉芽肿性炎",
+    "normalized_result": "脂肪坏死##肉芽肿"
+  },
+  {
+    "text": "颈胸椎放疗中",
+    "normalized_result": "放射治疗"
+  },
+  {
+    "text": "\"全子宫切除术后,盆腔囊肿,包裹性积液,直肠类癌术后,肠镜检查,出血倾向,肠道准备\"",
+    "normalized_result": "O##盆腔囊肿##盆腔包裹性积液##直肠术后##直肠恶性肿瘤##类癌瘤##出血倾向"
+  },
+  {
+    "text": "瘢痕溃疡",
+    "normalized_result": "瘢痕"
+  },
+  {
+    "text": "左肺上叶小细胞癌局限期 cT3N3M0 IIIc期",
+    "normalized_result": "左肺上叶恶性肿瘤##小细胞癌##淋巴结继发恶性肿瘤"
+  },
+  {
+    "text": "骨髓增生异常综合征转化为急性白血病",
+    "normalized_result": "骨髓增生异常综合征"
+  },
+  {
+    "text": "马凡综合征伴脊柱侧弯畸形",
+    "normalized_result": "马方综合征[Marfan综合征]##脊柱侧弯"
+  },
+  {
+    "text": "胰腺癌术后腹腔广泛转移 肺转移？",
+    "normalized_result": "胰腺恶性肿瘤##癌##肺继发恶性肿瘤##腹腔继发恶性肿瘤##转移性癌##广泛转移性肿瘤"
+  },
+  {
+    "text": "8胸腔气肿纵隔积气",
+    "normalized_result": "纵隔气肿##气胸"
+  },
+  {
+    "text": "阵发性心房颤动心房纤颤",
+    "normalized_result": "阵发性心房颤动"
+  },
+  {
+    "text": "左大脑中动脉阻塞或变异",
+    "normalized_result": "脑血管畸形"
+  },
+  {
+    "text": "肺部感染伴胸腔积液",
+    "normalized_result": "肺部感染##胸腔积液"
+  },
+  {
+    "text": "轻度脑动脉硬化性",
+    "normalized_result": "脑血管硬化"
+  },
+  {
+    "text": "\"G1P0孕37+2周临产LOA,中度贫血\"",
+    "normalized_result": "孕37周##中度贫血"
+  },
+  {
+    "text": "先天性二叶式主动脉瓣",
+    "normalized_result": "主动脉瓣二瓣化畸形"
+  },
+  {
+    "text": "原发性胆汁性硬化失代偿期",
+    "normalized_result": "原发性胆汁型肝硬化##肝硬化失代偿期"
+  },
+  {
+    "text": "绝经3年外阴VIN1",
+    "normalized_result": "\"外阴上皮内肿瘤[VIN],I级##绝经\""
+  },
+  {
+    "text": "双下肢动脉硬化伴斑块形成",
+    "normalized_result": "肢体动脉硬化"
+  },
+  {
+    "text": "色素失调症",
+    "normalized_result": "色素失禁症"
+  },
+  {
+    "text": "血便原因1结肠疾病2小肠疾病",
+    "normalized_result": "便血##肠未特指的疾病"
+  },
+  {
+    "text": "IgA肾病肝硬化相关可能",
+    "normalized_result": "IgA肾病##肝硬化"
+  },
+  {
+    "text": "宫内膜复杂性增生局部轻度非典型性",
+    "normalized_result": "子宫内膜增生##宫颈上皮不典型增生"
+  },
+  {
+    "text": "右侧乳腺纤维腺瘤",
+    "normalized_result": "乳腺良性肿瘤##纤维腺瘤"
+  },
+  {
+    "text": "乳腺增生并导管扩张及纤维腺瘤形成",
+    "normalized_result": "乳腺增生##乳腺导管扩张症##纤维腺瘤##乳腺良性肿瘤"
+  },
+  {
+    "text": "骨转移放疗后LuminalBHER2阴性",
+    "normalized_result": "骨继发恶性肿瘤##转移性肿瘤##恶性肿瘤放疗"
+  },
+  {
+    "text": "血白细胞升高原因头昏原因双眼浮肿原因",
+    "normalized_result": "白细胞增多##眼睑水肿##头晕"
+  },
+  {
+    "text": "左腕关节月骨无菌性坏死伴左腕关节反应性滑",
+    "normalized_result": "成人腕月骨骨软骨病[成人金伯克病]"
+  },
+  {
+    "text": "包茎球囊扩张术后换药",
+    "normalized_result": "包茎##阴茎术后"
+  },
+  {
+    "text": "双侧放射性肺炎并感染",
+    "normalized_result": "放射性肺炎##肺部感染"
+  },
+  {
+    "text": "宫颈癌IB3期",
+    "normalized_result": "子宫颈恶性肿瘤##癌"
+  },
+  {
+    "text": "骶1椎板不连骶1隐裂",
+    "normalized_result": "先天性腰骶椎隐裂"
+  },
+  {
+    "text": "右侧椎动脉颅内段蛇形夹层改变",
+    "normalized_result": "颅内椎动脉夹层"
+  },
+  {
+    "text": "其他粘液囊囊肿M713臀",
+    "normalized_result": "其他的粘液囊囊肿"
+  },
+  {
+    "text": "特殊检查左乳突肿左枕骨下肿",
+    "normalized_result": "头部肿胀"
+  },
+  {
+    "text": "左前降支中段中度肌桥",
+    "normalized_result": "冠状动脉肌桥"
+  },
+  {
+    "text": "双乳雷诺氏症",
+    "normalized_result": "雷诺综合征"
+  },
+  {
+    "text": "左眼暴露性角膜病变",
+    "normalized_result": "角膜未特指的疾患"
+  },
+  {
+    "text": "右前颅底改变符合骨纤维结构不良",
+    "normalized_result": "颅骨纤维增殖症"
+  },
+  {
+    "text": "糖尿病性周围神经病变脑神经脊神经均受累",
+    "normalized_result": "糖尿病性周围神经病"
+  },
+  {
+    "text": "胫动脉闭塞左胫后动脉中下段右胫后动脉全程",
+    "normalized_result": "胫后动脉闭塞"
+  },
+  {
+    "text": "升结肠中分化腺癌pT1N0M0",
+    "normalized_result": "升结肠恶性肿瘤##腺癌"
+  },
+  {
+    "text": "被人击打致伤",
+    "normalized_result": "被别人殴打、踢、拧、咬或抓伤"
+  },
+  {
+    "text": "慢性胆囊炎急性发作期",
+    "normalized_result": "慢性胆囊炎急性发作"
+  },
+  {
+    "text": "左内踝及外踝撕脱性骨折",
+    "normalized_result": "外踝骨折##内踝骨折"
+  },
+  {
+    "text": "1颏下疤痕伴色素沉着",
+    "normalized_result": "色素沉着未特指的疾患##面部瘢痕"
+  },
+  {
+    "text": "\"乳腺癌,化疗后骨髓抑制,药物性肝损伤,化疗呕吐 血肿,转氨酶升高 黄疸\"",
+    "normalized_result": "乳腺恶性肿瘤##化疗后骨髓抑制##药物性肝损害##化疗药物反应##呕吐##转氨酶升高##黄疸##癌"
+  },
+  {
+    "text": "\"冠心病,心绞痛型+缺血性心肌病\"",
+    "normalized_result": "心绞痛##缺血性心肌病##冠状动脉粥样硬化性心脏病"
+  },
+  {
+    "text": "无精子症(睾丸活检术)",
+    "normalized_result": "无精子症"
+  },
+  {
+    "text": "咳嗽(乏力)",
+    "normalized_result": "咳嗽##乏力"
+  },
+  {
+    "text": "乙状结肠腺瘤伴高级别上皮内瘤变",
+    "normalized_result": "乙状结肠良性肿瘤##腺瘤"
+  },
+  {
+    "text": "继发性重度骨髓再生功能障碍",
+    "normalized_result": "继发性再生障碍性贫血"
+  },
+  {
+    "text": "\"肾移植术后,肺部感染\"",
+    "normalized_result": "肾移植状态##肺部感染"
+  },
+  {
+    "text": "交界逸搏心律",
+    "normalized_result": "结性逸搏"
+  },
+  {
+    "text": "电弧烧伤面颈",
+    "normalized_result": "面部烧伤##颈部烧伤##电流引起烧伤"
+  },
+  {
+    "text": "十二指肠癌",
+    "normalized_result": "十二指肠恶性肿瘤##癌"
+  },
+  {
+    "text": "食管下段小细胞癌维持性化学治疗",
+    "normalized_result": "食管下三分之一的恶性肿瘤##恶性肿瘤维持性化学治疗##癌"
+  },
+  {
+    "text": "肝动脉灌注化疗后",
+    "normalized_result": "化学治疗"
+  },
+  {
+    "text": "右足第5趾跖关节囊破裂并关节面缺损",
+    "normalized_result": "跖趾关节损伤"
+  },
+  {
+    "text": "重度骨质疏松绝经后",
+    "normalized_result": "绝经后骨质疏松##重度骨质疏松"
+  },
+  {
+    "text": "脑白质缺血性病变老年性脑改变",
+    "normalized_result": "脑白质病##脑血管供血不足"
+  },
+  {
+    "text": "左侧尺神经挫伤",
+    "normalized_result": "身体未特指部位的神经损伤"
+  },
+  {
+    "text": "甲状腺滤泡癌",
+    "normalized_result": "甲状腺恶性肿瘤##滤泡性癌"
+  },
+  {
+    "text": "矮身材除外克丁病",
+    "normalized_result": "身材矮小症"
+  },
+  {
+    "text": "双侧基底节区多发陈旧腔梗",
+    "normalized_result": "基底节脑梗死##腔隙性脑梗死##多发性脑梗死##陈旧性脑梗死"
+  },
+  {
+    "text": "妊1产0妊286周臀头位",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "双乳CA化疗",
+    "normalized_result": "乳房恶性肿瘤##化学治疗##癌"
+  },
+  {
+    "text": "盆底功能障碍性疾病阴道前壁膨出Ⅱ期",
+    "normalized_result": "阴道脱垂##盆底功能障碍"
+  },
+  {
+    "text": "先天性骨骼发育异常",
+    "normalized_result": "骨骼发育不良"
+  },
+  {
+    "text": "胃肠功能紊乱，疝气",
+    "normalized_result": "胃肠功能紊乱"
+  },
+  {
+    "text": "\"胃体神经内分泌癌,肝转移\"",
+    "normalized_result": "胃体恶性肿瘤##神经内分泌癌##肝继发恶性肿瘤##转移性神经内分泌癌"
+  },
+  {
+    "text": "头面部广泛挫裂",
+    "normalized_result": "头部损伤"
+  },
+  {
+    "text": "多脏器功能不全肝肾凝血功能障碍",
+    "normalized_result": "多脏器功能障碍综合征[MODS]##肝功能异常##凝血功能障碍##肾功能异常"
+  },
+  {
+    "text": "浮肿查因肝源性心源性肾源性营养不良性",
+    "normalized_result": "营养性水肿##水肿"
+  },
+  {
+    "text": "急性移植物抗宿主反应病4度皮肤肠道肝脏",
+    "normalized_result": "急性移植物抗宿主病"
+  },
+  {
+    "text": "\"乳腺癌术后,放射治疗 腰部疼痛,慢性支气管炎，行动不便\"",
+    "normalized_result": "恶性肿瘤术后放疗##乳腺恶性肿瘤##癌##腰痛##慢性支气管炎"
+  },
+  {
+    "text": "语言智力发育迟缓原因待查",
+    "normalized_result": "言语和语言发育障碍##发育迟滞"
+  },
+  {
+    "text": "三叉神经特指疾患",
+    "normalized_result": "未特指的三叉神经疾患"
+  },
+  {
+    "text": "胎儿2部分型肺静脉异位引流",
+    "normalized_result": "部分型肺静脉异位引流"
+  },
+  {
+    "text": "化疗相关口腔黏膜及胃肠道损害",
+    "normalized_result": "化疗药物反应"
+  },
+  {
+    "text": "结肠MTlater术后，前列腺MT术后，腹主动脉血管瘤术后",
+    "normalized_result": "结肠术后##结肠恶性肿瘤##前列腺恶性肿瘤##前列腺术后##腹主动脉瘤"
+  },
+  {
+    "text": "副肿瘤运动神经元损害",
+    "normalized_result": "神经系统副肿瘤综合征"
+  },
+  {
+    "text": "\"右頬部鳞癌放疗,慢性牙周炎,下肢软组织恶性肿瘤,慢性牙周炎,残根,深龋,牙列缺损,开口受限\"",
+    "normalized_result": "颊部恶性肿瘤##鳞状细胞癌##恶性肿瘤放疗##慢性牙周炎##下肢软组织恶性肿瘤##慢性牙周炎##残留牙根##龋病##牙列缺损"
+  },
+  {
+    "text": "原发巨大肝癌。",
+    "normalized_result": "肝恶性肿瘤##癌"
+  },
+  {
+    "text": "颈髓损伤伴截瘫",
+    "normalized_result": "颈部脊髓损伤##高位截瘫"
+  },
+  {
+    "text": "急性发热性嗜中性皮肤病",
+    "normalized_result": "急性发热性嗜中性皮病"
+  },
+  {
+    "text": "子宫肌肿瘤",
+    "normalized_result": "子宫平滑肌瘤##子宫平滑肌瘤"
+  },
+  {
+    "text": "糙皮病",
+    "normalized_result": "糙皮病[陪粒格/烟酸缺乏]"
+  },
+  {
+    "text": "脑出血脑干出血破入四脑室及中脑导水管",
+    "normalized_result": "脑出血##脑干出血"
+  },
+  {
+    "text": "腮腺裂伤",
+    "normalized_result": "口腔和咽喉部损伤"
+  },
+  {
+    "text": "脂肪酶升高原因待查胰腺炎",
+    "normalized_result": "高脂肪酶血症##胰腺炎"
+  },
+  {
+    "text": "停经152周B超提示胎儿巨大膀胱",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "右足踇趾甲床破裂趾甲剥脱",
+    "normalized_result": "甲脱离"
+  },
+  {
+    "text": "下肢曲张静脉剥离术",
+    "normalized_result": "下肢静脉曲张"
+  },
+  {
+    "text": "腹膜转移",
+    "normalized_result": "腹膜继发恶性肿瘤##转移性肿瘤"
+  },
+  {
+    "text": "右示指末节缺损毁损伤",
+    "normalized_result": "手指损伤"
+  },
+  {
+    "text": "冠状静脉窦无顶综合症",
+    "normalized_result": "无顶冠状静脉窦综合征"
+  },
+  {
+    "text": "压疮14胆囊沉积物",
+    "normalized_result": "压疮"
+  },
+  {
+    "text": "颈髓病变空洞可能性大",
+    "normalized_result": "脊髓空洞症##脊髓病"
+  },
+  {
+    "text": "腰椎轻度侧弯伴腰45轻度不稳",
+    "normalized_result": "腰椎侧弯##腰椎不稳定"
+  },
+  {
+    "text": "特发性脊椎侧凸",
+    "normalized_result": "脊柱侧弯"
+  },
+  {
+    "text": "左肺小细胞Ca广泛期",
+    "normalized_result": "左肺恶性肿瘤##小细胞癌"
+  },
+  {
+    "text": "右侧头面部软组织挫伤",
+    "normalized_result": "头皮挫伤"
+  },
+  {
+    "text": "言语不清待查脑血管疾病其他",
+    "normalized_result": "脑血管病##意识障碍"
+  },
+  {
+    "text": "小肠病变性质待查十二指肠病变性质待查",
+    "normalized_result": "胃和十二指肠未特指的疾病##肠未特指的疾病"
+  },
+  {
+    "text": "胃癌累及食道",
+    "normalized_result": "胃恶性肿瘤##食管继发恶性肿瘤##癌"
+  },
+  {
+    "text": "右手指骨折",
+    "normalized_result": "指骨骨折"
+  },
+  {
+    "text": "心辨膜置换术",
+    "normalized_result": "具有其他心脏瓣膜置换"
+  },
+  {
+    "text": "右胫腓骨双骨折",
+    "normalized_result": "腓骨骨折##胫骨骨折"
+  },
+  {
+    "text": "心功能Ⅱ--Ⅲ级killip分期",
+    "normalized_result": "KillipII级##KillipIII级"
+  },
+  {
+    "text": "脑蛛网膜炎",
+    "normalized_result": "蛛网膜炎"
+  },
+  {
+    "text": "泌尿系统继发癌",
+    "normalized_result": "泌尿系统继发恶性肿瘤##继发性癌"
+  },
+  {
+    "text": "宫颈低度病变CINI",
+    "normalized_result": "子宫颈上皮瘤样病变[CIN]I级"
+  },
+  {
+    "text": "T11-L1压缩性骨折；",
+    "normalized_result": "胸椎压缩性骨折##腰椎压缩性骨折"
+  },
+  {
+    "text": "慢性肾脏疾病CKD5级",
+    "normalized_result": "\"慢性肾脏病,5期\""
+  },
+  {
+    "text": "胸紧高TCTG",
+    "normalized_result": "高甘油三酯血症##高胆固醇血症"
+  },
+  {
+    "text": "高血压性心肌病变",
+    "normalized_result": "高血压性心脏病"
+  },
+  {
+    "text": "颈椎腰椎间盘膨出症",
+    "normalized_result": "腰椎间盘移位##其他的颈椎间盘移位"
+  },
+  {
+    "text": "肝脏心脏重度铁沉积",
+    "normalized_result": "铁色素沉着"
+  },
+  {
+    "text": "黄斑裂孔术后",
+    "normalized_result": "黄斑裂孔"
+  },
+  {
+    "text": "脑梗死;高脂血症;痛风;周围神经病;睡眠障碍;焦虑障碍;急性前列腺炎",
+    "normalized_result": "脑梗死##高脂血症##痛风##多发性神经病[多发性神经炎/周围神经炎]##睡眠障碍##焦虑障碍##急性前列腺炎"
+  },
+  {
+    "text": "(肋间神经痛胸膜炎)",
+    "normalized_result": "肋间神经痛##胸膜炎"
+  },
+  {
+    "text": "胃溃疡型低分化腺癌",
+    "normalized_result": "胃恶性肿瘤##腺癌"
+  },
+  {
+    "text": "颈椎椎间盘膨出",
+    "normalized_result": "其他的颈椎间盘移位"
+  },
+  {
+    "text": "考虑左侧颊粘膜扁平苔藓B8过小牙",
+    "normalized_result": "口腔扁平苔癣##过小牙"
+  },
+  {
+    "text": "多发椎体横突骨折",
+    "normalized_result": "脊柱骨折##多发性骨折"
+  },
+  {
+    "text": "宫颈中分化鳞癌IIB期放化疗后",
+    "normalized_result": "子宫颈恶性肿瘤##鳞状细胞癌##化学治疗##恶性肿瘤放疗"
+  },
+  {
+    "text": "急性肠道移植抗宿主病I度",
+    "normalized_result": "急性移植物抗宿主病"
+  },
+  {
+    "text": "右大腿血管畸形",
+    "normalized_result": "下肢血管畸形"
+  },
+  {
+    "text": "腰椎管占位",
+    "normalized_result": "椎管内占位性病变"
+  },
+  {
+    "text": "右膝后交叉韧带胫骨止点陈旧性撕脱性骨折",
+    "normalized_result": "胫骨骨折"
+  },
+  {
+    "text": "肛管-直肠癌",
+    "normalized_result": "肛管及直肠恶性肿瘤##癌"
+  },
+  {
+    "text": "停经31周B超提示胎儿卵圆孔增大",
+    "normalized_result": "孕31周"
+  },
+  {
+    "text": "升结肠腺癌术后",
+    "normalized_result": "腺癌##升结肠恶性肿瘤"
+  },
+  {
+    "text": "食管癌小细胞型",
+    "normalized_result": "食管恶性肿瘤##癌"
+  },
+  {
+    "text": "（子宫）子宫内膜样腺癌，中分化；",
+    "normalized_result": "子宫内膜样腺癌##子宫内膜恶性肿瘤"
+  },
+  {
+    "text": "慢性胃炎/痔，混合",
+    "normalized_result": "慢性胃炎##混合痔"
+  },
+  {
+    "text": "小肠吸收不良综合征；",
+    "normalized_result": "肠吸收不良"
+  },
+  {
+    "text": "血管免疫母细胞性T细胞淋巴瘤",
+    "normalized_result": "血管免疫母细胞T细胞淋巴瘤"
+  },
+  {
+    "text": "髋骨放疗后",
+    "normalized_result": "放射治疗"
+  },
+  {
+    "text": "左眼人工晶体植入状态后囊混浊",
+    "normalized_result": "人工晶体植入状态"
+  },
+  {
+    "text": "外源性色素色汗症",
+    "normalized_result": "色汗症"
+  },
+  {
+    "text": "左室增大左室心肌致密化不全",
+    "normalized_result": "先天性心肌致密化不全"
+  },
+  {
+    "text": "左臀部皮脂腺囊肿术后",
+    "normalized_result": "皮脂腺囊肿"
+  },
+  {
+    "text": "动脉导管未闭(介入封堵术后)",
+    "normalized_result": "动脉导管未闭##心脏介入封堵术后状态"
+  },
+  {
+    "text": "右腋下脂肪瘤",
+    "normalized_result": "腋窝良性肿瘤##脂肪瘤"
+  },
+  {
+    "text": "特发性点状白斑",
+    "normalized_result": "特发性滴状色素减少症"
+  },
+  {
+    "text": "胎儿异常胎儿双足内翻",
+    "normalized_result": "先天性内翻足"
+  },
+  {
+    "text": "右手背及右腕部玻璃割伤",
+    "normalized_result": "手部开放性损伤##腕部开放性损伤##玻璃割伤"
+  },
+  {
+    "text": "结肠中-低分化腺癌",
+    "normalized_result": "结肠恶性肿瘤##腺癌"
+  },
+  {
+    "text": "急性下壁右室心肌再梗死KillipI级",
+    "normalized_result": "急性下壁右心室再发心肌梗死##KillipI级"
+  },
+  {
+    "text": "肝右叶巨大HCC",
+    "normalized_result": "肝细胞癌"
+  },
+  {
+    "text": "直肠管状腺癌（T2N0M0)I期",
+    "normalized_result": "直肠恶性肿瘤##管状腺癌"
+  },
+  {
+    "text": "舌疾患裂纹舌",
+    "normalized_result": "舌未特指的疾病##裂纹舌"
+  },
+  {
+    "text": "膀胱癌术后(高级别尿路上皮癌)",
+    "normalized_result": "膀胱术后##膀胱恶性肿瘤##尿路上皮癌"
+  },
+  {
+    "text": "累及认知功能和意识特",
+    "normalized_result": "累及认知功能和意识的其他和未特指的症状和体征"
+  },
+  {
+    "text": "慢性结石性胆囊炎急性发作",
+    "normalized_result": "慢性胆囊炎急性发作"
+  },
+  {
+    "text": "共同性外斜视(术后)",
+    "normalized_result": "眼术后##共同性内斜视"
+  },
+  {
+    "text": "右眼睑皮肤全层裂伤",
+    "normalized_result": "眼睑裂伤"
+  },
+  {
+    "text": "压缩性骨折(L1、L3)",
+    "normalized_result": "腰椎压缩性骨折"
+  },
+  {
+    "text": "停经32周B超提示胎儿头围增大",
+    "normalized_result": "孕32周"
+  },
+  {
+    "text": "右腹股沟伤口愈合不良",
+    "normalized_result": "腹股沟损伤##开放性损伤愈合不良"
+  },
+  {
+    "text": "膀胱癌术后;肺气肿;慢性阻塞性肺病伴有急性加重",
+    "normalized_result": "膀胱术后##膀胱恶性肿瘤##癌##肺气肿##慢性阻塞性肺疾病急性加重"
+  },
+  {
+    "text": "胸椎疼痛",
+    "normalized_result": "疼痛"
+  },
+  {
+    "text": "(E11.900)2型糖尿病双眼糖尿病视网膜病变",
+    "normalized_result": "2型糖尿病##2型糖尿病性视网膜病变"
+  },
+  {
+    "text": "自身免疫性疾病不除外",
+    "normalized_result": "自身免疫病"
+  },
+  {
+    "text": "西医1抑郁症伴焦虑2老年性脑改变",
+    "normalized_result": "抑郁发作##焦虑状态"
+  },
+  {
+    "text": "左膝重度外翻右膝重度内翻",
+    "normalized_result": "膝外翻##膝内翻"
+  },
+  {
+    "text": "肺Ca合并感染",
+    "normalized_result": "肺恶性肿瘤##肺部感染##癌"
+  },
+  {
+    "text": "甲状旁腺功能减低症",
+    "normalized_result": "甲状旁腺功能减退"
+  },
+  {
+    "text": "神经系统特指疾患双侧额叶斑片状高信号影",
+    "normalized_result": "\"神经系统的其他疾患,不可归类在他处者##中枢神经系统诊断性影像检查的其他异常所见\""
+  },
+  {
+    "text": "L5双侧椎弓峡部不连并椎体不稳",
+    "normalized_result": "腰椎峡部裂##腰椎不稳定"
+  },
+  {
+    "text": "口咽癌综合治疗后",
+    "normalized_result": "口咽恶性肿瘤##癌"
+  },
+  {
+    "text": "胆总管低分化腺癌",
+    "normalized_result": "胆总管恶性肿瘤##腺癌"
+  },
+  {
+    "text": "右下腹疼",
+    "normalized_result": "下腹痛"
+  },
+  {
+    "text": "右侧腹壁软组织伤",
+    "normalized_result": "腹部损伤"
+  },
+  {
+    "text": "乙状结肠中分化腺癌切除术",
+    "normalized_result": "乙状结肠恶性肿瘤##腺癌##结肠术后"
+  },
+  {
+    "text": "阻塞性肺疾病伴限制性通气倾向",
+    "normalized_result": "慢性阻塞性肺疾病"
+  },
+  {
+    "text": "开放性颅颌面内异物",
+    "normalized_result": "面部异物"
+  },
+  {
+    "text": "右上肢正中神经鞘瘤",
+    "normalized_result": "正中神经良性肿瘤##神经鞘瘤"
+  },
+  {
+    "text": "阵发性夜间呼吸困难综合征",
+    "normalized_result": "阵发性夜间呼吸困难"
+  },
+  {
+    "text": "右足背皮肤软组织坏死伴缺损",
+    "normalized_result": "足坏死##皮肤缺损"
+  },
+  {
+    "text": "胚胎移植后宫外孕",
+    "normalized_result": "胚胎移植术后##异位妊娠"
+  },
+  {
+    "text": "(胎儿胼胝体缺如)",
+    "normalized_result": "胼胝体发育不全"
+  },
+  {
+    "text": "右侧颈部皮肤肿物",
+    "normalized_result": "颈部肿物"
+  },
+  {
+    "text": "\"右乳癌IV期术后,肝转移,骨转移,赫赛汀耐药\"",
+    "normalized_result": "乳腺术后##乳腺恶性肿瘤##癌##肝继发恶性肿瘤##骨继发恶性肿瘤##转移性癌"
+  },
+  {
+    "text": "高血压性心脏损害2脑后循环缺血",
+    "normalized_result": "高血压性心脏病##后循环缺血"
+  },
+  {
+    "text": "糖尿病肾病(肾功能不全期)",
+    "normalized_result": "糖尿病性肾病##肾功能不全"
+  },
+  {
+    "text": "腰骶部椎管囊肿",
+    "normalized_result": "椎管囊肿"
+  },
+  {
+    "text": "右耳廓挫裂伤",
+    "normalized_result": "耳廓挫伤"
+  },
+  {
+    "text": "前庭周围神经性病变",
+    "normalized_result": "多发性神经病[多发性神经炎/周围神经炎]"
+  },
+  {
+    "text": "II度II型窦房阻滞",
+    "normalized_result": "窦房传导阻滞"
+  },
+  {
+    "text": "急性喉炎并喉梗阻I度",
+    "normalized_result": "急性喉炎##喉梗阻"
+  },
+  {
+    "text": "左侧肢体周围神经病变",
+    "normalized_result": "多发性神经病[多发性神经炎/周围神经炎]"
+  },
+  {
+    "text": "脑动脉供血不足贫血肝肾不足气阴不足",
+    "normalized_result": "脑动脉供血不足##贫血"
+  },
+  {
+    "text": "左足副舟骨左膝髌骨软化",
+    "normalized_result": "髌骨软骨软化##先天性足副舟骨"
+  },
+  {
+    "text": "脑膜瘤术后残留",
+    "normalized_result": "脑膜瘤##脑术后"
+  },
+  {
+    "text": "直肠癌姑息治疗后",
+    "normalized_result": "直肠恶性肿瘤##姑息医疗##癌"
+  },
+  {
+    "text": "反应差待查：肺炎呼衰",
+    "normalized_result": "肺炎##呼吸衰竭"
+  },
+  {
+    "text": "合并骶丛部分性根性损害",
+    "normalized_result": "腰骶丛损害"
+  },
+  {
+    "text": "右肱骨外侧髁陈旧性撕脱性骨折",
+    "normalized_result": "肱骨外髁骨折##陈旧性肱骨骨折"
+  },
+  {
+    "text": "颈肩腰痛",
+    "normalized_result": "颈痛##肩痛##腰痛"
+  },
+  {
+    "text": "原发性肝癌术后复发伴肺、骨多发转移",
+    "normalized_result": "肝术后##肝恶性肿瘤##恶性肿瘤复发##肺继发恶性肿瘤##骨继发恶性肿瘤##癌"
+  },
+  {
+    "text": "先天性被动免疫性血小板减少症",
+    "normalized_result": "先天性血小板减少##免疫性血小板减少"
+  },
+  {
+    "text": "右上肢肌肉组织慢性炎",
+    "normalized_result": "肌炎"
+  },
+  {
+    "text": "面部癌",
+    "normalized_result": "面部恶性肿瘤##癌"
+  },
+  {
+    "text": "心脏病神经紊乱型",
+    "normalized_result": "心脏神经症"
+  },
+  {
+    "text": "腰骶部肌肉拉伤脂肪疝",
+    "normalized_result": "下背肌肉损伤##脂肪疝"
+  },
+  {
+    "text": "双乳腺溢液待查1乳管扩张",
+    "normalized_result": "乳腺导管扩张症##乳头溢液"
+  },
+  {
+    "text": "右胸壁左腋下软组织肿瘤",
+    "normalized_result": "胸壁肿瘤##腋窝肿瘤"
+  },
+  {
+    "text": "颅内多发性结核瘤",
+    "normalized_result": "结核感染"
+  },
+  {
+    "text": "低钾低氯待查",
+    "normalized_result": "低钾血症##低氯血症"
+  },
+  {
+    "text": "肺高密度影待查",
+    "normalized_result": "肺诊断性影像异常"
+  },
+  {
+    "text": "肝左叶病灶介入治疗后肝右叶病灶射频治疗后",
+    "normalized_result": "射频消融术后"
+  },
+  {
+    "text": "双足副舟骨源性平足症垂直距骨",
+    "normalized_result": "先天性足副舟骨##扁平足"
+  },
+  {
+    "text": "颈髓脱髓鞘病变焦虑合并抑郁",
+    "normalized_result": "脱髓鞘病##抑郁状态##焦虑状态"
+  },
+  {
+    "text": "5.头部外伤：1）轻型颅脑损伤",
+    "normalized_result": "创伤性脑损伤##头部损伤"
+  },
+  {
+    "text": "右侧眶颧骨折",
+    "normalized_result": "眶骨骨折##颧骨骨折"
+  },
+  {
+    "text": "肺部感染(重症)",
+    "normalized_result": "肺部感染"
+  },
+  {
+    "text": "左乳肿块:乳癌",
+    "normalized_result": "乳房肿物##乳腺恶性肿瘤##癌"
+  },
+  {
+    "text": "直肠粘液腺癌",
+    "normalized_result": "直肠恶性肿瘤##粘液腺癌"
+  },
+  {
+    "text": "5.右侧输尿管结石并右肾积水",
+    "normalized_result": "肾积水伴输尿管结石"
+  },
+  {
+    "text": "空肠中段粘膜病变并狭窄",
+    "normalized_result": "肠未特指的疾病##肠狭窄"
+  },
+  {
+    "text": "先天性房间膈缺损",
+    "normalized_result": "房间隔缺损"
+  },
+  {
+    "text": "右手并指术后、上呼吸道感染",
+    "normalized_result": "并指##上呼吸道感染"
+  },
+  {
+    "text": "组织细胞郎罕细胞增多症",
+    "normalized_result": "朗格汉斯细胞组织细胞增生症"
+  },
+  {
+    "text": "双子宫双宫颈伴双阴道",
+    "normalized_result": "双子宫双子宫颈双阴道"
+  },
+  {
+    "text": "淋巴结继发癌",
+    "normalized_result": "淋巴结继发恶性肿瘤##继发性癌"
+  },
+  {
+    "text": "胎儿异常两胎儿胎儿部分肠管扩张",
+    "normalized_result": "多胎妊娠"
+  },
+  {
+    "text": "脊髓灰质炎治疗后",
+    "normalized_result": "急性脊髓灰质炎"
+  },
+  {
+    "text": "脐周感染",
+    "normalized_result": "脐部感染"
+  },
+  {
+    "text": "骨髓腔内脂肪组织增生未见明显造血细胞",
+    "normalized_result": "脂肪增多症"
+  },
+  {
+    "text": "左侧咬肌区肿块（血管瘤？)",
+    "normalized_result": "面部肿物##血管瘤##血管瘤"
+  },
+  {
+    "text": "右手掌软组织损伤",
+    "normalized_result": "手部损伤"
+  },
+  {
+    "text": "左髋髂骨撕脱性骨折",
+    "normalized_result": "髂骨骨折##髋关节骨折"
+  },
+  {
+    "text": "F1胎儿宫内生长受限伴多发结构异常",
+    "normalized_result": "胎儿生长受限"
+  },
+  {
+    "text": "右侧肾上腺醛固酮瘤",
+    "normalized_result": "康恩综合征[Conn综合征]"
+  },
+  {
+    "text": "高尿酸植物神经紊乱",
+    "normalized_result": "植物神经功能紊乱##高尿酸血症"
+  },
+  {
+    "text": "一侧肾萎缩",
+    "normalized_result": "肾萎缩"
+  },
+  {
+    "text": "胸中下段食管鳞状细胞癌",
+    "normalized_result": "食管胸下段恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "卵巢癌Ⅳ期",
+    "normalized_result": "卵巢恶性肿瘤##癌"
+  },
+  {
+    "text": "右上肺腺癌 PT2N0M0 IB期 PS:1",
+    "normalized_result": "右肺上叶恶性肿瘤##腺癌"
+  },
+  {
+    "text": "急性肝肾凝血等功能衰竭",
+    "normalized_result": "多脏器功能衰竭"
+  },
+  {
+    "text": "右膝软组织裂伤",
+    "normalized_result": "下肢撕裂伤"
+  },
+  {
+    "text": "\"双肺多发结节,左乳腺癌术后\"",
+    "normalized_result": "肺占位性病变##乳腺术后##乳腺恶性肿瘤##癌"
+  },
+  {
+    "text": "甲型流感病毒肺炎",
+    "normalized_result": "甲型流感##已知病毒的流感性肺炎"
+  },
+  {
+    "text": "右侧头臂干粥样硬化伴狭窄",
+    "normalized_result": "动脉粥样硬化##动脉狭窄"
+  },
+  {
+    "text": "左肺转移",
+    "normalized_result": "肺继发恶性肿瘤##转移性肿瘤"
+  },
+  {
+    "text": "髓质海绵肾并双肾钙质沉着",
+    "normalized_result": "先天性海绵肾##钙质沉着症"
+  },
+  {
+    "text": "手指麻木原因待查多发性周围神经病可能性大",
+    "normalized_result": "多发性神经病[多发性神经炎/周围神经炎]"
+  },
+  {
+    "text": "嗜酸性胃炎",
+    "normalized_result": "嗜酸细胞性胃肠炎"
+  },
+  {
+    "text": "狼疮肾LN-IVV复发治疗后复诊",
+    "normalized_result": "狼疮性肾炎"
+  },
+  {
+    "text": "支气管扩张并感染右肺下叶不张",
+    "normalized_result": "支气管扩张症合并感染##肺不张"
+  },
+  {
+    "text": "脑室少许缺血脱髓鞘改变",
+    "normalized_result": "脱髓鞘性脑病##脑血管供血不足"
+  },
+  {
+    "text": "十二指肠空肠绒毛萎缩部分淋巴管扩张",
+    "normalized_result": "肠淋巴管扩张"
+  },
+  {
+    "text": "右肱骨头坏死半脱位",
+    "normalized_result": "肱骨头缺血性坏死##髋关节半脱位"
+  },
+  {
+    "text": "停经283周B超提示胎儿右侧腹部无回声区",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "青霉素”药物过敏史",
+    "normalized_result": "青霉素过敏史"
+  },
+  {
+    "text": "肝硬化食管胃底静脉曲张破裂出血",
+    "normalized_result": "肝硬化伴食管静脉曲张破裂出血"
+  },
+  {
+    "text": "肾功轻度异常浮肿",
+    "normalized_result": "水肿##肾功能异常"
+  },
+  {
+    "text": "右侧颞顶外伤性颅骨缺损右侧动眼神经瘫",
+    "normalized_result": "动眼神经麻痹##后天性颅骨缺损"
+  },
+  {
+    "text": "双乳多发性腺瘤",
+    "normalized_result": "腺瘤##乳腺良性肿瘤"
+  },
+  {
+    "text": "左足平足症左后踝撞击症",
+    "normalized_result": "踝关节撞击综合征##扁平足"
+  },
+  {
+    "text": "关节炎更综症",
+    "normalized_result": "关节炎##更年期综合征"
+  },
+  {
+    "text": "左腋下皮脂腺囊肿",
+    "normalized_result": "皮脂腺囊肿"
+  },
+  {
+    "text": "左侧胸部跌伤后",
+    "normalized_result": "胸部损伤##摔伤"
+  },
+  {
+    "text": "胆囊及胆总管结石",
+    "normalized_result": "胆囊结石##胆总管结石"
+  },
+  {
+    "text": "黑毛痣",
+    "normalized_result": "色素痣"
+  },
+  {
+    "text": "白血病骨髓移植术后",
+    "normalized_result": "骨髓移植术后##白血病"
+  },
+  {
+    "text": "23埋伏阻生",
+    "normalized_result": "埋伏牙##阻生牙"
+  },
+  {
+    "text": "颈段食管癌cT3N0M0 放化疗",
+    "normalized_result": "食管颈部恶性肿瘤##恶性肿瘤放疗##化学治疗##癌"
+  },
+  {
+    "text": "上呼吸道疾病细菌性",
+    "normalized_result": "上呼吸道感染##细菌感染"
+  },
+  {
+    "text": "慢性阻塞性肺部疾病急性发作期肺心病",
+    "normalized_result": "慢性阻塞性肺疾病急性加重##肺源性心脏病"
+  },
+  {
+    "text": "睾丸后天性缺失",
+    "normalized_result": "后天性睾丸缺失"
+  },
+  {
+    "text": "膝关节骨关节炎(左膝内翻畸形)",
+    "normalized_result": "单侧膝关节骨性关节病##膝内翻"
+  },
+  {
+    "text": "前庭神经元Hunter综合征",
+    "normalized_result": "膝状神经节炎"
+  },
+  {
+    "text": "胸腰椎椎间盘膨出",
+    "normalized_result": "腰椎间盘移位##其他特指的椎间盘移位"
+  },
+  {
+    "text": "右手食指近节指间关节囊破裂伴脱位",
+    "normalized_result": "指间关节脱位"
+  },
+  {
+    "text": "Rett综合征",
+    "normalized_result": "雷特综合征[Retts综合征][脑萎缩性高血氨症]"
+  },
+  {
+    "text": "心肌桥前降支肌桥收缩期狭窄约85",
+    "normalized_result": "冠状动脉肌桥##冠状动脉狭窄"
+  },
+  {
+    "text": "结肠肝曲中分化腺癌（pT4aN0M0 IIB期）术后",
+    "normalized_result": "结肠术后##结肠恶性肿瘤##腺癌"
+  },
+  {
+    "text": "喉乳头状瘤术后",
+    "normalized_result": "乳头状瘤##喉良性肿瘤##喉术后"
+  },
+  {
+    "text": "左髋股骨异常纤维增殖症",
+    "normalized_result": "股骨纤维结构不良"
+  },
+  {
+    "text": "腰髂韧带劳损",
+    "normalized_result": "腰椎和骨盆其他和未特指部位的扭伤和劳损"
+  },
+  {
+    "text": "热液烫伤12%浅二度8%深二度4%颈部背",
+    "normalized_result": "躯干部烫伤"
+  },
+  {
+    "text": "肋间软组织劳损",
+    "normalized_result": "躯干未特指关节和韧带脱位、扭伤和劳损"
+  },
+  {
+    "text": "获得性依赖维生素K凝血因子异常症",
+    "normalized_result": "获得性维生素K依赖因子缺乏症"
+  },
+  {
+    "text": "46慢性根尖牙周炎",
+    "normalized_result": "慢性根尖周炎"
+  },
+  {
+    "text": "右膝部皮肤错裂伤",
+    "normalized_result": "下肢撕裂伤"
+  },
+  {
+    "text": "咳嗽，肝肾阴虚，",
+    "normalized_result": "咳嗽"
+  },
+  {
+    "text": "左肺部块状影及积液性质待查",
+    "normalized_result": "肺部阴影"
+  },
+  {
+    "text": "贲门口病变-恶性病变可能性大",
+    "normalized_result": "贲门恶性肿瘤"
+  },
+  {
+    "text": "生殖器结核",
+    "normalized_result": "结核感染"
+  },
+  {
+    "text": "内侧副韧带股骨止点撕脱性骨折",
+    "normalized_result": "股骨骨折"
+  },
+  {
+    "text": "右乳浸润性导管癌化疗后",
+    "normalized_result": "乳腺恶性肿瘤##浸润性导管癌##化学治疗"
+  },
+  {
+    "text": "双侧室管膜下囊肿",
+    "normalized_result": "室管膜囊肿"
+  },
+  {
+    "text": "子宫颈鳞癌放化疗后IIIB期",
+    "normalized_result": "子宫颈恶性肿瘤##鳞状细胞癌##恶性肿瘤放疗##化学治疗"
+  },
+  {
+    "text": "直肠乙状结肠双原发癌",
+    "normalized_result": "直肠恶性肿瘤##乙状结肠恶性肿瘤##癌"
+  },
+  {
+    "text": "胆总管泥沙样结石伴下段轻度炎性狭窄",
+    "normalized_result": "胆总管结石##胆总管狭窄"
+  },
+  {
+    "text": "\"上呼吸道感染、发热、咳嗽咽痛,行动不便,感冒，胃溃疡,慢性便秘,过敏,慢性咽炎\"",
+    "normalized_result": "上呼吸道感染##发热##咳嗽##咽痛##感冒##胃溃疡##便秘##过敏反应##慢性咽炎"
+  },
+  {
+    "text": "嗜酸性粒细胞增高待查原发性嗜酸细胞增多症",
+    "normalized_result": "嗜酸粒细胞增多"
+  },
+  {
+    "text": "上腹部不适伴隐痛",
+    "normalized_result": "上腹痛"
+  },
+  {
+    "text": "大泡性表皮松解坏死型药疹",
+    "normalized_result": "莱尔综合征[lyell综合征]"
+  },
+  {
+    "text": "宫颈癌IIB期术后：阴道顶端肉芽增生伴出血",
+    "normalized_result": "宫颈术后##子宫颈恶性肿瘤##癌##阴道出血"
+  },
+  {
+    "text": "高CA125神经元特异性烯醇化酶血症",
+    "normalized_result": "CA125升高##肿瘤标记物升高"
+  },
+  {
+    "text": "右肾囊性肾透明细胞癌",
+    "normalized_result": "肾恶性肿瘤##透明细胞癌"
+  },
+  {
+    "text": "膈肌痉挛？胃炎？反流性食管炎？",
+    "normalized_result": "痉挛##胃炎##反流性食管炎"
+  },
+  {
+    "text": "骨质疏松，白细胞减少，抑郁症",
+    "normalized_result": "骨质疏松##白细胞减少##抑郁症"
+  },
+  {
+    "text": "部分导联T波改变8左房增大",
+    "normalized_result": "心电图异常"
+  },
+  {
+    "text": "C4舌侧乳牙残留",
+    "normalized_result": "乳牙滞留"
+  },
+  {
+    "text": "先天性双侧髋关节错位",
+    "normalized_result": "先天性髋关节脱位"
+  },
+  {
+    "text": "右膝OA游离体半月板",
+    "normalized_result": "单侧膝关节骨性关节病##膝关节游离体"
+  },
+  {
+    "text": "肠癌; 喉癌",
+    "normalized_result": "肠道恶性肿瘤##喉恶性肿瘤##癌"
+  },
+  {
+    "text": "迁肝",
+    "normalized_result": "慢性迁延性肝炎"
+  },
+  {
+    "text": "双肺纤维灶性质待查",
+    "normalized_result": "肺诊断性影像异常"
+  },
+  {
+    "text": "高血压肾病便秘",
+    "normalized_result": "高血压性肾病##便秘"
+  },
+  {
+    "text": "骨肿瘤放疗",
+    "normalized_result": "骨恶性肿瘤##恶性肿瘤放疗"
+  },
+  {
+    "text": "右肺小细胞肺癌 广泛期 纵隔淋巴结转移 双肺转移",
+    "normalized_result": "右肺恶性肿瘤##小细胞癌##纵隔淋巴结继发恶性肿瘤##肺继发恶性肿瘤##转移性小细胞癌"
+  },
+  {
+    "text": "右膝损伤术后",
+    "normalized_result": "\"下肢未特指的损伤,水平未特指\""
+  },
+  {
+    "text": "面颈部皮肤松弛",
+    "normalized_result": "面部皮肤松弛##颈部皮肤松弛"
+  },
+  {
+    "text": "右侧胸水原因1肝源性2其他",
+    "normalized_result": "胸腔积液"
+  },
+  {
+    "text": "影像诊断原发性肝晚期家属取药",
+    "normalized_result": "肝恶性肿瘤"
+  },
+  {
+    "text": "混合型完全性肺静脉异位引流心内心上型",
+    "normalized_result": "\"完全性肺静脉异位引流,混合型##完全性肺静脉异位引流,心内型##完全性肺静脉异位引流,心上型\""
+  },
+  {
+    "text": "G2P2孕38+2周宫内妊娠顺娩LOA",
+    "normalized_result": "头位顺产"
+  },
+  {
+    "text": "左手第一掌指关节面碎裂并缺损",
+    "normalized_result": "手部关节骨折"
+  },
+  {
+    "text": "右枕部颅骨骨折",
+    "normalized_result": "颅骨骨折"
+  },
+  {
+    "text": "\"多发性骨髓瘤 (IGD LAMBDA型)D-S分期ⅢB期,ISS分期I期\"",
+    "normalized_result": "多发性骨髓瘤(IgDλ型)##多发性骨髓瘤(DS分期III期B组)##多发性骨髓瘤(ISS分期I期)"
+  },
+  {
+    "text": "黏多糖贮积症Ⅰ型双侧髋关节病理性脱",
+    "normalized_result": "粘多糖贮积病I型[Hurler综合征]##髋关节脱位"
+  },
+  {
+    "text": "慢性泪囊炎术后",
+    "normalized_result": "慢性泪囊炎##眼术后"
+  },
+  {
+    "text": "左侧面部右侧颈部多发割伤",
+    "normalized_result": "面部开放性损伤##颈部开放性损伤"
+  },
+  {
+    "text": "左膝半月板退变右踝关节退变",
+    "normalized_result": "踝骨关节病"
+  },
+  {
+    "text": "慢性风湿性瓣膜疾病",
+    "normalized_result": "风湿病"
+  },
+  {
+    "text": "左肩背部皮脂腺囊肿",
+    "normalized_result": "皮脂腺囊肿"
+  },
+  {
+    "text": "溶血性尿毒综合症不除外",
+    "normalized_result": "溶血-尿毒综合征"
+  },
+  {
+    "text": "双眼老年性黄斑病变右眼陈旧性",
+    "normalized_result": "老年性黄斑变性"
+  },
+  {
+    "text": "急性非淋巴细胞白血病-M5a",
+    "normalized_result": "急性非淋巴细胞白血病##急性非淋巴细胞性白血病"
+  },
+  {
+    "text": "发作性头昏原因待查脑血管功能紊乱",
+    "normalized_result": "头晕##脑血管病"
+  },
+  {
+    "text": "纵隔霍奇金淋巴瘤",
+    "normalized_result": "纵隔淋巴瘤##霍奇金淋巴瘤"
+  },
+  {
+    "text": "左肘左膝左足部工伤",
+    "normalized_result": "\"上肢损伤##足部损伤##下肢未特指的损伤,水平未特指\""
+  },
+  {
+    "text": "\"食管胃结合部中分化腺癌 肠型,腹腔淋巴结转移\"",
+    "normalized_result": "食管胃连接部恶性肿瘤##腺癌##腹腔淋巴结继发恶性肿瘤"
+  },
+  {
+    "text": "右中叶和左上肺下舌段慢性炎症",
+    "normalized_result": "肺炎"
+  },
+  {
+    "text": "COPD并右肺中叶部张综合征",
+    "normalized_result": "慢性阻塞性肺疾病##中叶综合征[Brock综合征]"
+  },
+  {
+    "text": "眼轮匝肌麻痹痉挛",
+    "normalized_result": "眼轮匝肌麻痹"
+  },
+  {
+    "text": "左肺中心型低分化鳞癌（T4N2M0）III期",
+    "normalized_result": "左肺恶性肿瘤##鳞状细胞癌##淋巴结继发恶性肿瘤"
+  },
+  {
+    "text": "鼻咽低分化鳞癌伴肝转移",
+    "normalized_result": "鼻咽恶性肿瘤##鳞状细胞癌##肝继发恶性肿瘤##转移性癌"
+  },
+  {
+    "text": "肝功心肌损害",
+    "normalized_result": "肝功能异常##心肌损害"
+  },
+  {
+    "text": "双侧输尿管肾盂肾盏积液",
+    "normalized_result": "肾积水##输尿管积水"
+  },
+  {
+    "text": "B型预激综合症希氏束旁道",
+    "normalized_result": "预激综合征[沃-帕-怀综合征]"
+  },
+  {
+    "text": "免疫性血小板减少症伴失血性贫血",
+    "normalized_result": "免疫性血小板减少##失血性贫血"
+  },
+  {
+    "text": "臂丛神经病",
+    "normalized_result": "臂丛神经损害"
+  },
+  {
+    "text": "肺部感染支气管扩张咯血",
+    "normalized_result": "肺部感染##支气管扩张症##咯血"
+  },
+  {
+    "text": "肺源心脏病心功能2级",
+    "normalized_result": "肺源性心脏病##心功能Ⅱ级(NYHA分级)"
+  },
+  {
+    "text": "右肺上叶原位癌",
+    "normalized_result": "肺原位癌"
+  },
+  {
+    "text": "右额颞部颅骨骨折",
+    "normalized_result": "颅骨多发性骨折"
+  },
+  {
+    "text": "喉咽癌",
+    "normalized_result": "喉咽恶性肿瘤##癌"
+  },
+  {
+    "text": "法鲁氏四联症艾森曼格氏综合征",
+    "normalized_result": "法洛四联症##艾森曼格综合征"
+  },
+  {
+    "text": "右侧基底节多发陈旧性腔隙行梗塞",
+    "normalized_result": "基底节脑梗死##腔隙性脑梗死##多发性脑梗死##陈旧性脑梗死"
+  },
+  {
+    "text": "颈髓空洞症肘关节病变",
+    "normalized_result": "脊髓空洞症"
+  },
+  {
+    "text": "右尺骨鹰嘴骨折不愈合",
+    "normalized_result": "尺骨鹰嘴骨折"
+  },
+  {
+    "text": "右侧面部咀嚼瞬目综合症",
+    "normalized_result": "下颌瞬目综合征[MarcusGunn综合征]"
+  },
+  {
+    "text": "节育器宫颈异位嵌顿",
+    "normalized_result": "避孕环嵌顿"
+  },
+  {
+    "text": "右侧骶髂关节退变并假关节形成",
+    "normalized_result": "骨关节病##骨折不连接[假关节]"
+  },
+  {
+    "text": "左肝内胆管结石伴胆管炎、左肝萎缩",
+    "normalized_result": "肝内胆管结石##胆管炎##肝萎缩"
+  },
+  {
+    "text": "四肢无力原因待查格林巴利综合征待除外",
+    "normalized_result": "吉兰-巴雷综合征##肢体无力"
+  },
+  {
+    "text": "左室轻度扩大肺动脉增宽",
+    "normalized_result": "左室扩大"
+  },
+  {
+    "text": "左手左足机器割伤",
+    "normalized_result": "手部开放性损伤##足部开放性损伤"
+  },
+  {
+    "text": "颈椎、腰椎间盘退行性变",
+    "normalized_result": "颈椎间盘变性"
+  },
+  {
+    "text": "双小腿踝足部皮肤挫裂剥脱",
+    "normalized_result": "下肢撕脱伤"
+  },
+  {
+    "text": "宫颈局灶复鳞上皮呈CINII级并累及腺体",
+    "normalized_result": "宫颈上皮瘤样病变[CIN]II级"
+  },
+  {
+    "text": "右颈部低分化癌",
+    "normalized_result": "颈部恶性肿瘤##癌"
+  },
+  {
+    "text": "\"胰腺占位，胰腺癌可能大,疼痛\"",
+    "normalized_result": "胰腺占位性病变##胰腺恶性肿瘤##癌##疼痛"
+  },
+  {
+    "text": "子宫颈上皮内病变CINIII级",
+    "normalized_result": "子宫颈上皮内瘤变III级[CINIII级]"
+  },
+  {
+    "text": "停经271周B超提示胎儿双侧脑室正常高值",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "原发性高压3级",
+    "normalized_result": "原发性高血压##高血压3级"
+  },
+  {
+    "text": "右前颅底曲菌病",
+    "normalized_result": "曲霉菌病"
+  },
+  {
+    "text": "颅内病变X刀治疗后",
+    "normalized_result": "放射治疗"
+  },
+  {
+    "text": "远端脾肾分流术后，门静脉高压症",
+    "normalized_result": "门脉高压"
+  },
+  {
+    "text": "左侧第4前肋骨质破坏",
+    "normalized_result": "骨质破坏"
+  },
+  {
+    "text": "腰背筋膜劳损",
+    "normalized_result": "腰部劳损##背部劳损"
+  },
+  {
+    "text": "完全性阴道纵隔",
+    "normalized_result": "阴道纵隔"
+  },
+  {
+    "text": "十二指肠至空肠粘膜慢性炎粘膜肌层内?",
+    "normalized_result": "慢性肠炎"
+  },
+  {
+    "text": "\"经典型霍奇金淋巴瘤((Ⅳ期A,肺部广泛侵润))\"",
+    "normalized_result": "经典型霍奇金淋巴瘤##肺继发恶性肿瘤"
+  },
+  {
+    "text": "右腕背撕脱性骨折",
+    "normalized_result": "股骨内髁骨折"
+  },
+  {
+    "text": "异位ACTH综合征放疗后",
+    "normalized_result": "异位促肾上腺皮质激素综合征##放射治疗"
+  },
+  {
+    "text": "睑缐炎",
+    "normalized_result": "睑腺炎[麦粒肿]"
+  },
+  {
+    "text": "妊娠期亚临床甲状腺机能减退？",
+    "normalized_result": "妊娠合并甲状腺功能减退"
+  },
+  {
+    "text": "鼻咽非角化鳞癌",
+    "normalized_result": "鼻咽恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "慢性萎缩性胃炎伴胆汁反流",
+    "normalized_result": "慢性萎缩性胃炎##胆汁反流"
+  },
+  {
+    "text": "二尖瓣主动脉瓣为钙化及玻璃样变的瓣",
+    "normalized_result": "主动脉瓣钙化##二尖瓣钙化"
+  },
+  {
+    "text": "右乳腺肿物切除术后",
+    "normalized_result": "乳房肿物##乳腺术后"
+  },
+  {
+    "text": "肠系膜血栓伴疼痛",
+    "normalized_result": "疼痛##肠系膜静脉血栓形成"
+  },
+  {
+    "text": "抑郁症供血不足脑",
+    "normalized_result": "抑郁发作##脑血管供血不足"
+  },
+  {
+    "text": "WERNICKE脑病",
+    "normalized_result": "韦尼克失语症[Wernicke失语症]"
+  },
+  {
+    "text": "右肺下叶癌伴双肺多发转移右肺下叶癌伴双肺多发转移",
+    "normalized_result": "右肺下叶恶性肿瘤##肺继发恶性肿瘤##肺下叶恶性肿瘤##肺继发恶性肿瘤##癌##转移性癌"
+  },
+  {
+    "text": "右环指伸肌腱中央腱止点撕脱性骨折",
+    "normalized_result": "指骨骨折"
+  },
+  {
+    "text": "心室性期前收缩",
+    "normalized_result": "室性期前收缩"
+  },
+  {
+    "text": "上呼吸道感染、呕吐（胃炎）",
+    "normalized_result": "上呼吸道感染##呕吐##胃炎"
+  },
+  {
+    "text": "颈腋下淋巴结大待查",
+    "normalized_result": "颈淋巴结肿大##腋下淋巴结肿大"
+  },
+  {
+    "text": "肠激惹综合征",
+    "normalized_result": "肠易激综合征"
+  },
+  {
+    "text": "右侧大脑后动脉粥样硬化",
+    "normalized_result": "脑动脉粥样硬化"
+  },
+  {
+    "text": "右足第1跖骨头撕脱性骨折",
+    "normalized_result": "跖骨骨折"
+  },
+  {
+    "text": "右足背轧伤",
+    "normalized_result": "足部挤压伤"
+  },
+  {
+    "text": "膝关节骨性关节炎双侧严重性",
+    "normalized_result": "双侧膝关节骨性关节病"
+  },
+  {
+    "text": "西医1神经症2脑多发腔隙灶",
+    "normalized_result": "神经症性障碍##腔隙性脑梗死##多发性脑梗死"
+  },
+  {
+    "text": "\"哮喘,缺锌\"",
+    "normalized_result": "支气管哮喘##锌缺乏"
+  },
+  {
+    "text": "颈部骶尾部跌伤",
+    "normalized_result": "\"颈部损伤##躯干未特指的损伤,水平未特指##跌倒\""
+  },
+  {
+    "text": "十二指肠降部腺瘤",
+    "normalized_result": "十二指肠良性肿瘤##腺瘤"
+  },
+  {
+    "text": "双乳腺增生并右乳囊肿形成",
+    "normalized_result": "乳腺增生##乳腺囊肿"
+  },
+  {
+    "text": "右Hoffa骨折切口复位内固定后",
+    "normalized_result": "股骨髁骨折"
+  },
+  {
+    "text": "颅内多发性病灶囊虫病",
+    "normalized_result": "囊虫感染"
+  },
+  {
+    "text": "胸12腰1椎体后缩性骨折",
+    "normalized_result": "胸椎压缩性骨折##腰椎骨折L1##腰椎压缩性骨折"
+  },
+  {
+    "text": "慢性GVHD肝脏皮肤广泛型",
+    "normalized_result": "慢性移植物抗宿主病"
+  },
+  {
+    "text": "右额叶病灶SRS放疗后",
+    "normalized_result": "放射治疗"
+  },
+  {
+    "text": "先天性输卵管发育不全",
+    "normalized_result": "输卵管发育畸形"
+  },
+  {
+    "text": "缺铁;卵圆孔未闭",
+    "normalized_result": "铁缺乏##卵圆孔未闭"
+  },
+  {
+    "text": "先天性心脏病动脉导管未闭房间隔缺损",
+    "normalized_result": "房间隔缺损##动脉导管未闭"
+  },
+  {
+    "text": "食管溃疡型鳞癌",
+    "normalized_result": "食管恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "卵巢低级别浆液性腺癌",
+    "normalized_result": "卵巢恶性肿瘤##浆液性腺癌"
+  },
+  {
+    "text": "急性移植物抗宿主反应病II度肠道",
+    "normalized_result": "急性移植物抗宿主病"
+  },
+  {
+    "text": "左冈上肌止点撕脱性骨折",
+    "normalized_result": "肱骨骨折"
+  },
+  {
+    "text": "食管癌可能",
+    "normalized_result": "食管恶性肿瘤##癌"
+  },
+  {
+    "text": "黑朦原因1心源性",
+    "normalized_result": "一过性黑矇"
+  },
+  {
+    "text": "急性脑梗塞桥脑右颞急性腔隙性梗塞",
+    "normalized_result": "脑梗死##多发性脑梗死##腔隙性脑梗死"
+  },
+  {
+    "text": "多器官功能损伤",
+    "normalized_result": "多脏器功能障碍综合征[MODS]"
+  },
+  {
+    "text": "子宫内膜中分化内膜样腺癌",
+    "normalized_result": "子宫内膜恶性肿瘤##子宫内膜样腺癌"
+  },
+  {
+    "text": "特指手术后状态(左下肢浅静脉术后)",
+    "normalized_result": "其他特指的手术后状态"
+  },
+  {
+    "text": "右肺腺癌并多发脑转移放疗后，多发骨转移",
+    "normalized_result": "右肺恶性肿瘤##腺癌##脑继发恶性肿瘤##恶性肿瘤放疗##骨继发恶性肿瘤##转移性腺癌"
+  },
+  {
+    "text": "脊髓发育不全",
+    "normalized_result": "脊髓发育不良"
+  },
+  {
+    "text": "慢性乙型病素养性肝炎重型重度",
+    "normalized_result": "病毒性肝炎乙型慢性重型"
+  },
+  {
+    "text": "左大腿皮肤人咬伤",
+    "normalized_result": "下肢开放性损伤"
+  },
+  {
+    "text": "右肺上叶鳞癌放化疗后",
+    "normalized_result": "右肺上叶恶性肿瘤##鳞状细胞癌##恶性肿瘤放疗##化学治疗"
+  },
+  {
+    "text": "右侧甲状腺滤泡癌",
+    "normalized_result": "甲状腺恶性肿瘤##滤泡性癌"
+  },
+  {
+    "text": "双眼视功能异常",
+    "normalized_result": "视觉障碍"
+  },
+  {
+    "text": "食管下段胃底静脉轻度曲张可能",
+    "normalized_result": "胃底静脉曲张##食管静脉曲张"
+  },
+  {
+    "text": "麻木无力待查脊髓病可能性大",
+    "normalized_result": "脊髓病##肌无力"
+  },
+  {
+    "text": "慢性鼻-鼻窦炎伴鼻息肉；高血压病",
+    "normalized_result": "慢性鼻窦炎##鼻息肉##高血压"
+  },
+  {
+    "text": "高乳素血症",
+    "normalized_result": "高泌乳素血症"
+  },
+  {
+    "text": "月经不调肝肾不足",
+    "normalized_result": "月经紊乱"
+  },
+  {
+    "text": "色素性扁平苔藓灰皮病",
+    "normalized_result": "扁平苔癣##灰色皮肤病"
+  },
+  {
+    "text": "网膜转移",
+    "normalized_result": "转移性肿瘤"
+  },
+  {
+    "text": "颅内脱髓鞘病变待诊",
+    "normalized_result": "脱髓鞘病"
+  },
+  {
+    "text": "冰余胆总管新生物符合管状腺瘤",
+    "normalized_result": "胆管息肉##胆管良性肿瘤##管状腺瘤"
+  },
+  {
+    "text": "双眼眼裂缩窄",
+    "normalized_result": "睑裂狭小"
+  },
+  {
+    "text": "右耳中度混合性聋左耳高频中度感音神经性聋",
+    "normalized_result": "单侧混合性聋##单侧感音神经性聋"
+  },
+  {
+    "text": "左踝肿块",
+    "normalized_result": "下肢肿物"
+  },
+  {
+    "text": "海洛因药物瘾",
+    "normalized_result": "海洛因药物瘾"
+  },
+  {
+    "text": "记忆力减退原因待查短暂性脑缺血可能性大",
+    "normalized_result": "脑血管供血不足"
+  },
+  {
+    "text": "1型糖尿病伴有多个并发症",
+    "normalized_result": "1型糖尿病伴多个并发症"
+  },
+  {
+    "text": "肾上腺腺瘤 儿茶酚胺增多症",
+    "normalized_result": "肾上腺良性肿瘤##腺瘤##儿茶酚胺分泌过多"
+  },
+  {
+    "text": "左手拇指电锯割伤伸指拇长伸肌腱断裂",
+    "normalized_result": "拇指开放性损伤##手部肌肉肌腱断裂"
+  },
+  {
+    "text": "双拇趾外翻右肘关节OA",
+    "normalized_result": "肘骨关节病##足拇外翻"
+  },
+  {
+    "text": "右侧三叉神经鞘瘤",
+    "normalized_result": "神经鞘瘤##三叉神经良性肿瘤"
+  },
+  {
+    "text": "浆乳治疗后",
+    "normalized_result": "浆细胞性乳腺炎"
+  },
+  {
+    "text": "急性移植物抗宿主反应病I度皮肤胃肠道肝脏",
+    "normalized_result": "急性移植物抗宿主病"
+  },
+  {
+    "text": "鳃裂畸形",
+    "normalized_result": "先天性鳃裂畸形"
+  },
+  {
+    "text": "脊膜脊髓膨出",
+    "normalized_result": "脊髓脊膜膨出"
+  },
+  {
+    "text": "肝功能失代偿期腹水形成",
+    "normalized_result": "肝硬化失代偿期##腹水"
+  },
+  {
+    "text": "呼吸道感染（过敏性咳嗽）",
+    "normalized_result": "呼吸道感染##咳嗽"
+  },
+  {
+    "text": "慢性肾功不全尿毒症期CKD5期",
+    "normalized_result": "\"慢性肾脏病,5期\""
+  },
+  {
+    "text": "HP感染慢性胃炎反流性食管炎",
+    "normalized_result": "幽门螺旋杆菌感染##反流性食管炎##慢性胃炎"
+  },
+  {
+    "text": "糖尿病胰岛素抵抗",
+    "normalized_result": "糖尿病性胰岛素抵抗"
+  },
+  {
+    "text": "一过性视物不清短暂性脑缺血可能性大",
+    "normalized_result": "视觉模糊##短暂性脑缺血发作"
+  },
+  {
+    "text": "右跟骨皮肤软组织缺血坏死",
+    "normalized_result": "足坏死"
+  },
+  {
+    "text": "妊娠合并乙肝病毒携带",
+    "normalized_result": "乙型病毒性肝炎病原携带者##妊娠状态"
+  },
+  {
+    "text": "其他诊断2宫颈肥厚",
+    "normalized_result": "子宫颈肥大"
+  },
+  {
+    "text": "胃肠型感冒细菌性",
+    "normalized_result": "胃肠型感冒##细菌感染"
+  },
+  {
+    "text": "胃窦粘液腺癌",
+    "normalized_result": "胃窦恶性肿瘤##腺癌"
+  },
+  {
+    "text": "右拇指末节骨骺肥大伴指间关节先天性融合",
+    "normalized_result": "指融合"
+  },
+  {
+    "text": "结膜炎，准分子术后ou",
+    "normalized_result": "结膜炎"
+  },
+  {
+    "text": "脊柱病除外后颅窝病变",
+    "normalized_result": "脊椎病"
+  },
+  {
+    "text": "颅高压",
+    "normalized_result": "颅内压增高"
+  },
+  {
+    "text": "甲状腺乳头状瘤术后",
+    "normalized_result": "乳头状瘤##甲状腺良性肿瘤##甲状腺术后"
+  },
+  {
+    "text": "室性逸搏",
+    "normalized_result": "室性逸搏性心律"
+  },
+  {
+    "text": "室性自身心律",
+    "normalized_result": "室性逸搏性心律"
+  },
+  {
+    "text": "脐动脉舒张期血流信号缺失一胎儿",
+    "normalized_result": "脐血流异常"
+  },
+  {
+    "text": "左髋部肌腱末端病",
+    "normalized_result": "髋肌腱端病"
+  },
+  {
+    "text": "循环系统操作后疾患房缺修补冠脉搭桥",
+    "normalized_result": "房间隔缺损修补术后##冠状动脉搭桥术后"
+  },
+  {
+    "text": "直肠乙状结肠结合部中分化腺癌术后 IV期化疗",
+    "normalized_result": "直肠恶性肿瘤##乙状结肠恶性肿瘤##恶性肿瘤术后化疗##腺癌"
+  },
+  {
+    "text": "停经292周B超提示胎儿左侧颈部无回声区",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "顶部头皮放射性坏死缺损",
+    "normalized_result": "放射性损害"
+  },
+  {
+    "text": "先天性颈枕融合",
+    "normalized_result": "先天性环枕融合"
+  },
+  {
+    "text": "老年性初期白内障",
+    "normalized_result": "老年性白内障(初发期)"
+  },
+  {
+    "text": "浅表心肌桥",
+    "normalized_result": "冠状动脉肌桥"
+  },
+  {
+    "text": "霍奇金型淋巴瘤",
+    "normalized_result": "霍奇金淋巴瘤"
+  },
+  {
+    "text": "根治性膀胱切除术后原位膀胱",
+    "normalized_result": "膀胱术后"
+  },
+  {
+    "text": "子宫内膜低分化浆液性腺癌",
+    "normalized_result": "子宫内膜恶性肿瘤##浆液性腺癌"
+  },
+  {
+    "text": "右侧唇裂",
+    "normalized_result": "先天性唇裂"
+  },
+  {
+    "text": "宫颈病CIN2－3级宫宫颈环切术",
+    "normalized_result": "子宫颈上皮内瘤变III级[CINIII级]##宫颈上皮瘤样病变[CIN]II级##宫颈术后"
+  },
+  {
+    "text": "直肠肿块性质待查",
+    "normalized_result": "直肠肿物"
+  },
+  {
+    "text": "左足背部分皮肤改变坏死",
+    "normalized_result": "足坏死"
+  },
+  {
+    "text": "肺部结节影待查",
+    "normalized_result": "肺部阴影"
+  },
+  {
+    "text": "甲状腺良性滤泡病变",
+    "normalized_result": "其他特指的甲状腺疾患"
+  },
+  {
+    "text": "支气管粘膜色素沉着纤维化症",
+    "normalized_result": "碳末石末沉着病[煤矽肺]"
+  },
+  {
+    "text": "截瘫(待查)",
+    "normalized_result": "未特指的截瘫"
+  },
+  {
+    "text": "停经256周B超提示胎儿双足内翻状态",
+    "normalized_result": "妊娠状态##先天性内翻足"
+  },
+  {
+    "text": "双眼结膜炎、左眼霰粒肿术后",
+    "normalized_result": "结膜炎##睑板腺囊肿[霰粒肿]##眼术后"
+  },
+  {
+    "text": "\"肱骨近端骨折(左侧,术后)\"",
+    "normalized_result": "肱骨近端骨折##骨折术后"
+  },
+  {
+    "text": "右膝前后交叉韧带损伤",
+    "normalized_result": "膝关节十字韧带损伤"
+  },
+  {
+    "text": "特指胎盘疾病胎膜残留",
+    "normalized_result": "其他的胎盘疾患##胎盘部分残留不伴出血"
+  },
+  {
+    "text": "胸中下段食管癌伴纵隔、左颈多发淋巴结转移",
+    "normalized_result": "食管胸中段恶性肿瘤##食管胸下段恶性肿瘤##癌##颈部淋巴结继发恶性肿瘤##纵隔淋巴结继发恶性肿瘤"
+  },
+  {
+    "text": "厌氧菌感染",
+    "normalized_result": "细菌感染"
+  },
+  {
+    "text": "乙脑后遗症右上强直瘫",
+    "normalized_result": "流行性乙型脑炎后遗症"
+  },
+  {
+    "text": "分娩伴会阴裂伤Ⅱ度",
+    "normalized_result": "分娩伴会阴裂伤"
+  },
+  {
+    "text": "HIV相关性神经疾病",
+    "normalized_result": "艾滋病[获得性免疫缺陷综合征]"
+  },
+  {
+    "text": "胃角溃疡型低分化腺癌",
+    "normalized_result": "胃恶性肿瘤##腺癌"
+  },
+  {
+    "text": "重度骨关节炎(腘窝囊肿)",
+    "normalized_result": "腘窝囊肿##重度骨关节病"
+  },
+  {
+    "text": "胃肠道功能障碍",
+    "normalized_result": "胃肠功能紊乱"
+  },
+  {
+    "text": "肝片吸虫抗体阳性",
+    "normalized_result": "肝片吸虫病"
+  },
+  {
+    "text": "副脾轻度心肌缺血",
+    "normalized_result": "先天性副脾##心肌供血不足"
+  },
+  {
+    "text": "左侧距骨副骨或撕脱性骨折可能",
+    "normalized_result": "距骨骨折"
+  },
+  {
+    "text": "右颈部瘘管符合腮裂瘘",
+    "normalized_result": "鳃裂瘘"
+  },
+  {
+    "text": "慢性阻塞性心脏病失代偿期",
+    "normalized_result": "未特指的心脏病"
+  },
+  {
+    "text": "血尿蛋白尿查因:IGA肾病",
+    "normalized_result": "血尿##蛋白尿##IgA肾病"
+  },
+  {
+    "text": "右小指腱鞘瘤",
+    "normalized_result": "手部肿瘤"
+  },
+  {
+    "text": "睾丸恶性淋巴瘤",
+    "normalized_result": "睾丸淋巴瘤##恶性淋巴瘤"
+  },
+  {
+    "text": "宫内环下移",
+    "normalized_result": "避孕环移位"
+  },
+  {
+    "text": "脑外伤后癫痫",
+    "normalized_result": "脑外伤后遗症##癫痫"
+  },
+  {
+    "text": "妊娠39+6周孕2产2枕左剖宫产",
+    "normalized_result": "无指征剖宫产的单胎分娩"
+  },
+  {
+    "text": "溶血性尿毒性综合症",
+    "normalized_result": "溶血-尿毒综合征"
+  },
+  {
+    "text": "单心室（心脾综合症）",
+    "normalized_result": "单心室"
+  },
+  {
+    "text": "头昏反复发作左肢麻木无力",
+    "normalized_result": "肢体无力##头晕"
+  },
+  {
+    "text": "双手晨僵功能障碍",
+    "normalized_result": "僵"
+  },
+  {
+    "text": "眼睑皮肤外伤",
+    "normalized_result": "眼睑和眼周区其他浅表损伤"
+  },
+  {
+    "text": "肝胆管细胞癌术后 梗阻性黄疸",
+    "normalized_result": "胆道术后##肝胆管恶性肿瘤##肝胆管细胞癌##梗阻性黄疸"
+  },
+  {
+    "text": "肺部曲毒菌病",
+    "normalized_result": "肺曲霉菌病"
+  },
+  {
+    "text": "胸壁软组织挫裂伤",
+    "normalized_result": "胸壁挫伤"
+  },
+  {
+    "text": "呼碱合并代酸",
+    "normalized_result": "呼吸性碱中毒##代谢性酸中毒"
+  },
+  {
+    "text": "左胫骨近端骨质改变左膝退变",
+    "normalized_result": "单侧膝关节骨性关节病"
+  },
+  {
+    "text": "左乳外上不对称致密",
+    "normalized_result": "乳房未特指的疾患"
+  },
+  {
+    "text": "胸腰椎多发陈旧骨折",
+    "normalized_result": "胸椎多发性骨折##陈旧性胸椎骨折##腰椎多发性骨折##陈旧性腰椎骨折"
+  },
+  {
+    "text": "肝脏恶性肿瘤介入治疗",
+    "normalized_result": "肝恶性肿瘤##恶性肿瘤介入治疗"
+  },
+  {
+    "text": "有重度合并症血糖持续不稳定的糖尿病患者",
+    "normalized_result": "糖尿病"
+  },
+  {
+    "text": "左大腿蜜蜂刺伤",
+    "normalized_result": "蜂螫伤##大腿开放性损伤"
+  },
+  {
+    "text": "左下肢血管狭窄伴足趾坏死",
+    "normalized_result": "足坏死"
+  },
+  {
+    "text": "胃体前壁全层坏死伴穿孔",
+    "normalized_result": "胃穿孔"
+  },
+  {
+    "text": "外阴交搭跨越恶性肿瘤",
+    "normalized_result": "外阴交搭跨越恶性肿瘤的损害"
+  },
+  {
+    "text": "左足副舟骨左膝退变",
+    "normalized_result": "先天性足副舟骨##单侧膝关节骨性关节病"
+  },
+  {
+    "text": "左乳肿物:左乳癌",
+    "normalized_result": "乳房肿物##乳腺恶性肿瘤##癌"
+  },
+  {
+    "text": "急性喉咽炎",
+    "normalized_result": "未特指的急性咽炎"
+  },
+  {
+    "text": "右主支气管活检组织鳞形细胞癌中-低分化",
+    "normalized_result": "右主支气管恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "肛周CA",
+    "normalized_result": "癌##肛周肿瘤"
+  },
+  {
+    "text": "胃贲门中低分化腺癌IIIC期术后(pT4bN3aM0)",
+    "normalized_result": "贲门术后##贲门恶性肿瘤##腺癌"
+  },
+  {
+    "text": "先天性骨发育不全",
+    "normalized_result": "骨骼发育不良"
+  },
+  {
+    "text": "过敏性支气管肺曲菌病",
+    "normalized_result": "变应性支气管肺曲霉病"
+  },
+  {
+    "text": "高血压Ⅲ;高脂血症;周围神经病;脑梗死;骨质疏松",
+    "normalized_result": "高血压3级##高脂血症##多发性神经病[多发性神经炎/周围神经炎]##脑梗死##骨质疏松"
+  },
+  {
+    "text": "右侧髂血管旁淋巴结肿大",
+    "normalized_result": "淋巴结肿大"
+  },
+  {
+    "text": "结肠管状腺瘤",
+    "normalized_result": "结肠良性肿瘤##管状腺瘤"
+  },
+  {
+    "text": "头部跌伤后",
+    "normalized_result": "头部损伤##摔伤"
+  },
+  {
+    "text": "腹部枪击伤术后",
+    "normalized_result": "枪击伤##腹部开放性损伤"
+  },
+  {
+    "text": "胆囊息肉并胆囊炎",
+    "normalized_result": "胆囊息肉##胆囊炎"
+  },
+  {
+    "text": "右眼突出待查脑外伤后康复期",
+    "normalized_result": "眼球突出"
+  },
+  {
+    "text": "距肛门50cm管状腺瘤低级别",
+    "normalized_result": "管状腺瘤##结肠良性肿瘤"
+  },
+  {
+    "text": "停经34周B超提示胎儿胼胝体显示不清",
+    "normalized_result": "孕34周"
+  },
+  {
+    "text": "\"胰尾癌术后复查,便秘,焦虑抑郁状态,癌性疼痛，无法口服止痛药,功能性消化不良\"",
+    "normalized_result": "胰腺术后##胰尾恶性肿瘤##癌##便秘##焦虑障碍##抑郁状态##消化不良##癌性疼痛"
+  },
+  {
+    "text": "肾结石高脂血症痰湿血瘀阻络",
+    "normalized_result": "肾结石##高脂血症"
+  },
+  {
+    "text": "溃结全大肠重度活动期",
+    "normalized_result": "溃疡性结肠炎"
+  },
+  {
+    "text": "直肠癌PT4N0M0II期",
+    "normalized_result": "直肠恶性肿瘤##癌"
+  },
+  {
+    "text": "急性支气管炎?哮喘?",
+    "normalized_result": "急性支气管炎##支气管哮喘"
+  },
+  {
+    "text": "前列腺特指疾病高PSA血症",
+    "normalized_result": "PSA升高##前列腺其他特指的疾患"
+  },
+  {
+    "text": "乳腺癌(左侧)",
+    "normalized_result": "乳腺恶性肿瘤##癌"
+  },
+  {
+    "text": "子宫肌间型平滑肌瘤",
+    "normalized_result": "子宫平滑肌瘤##子宫平滑肌瘤"
+  },
+  {
+    "text": "左手背皮肤软组织撕脱并缺损",
+    "normalized_result": "手部开放性损伤##皮肤缺损"
+  },
+  {
+    "text": "先天性房间隔缺损",
+    "normalized_result": "房间隔缺损"
+  },
+  {
+    "text": "先天性胆道扩张",
+    "normalized_result": "先天性胆管扩张"
+  },
+  {
+    "text": "乳癌痹症 冠心病(心律失常)",
+    "normalized_result": "乳腺恶性肿瘤##癌##冠状动脉粥样硬化性心脏病##心律失常"
+  },
+  {
+    "text": "面部白斑浮肿原因",
+    "normalized_result": "\"局部水肿##白斑病,不可归类在他处者\""
+  },
+  {
+    "text": "四肢发僵原因－椎体外系疾患",
+    "normalized_result": "肢体僵硬"
+  },
+  {
+    "text": "双眼小柳－原田氏综合征",
+    "normalized_result": "Vogt-小柳原田综合征"
+  },
+  {
+    "text": "脑血栓",
+    "normalized_result": "脑血栓形成"
+  },
+  {
+    "text": "鼻咽癌放疗23次",
+    "normalized_result": "鼻咽恶性肿瘤##恶性肿瘤放疗##癌"
+  },
+  {
+    "text": "右手中指鹅颈畸形",
+    "normalized_result": "指天鹅颈状变形"
+  },
+  {
+    "text": "小脑蚓部髓母细胞瘤",
+    "normalized_result": "小脑恶性肿瘤##髓母细胞瘤"
+  },
+  {
+    "text": "右颞软化己脑后遗症",
+    "normalized_result": "脑软化"
+  },
+  {
+    "text": "特指胎盘疾病胎盘残留",
+    "normalized_result": "胎盘部分残留不伴出血##其他的胎盘疾患"
+  },
+  {
+    "text": "右乳乳腺增生并导管扩张",
+    "normalized_result": "乳腺增生##乳腺导管扩张症"
+  },
+  {
+    "text": "霉菌性咽喉炎",
+    "normalized_result": "咽炎##喉炎"
+  },
+  {
+    "text": "胃低分化腺癌（T3N1M0）全胃切除术后",
+    "normalized_result": "胃恶性肿瘤##腺癌##胃术后##淋巴结继发恶性肿瘤"
+  },
+  {
+    "text": "右乳小叶增生伴纤维腺瘤",
+    "normalized_result": "乳腺良性肿瘤##纤维腺瘤##乳腺增生"
+  },
+  {
+    "text": "慢性酒精中毒性脑病，脑梗塞",
+    "normalized_result": "酒精中毒性脑病##脑梗死"
+  },
+  {
+    "text": "慢性脑病",
+    "normalized_result": "未特指的脑病"
+  },
+  {
+    "text": "脑缺血改变老年性脑改变",
+    "normalized_result": "脑血管供血不足"
+  },
+  {
+    "text": "主动脉瓣四瓣化伴中度关闭不全",
+    "normalized_result": "主动脉瓣关闭不全##先天性主动脉瓣畸形"
+  },
+  {
+    "text": "支气管炎肺气肿",
+    "normalized_result": "支气管炎##肺气肿"
+  },
+  {
+    "text": "小肠癌史",
+    "normalized_result": "小肠恶性肿瘤史"
+  },
+  {
+    "text": "淋巴细胞性白血病？？",
+    "normalized_result": "淋巴细胞白血病"
+  },
+  {
+    "text": "不育待查重度弱精子症",
+    "normalized_result": "男性不育症##男方弱精症"
+  },
+  {
+    "text": "右肺中叶癌术后，失眠焦虑",
+    "normalized_result": "肺术后##右肺中叶恶性肿瘤##失眠##焦虑障碍##癌"
+  },
+  {
+    "text": "Ⅳ期褥疮",
+    "normalized_result": "受压区Ⅳ期褥疮"
+  },
+  {
+    "text": "子宫内膜癌术后;失眠症",
+    "normalized_result": "子宫术后##子宫内膜恶性肿瘤##癌##失眠"
+  },
+  {
+    "text": "眼底黄斑病变视瞻昏渺",
+    "normalized_result": "视神经盘的其他疾患"
+  },
+  {
+    "text": "右肺癌伴肺内转移 肝内转移 骨转移",
+    "normalized_result": "右肺恶性肿瘤##癌##肺继发恶性肿瘤##肝继发恶性肿瘤##骨继发恶性肿瘤##转移性癌"
+  },
+  {
+    "text": "十二指肠球部狭窄2次球囊扩张术",
+    "normalized_result": "十二指肠狭窄"
+  },
+  {
+    "text": "B超提示胎儿卵圆孔稍增大肾窦分离",
+    "normalized_result": "卵圆孔未闭"
+  },
+  {
+    "text": "右肺中叶鳞癌维持性化学治疗",
+    "normalized_result": "右肺中叶恶性肿瘤##鳞状细胞癌##恶性肿瘤维持性化学治疗"
+  },
+  {
+    "text": "后躯干药物腐蚀后皮肤破损",
+    "normalized_result": "腐蚀伤##皮肤缺损"
+  },
+  {
+    "text": "十二指肠壶腹周围癌",
+    "normalized_result": "法特壶腹周围恶性肿瘤##癌"
+  },
+  {
+    "text": "右肺上叶恶性肿瘤治疗后的随诊检查",
+    "normalized_result": "右肺上叶恶性肿瘤"
+  },
+  {
+    "text": "尿道下裂",
+    "normalized_result": "尿道下裂"
+  },
+  {
+    "text": "HUNT综合症左化脓性软骨膜炎",
+    "normalized_result": "拉姆齐-亨特综合征[Ramsy-Hunt综合征]"
+  },
+  {
+    "text": "右卵巢成熟性囊性畸胎瘤蒂扭转",
+    "normalized_result": "成熟型囊性畸胎瘤##卵巢良性肿瘤"
+  },
+  {
+    "text": "左侧甲状腺腺瘤性伴囊性变",
+    "normalized_result": "甲状腺良性肿瘤##腺瘤##甲状腺囊肿"
+  },
+  {
+    "text": "腰1-4右侧横突骨折",
+    "normalized_result": "腰椎多发性骨折"
+  },
+  {
+    "text": "颈椎骨折伴截瘫",
+    "normalized_result": "颈椎骨折##高位截瘫"
+  },
+  {
+    "text": "移植肾动脉破裂",
+    "normalized_result": "肾移植状态"
+  },
+  {
+    "text": "\"结肠癌术后肝转移 手术及RFA治疗后,贫血 白\"",
+    "normalized_result": "结肠术后##结肠恶性肿瘤##癌##肝继发恶性肿瘤##转移性癌##贫血##恶性肿瘤射频治疗"
+  },
+  {
+    "text": "右下肢外伤清创缝合术并感染",
+    "normalized_result": "\"下肢未特指的损伤,水平未特指##感染\""
+  },
+  {
+    "text": "骶管小囊肿",
+    "normalized_result": "椎管内囊肿"
+  },
+  {
+    "text": "复诊颅内病变伽马刀两次治疗",
+    "normalized_result": "放射治疗"
+  },
+  {
+    "text": "右肺空洞性质待查",
+    "normalized_result": "肺病"
+  },
+  {
+    "text": "左小腿皮肤软组织撕脱伴潜行剥离",
+    "normalized_result": "下肢撕脱伤"
+  },
+  {
+    "text": "胸12椎体压缩性改变",
+    "normalized_result": "胸椎压缩性骨折"
+  },
+  {
+    "text": "RA糖尿病胃炎",
+    "normalized_result": "类风湿性关节炎##糖尿病##胃炎"
+  },
+  {
+    "text": "右肘关节肿块",
+    "normalized_result": "上肢肿物"
+  },
+  {
+    "text": "逸搏心律",
+    "normalized_result": "心律失常"
+  },
+  {
+    "text": "破碎的粘液变性的疏松结缔组织骨骼肌伴骨化",
+    "normalized_result": "结缔组织病"
+  },
+  {
+    "text": "左股骨腓骨骨质改变骨纤维结构不良",
+    "normalized_result": "腓骨纤维结构不良##股骨纤维结构不良"
+  },
+  {
+    "text": "热液烫伤左足腹部6%TBSAⅡ-Ⅲ°",
+    "normalized_result": "足部烫伤##躯干部烫伤"
+  },
+  {
+    "text": "右膝外侧半月板体部Ⅲ°放射裂后角Ⅲ°水",
+    "normalized_result": "膝外侧半月板撕裂"
+  },
+  {
+    "text": "多脏器功能不全神志肾脏肝脏心肌血液凝血",
+    "normalized_result": "多脏器功能障碍综合征[MODS]"
+  },
+  {
+    "text": "梗阻性黄疸PTCD及胆道支架置入术后",
+    "normalized_result": "梗阻性黄疸##胆管支架置入术后"
+  },
+  {
+    "text": "右臀部创伤性黄色肉芽肿性炎",
+    "normalized_result": "黄肉芽肿"
+  },
+  {
+    "text": "皮肤白斑上呼吸道疾病",
+    "normalized_result": "\"白斑病,不可归类在他处者##未特指的上呼吸道疾病\""
+  },
+  {
+    "text": "左侧混合型FAI继发盂唇撕裂",
+    "normalized_result": "髋关节撞击综合征##髋部损伤"
+  },
+  {
+    "text": "宫颈癌IIIb期化疗后",
+    "normalized_result": "子宫颈恶性肿瘤##化学治疗##癌"
+  },
+  {
+    "text": "胃癌化疗后",
+    "normalized_result": "胃恶性肿瘤##化学治疗##癌"
+  },
+  {
+    "text": "闭合性脑外伤1左侧额顶部硬膜外血肿",
+    "normalized_result": "创伤性硬脑膜外血肿"
+  },
+  {
+    "text": "面部发育畸形",
+    "normalized_result": "先天性颅面发育不全"
+  },
+  {
+    "text": "腓神经炎",
+    "normalized_result": "单神经炎"
+  },
+  {
+    "text": "颈2椎体及左横突粉粹性骨折",
+    "normalized_result": "颈椎骨折"
+  },
+  {
+    "text": "意识障碍待查肠管积气原因待查",
+    "normalized_result": "肠胀气##意识障碍"
+  },
+  {
+    "text": "损伤(右额部)",
+    "normalized_result": "头部损伤"
+  },
+  {
+    "text": "右乳腺浸润性癌术后化疗后靶向治疗（pT2N0M0",
+    "normalized_result": "乳腺恶性肿瘤##恶性肿瘤术后化疗##恶性肿瘤术后靶向治疗##癌"
+  },
+  {
+    "text": "Graves病合并桥本甲状腺炎",
+    "normalized_result": "弥漫性甲状腺肿伴甲状腺功能亢进[Graves病]##自身免疫性甲状腺炎[桥本病]"
+  },
+  {
+    "text": "左侧腋窝包块原因脂肪沉积",
+    "normalized_result": "腋窝占位"
+  },
+  {
+    "text": "面头皮疹颈淋巴肿大",
+    "normalized_result": "皮疹##颈淋巴结肿大"
+  },
+  {
+    "text": "右侧附件区良性囊性病变右侧输卵管积液可能",
+    "normalized_result": "输卵管卵巢囊肿##右侧输卵管积水"
+  },
+  {
+    "text": "椎动脉支架置入术",
+    "normalized_result": "血管支架植入术后状态"
+  },
+  {
+    "text": "肠重复畸形",
+    "normalized_result": "肠重复畸形"
+  },
+  {
+    "text": "回盲部穿孔造瘘",
+    "normalized_result": "人工造口状态##肠穿孔"
+  },
+  {
+    "text": "眼动脉畸形",
+    "normalized_result": "周围动脉畸形"
+  },
+  {
+    "text": "结肠癌术后每日更换造口袋1-2个",
+    "normalized_result": "结肠术后##结肠恶性肿瘤##结肠造口状态##癌"
+  },
+  {
+    "text": "胫骨下段先天性骨不连",
+    "normalized_result": "先天性胫骨假关节"
+  },
+  {
+    "text": "膜性肾病不除外乙型肝炎病毒相关性肾炎",
+    "normalized_result": "膜性肾病##乙型肝炎相关性肾炎"
+  },
+  {
+    "text": "胆结石高血压病胃脘痛咽痛结膜炎",
+    "normalized_result": "胆石症##高血压##胃痛##咽痛##结膜炎"
+  },
+  {
+    "text": "亚急性硬膜下血肿",
+    "normalized_result": "硬膜下血肿"
+  },
+  {
+    "text": "对角支轻微粥样硬化伴轻微狭窄",
+    "normalized_result": "冠状动脉粥样硬化##冠状动脉狭窄"
+  },
+  {
+    "text": "CINⅢ累及腺体宫内节育环",
+    "normalized_result": "子宫颈上皮内瘤变III级[CINIII级]"
+  },
+  {
+    "text": "P皮肤淀粉样变",
+    "normalized_result": "皮肤淀粉样变性"
+  },
+  {
+    "text": "结肠管状腺瘤直肠绒毛-管状腺瘤",
+    "normalized_result": "结肠良性肿瘤##管状腺瘤"
+  },
+  {
+    "text": "左膝骨关节病",
+    "normalized_result": "单侧膝关节骨性关节病"
+  },
+  {
+    "text": "肺感染(发烧)",
+    "normalized_result": "肺部感染##发热"
+  },
+  {
+    "text": "\"重度骨质疏松,有骨折史\"",
+    "normalized_result": "重度骨质疏松"
+  },
+  {
+    "text": "卵圆孔未闭可能左室松弛减退",
+    "normalized_result": "卵圆孔未闭"
+  },
+  {
+    "text": "右下肺原位腺癌",
+    "normalized_result": "右肺下叶恶性肿瘤##原位腺癌"
+  },
+  {
+    "text": "心膈角区淋巴结继发恶性肿瘤",
+    "normalized_result": "淋巴结继发恶性肿瘤"
+  },
+  {
+    "text": "双上肺继发性细支气管扩张",
+    "normalized_result": "支气管扩张症"
+  },
+  {
+    "text": "非霍奇金淋巴瘤(弥漫大B细胞型淋巴瘤 II期B组 IPI评分2分)",
+    "normalized_result": "非霍奇金淋巴瘤##弥漫大B细胞淋巴瘤"
+  },
+  {
+    "text": "癫痫周围神经病",
+    "normalized_result": "癫痫##多发性神经病[多发性神经炎/周围神经炎]"
+  },
+  {
+    "text": "右肘部跌伤",
+    "normalized_result": "上肢损伤##摔伤"
+  },
+  {
+    "text": "脑心血管病",
+    "normalized_result": "脑血管病##未特指的心血管疾病"
+  },
+  {
+    "text": "腹腔多发淋巴结肿大转移可能",
+    "normalized_result": "腹腔淋巴结肿大##腹腔淋巴结继发恶性肿瘤"
+  },
+  {
+    "text": "喉癌全程放疗后",
+    "normalized_result": "喉恶性肿瘤##癌##恶性肿瘤放疗"
+  },
+  {
+    "text": "肝内及腹腔转移瘤",
+    "normalized_result": "肝继发恶性肿瘤##腹腔继发恶性肿瘤##转移性肿瘤"
+  },
+  {
+    "text": "脑梗塞，CDH",
+    "normalized_result": "脑梗死##先天性髋关节脱位"
+  },
+  {
+    "text": "\"肠癌肝转移？,肠镜检查,出血倾向\"",
+    "normalized_result": "肠道恶性肿瘤##癌##肝继发恶性肿瘤##转移性癌##出血倾向"
+  },
+  {
+    "text": "左侧小腿挤压软组织剥脱撕裂伤",
+    "normalized_result": "小腿挤压伤##小腿撕脱伤"
+  },
+  {
+    "text": "停经334周B超提示胎儿后颅凹池扩大",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "心脏起搏器安装术后",
+    "normalized_result": "具有心脏起搏器状态"
+  },
+  {
+    "text": "宫颈中分化鳞形细胞癌",
+    "normalized_result": "子宫颈恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "黄斑裂孔特发性",
+    "normalized_result": "黄斑裂孔"
+  },
+  {
+    "text": "构音障碍和言语讷吃",
+    "normalized_result": "构音障碍##言语讷吃"
+  },
+  {
+    "text": "全身多处火焰烧伤",
+    "normalized_result": "火焰烧伤##多处烧伤"
+  },
+  {
+    "text": "mp感染",
+    "normalized_result": "支原体性肺炎"
+  },
+  {
+    "text": "十二指肠乳头符合管状腺瘤",
+    "normalized_result": "十二指肠良性肿瘤##管状腺瘤"
+  },
+  {
+    "text": "颈6椎撕脱性骨折",
+    "normalized_result": "颈椎骨折C6"
+  },
+  {
+    "text": "右耳混合性聋传导性和感觉神经性聋",
+    "normalized_result": "单侧混合性聋"
+  },
+  {
+    "text": "左眼皮肤擦伤",
+    "normalized_result": "眼睑和眼周区其他浅表损伤"
+  },
+  {
+    "text": "\"右上臂麻木,颈椎片显示颈椎病\"",
+    "normalized_result": "颈椎病"
+  },
+  {
+    "text": "左前臂皮肤划伤清创缝合后",
+    "normalized_result": "前臂开放性损伤##清创术后"
+  },
+  {
+    "text": "静脉特指疾患左上臂头静脉破裂",
+    "normalized_result": "静脉其他特指的疾患"
+  },
+  {
+    "text": "双肺内散在斑片样影考虑间质性改变请随诊",
+    "normalized_result": "肺部阴影"
+  },
+  {
+    "text": "双卵巢高级别浆液性腺癌",
+    "normalized_result": "卵巢恶性肿瘤##浆液性腺癌"
+  },
+  {
+    "text": "颈椎骨质破坏原因待查",
+    "normalized_result": "骨质破坏"
+  },
+  {
+    "text": "放射碘后胫前病变眼病",
+    "normalized_result": "放射性损害"
+  },
+  {
+    "text": "新生儿小女卵圆孔未闭",
+    "normalized_result": "卵圆孔未闭"
+  },
+  {
+    "text": "会厌软化气道轻度软化",
+    "normalized_result": "气管软化症"
+  },
+  {
+    "text": "滋养叶细胞瘤",
+    "normalized_result": "滋养细胞病"
+  },
+  {
+    "text": "停搏后房室交界性逸搏",
+    "normalized_result": "心脏停搏##结性逸搏"
+  },
+  {
+    "text": "肺炎喉炎Ⅱ°喉梗阻",
+    "normalized_result": "肺炎##喉炎##喉梗阻"
+  },
+  {
+    "text": "2型糖尿病眼病",
+    "normalized_result": "非胰岛素依赖型糖尿病伴有眼的并发症"
+  },
+  {
+    "text": "右肾肾萎缩",
+    "normalized_result": "肾萎缩"
+  },
+  {
+    "text": "喉上神经炎",
+    "normalized_result": "单神经炎"
+  },
+  {
+    "text": "非酒精性脂肪肝病轻度",
+    "normalized_result": "脂肪肝"
+  },
+  {
+    "text": "颅内多发大动脉狭窄",
+    "normalized_result": "动脉狭窄"
+  },
+  {
+    "text": "多囊肾合并感染",
+    "normalized_result": "先天性多囊肾##肾感染"
+  },
+  {
+    "text": "脐内皮肤黑色素沉着",
+    "normalized_result": "其他黑色素沉着过度"
+  },
+  {
+    "text": "阑尾黏液腺癌",
+    "normalized_result": "阑尾恶性肿瘤##粘液腺癌"
+  },
+  {
+    "text": "颌面畸形",
+    "normalized_result": "未特指的牙面畸形"
+  },
+  {
+    "text": "右股骨内髁SONK右膝中度OA",
+    "normalized_result": "骨坏死##单侧膝关节骨性关节病"
+  },
+  {
+    "text": "右环指外伤性截指",
+    "normalized_result": "单指完全离断"
+  },
+  {
+    "text": "大便干燥伴排便不畅待查",
+    "normalized_result": "其他大便异常##排便困难"
+  },
+  {
+    "text": "冠心病\\支架术后\\心绞痛",
+    "normalized_result": "冠状动脉粥样硬化性心脏病##冠状动脉支架植入术后状态##心绞痛"
+  },
+  {
+    "text": "左侧上颌窦炎性假瘤",
+    "normalized_result": "上颌窦肿物##炎性假瘤"
+  },
+  {
+    "text": "停经35周MR提示胎儿后颅窝池扩大",
+    "normalized_result": "孕35周"
+  },
+  {
+    "text": "继发性不孕子宫输卵管不通",
+    "normalized_result": "继发不孕"
+  },
+  {
+    "text": "左足成年人柔韧性平足症",
+    "normalized_result": "扁平足"
+  },
+  {
+    "text": "头皮鳞癌",
+    "normalized_result": "鳞状细胞癌##头皮恶性肿瘤"
+  },
+  {
+    "text": "心功能KILLIPI级",
+    "normalized_result": "KillipI级"
+  },
+  {
+    "text": "胃肠道紊乱",
+    "normalized_result": "胃肠功能紊乱"
+  },
+  {
+    "text": "四肢骨关节炎感染行动不便",
+    "normalized_result": "骨关节病##感染"
+  },
+  {
+    "text": "异位妊娠不除外",
+    "normalized_result": "体重异常减轻"
+  },
+  {
+    "text": "右下肺鳞癌",
+    "normalized_result": "右肺下叶恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "胃食管粘膜异型增生",
+    "normalized_result": "食管粘膜不典型增生##胃粘膜不典型增生"
+  },
+  {
+    "text": "升结肠管状腺瘤降结肠直肠管状腺瘤",
+    "normalized_result": "升结肠良性肿瘤##降结肠良性肿瘤##直肠良性肿瘤##管状腺瘤"
+  },
+  {
+    "text": "肺癌化疗贫血",
+    "normalized_result": "肺恶性肿瘤##化学治疗##贫血##癌"
+  },
+  {
+    "text": "骨骼发育异常",
+    "normalized_result": "骨骼发育不良"
+  },
+  {
+    "text": "电弧火焰烧伤双下肢",
+    "normalized_result": "下肢烧伤##火焰烧伤##电流引起烧伤"
+  },
+  {
+    "text": "左眼先天性血管异常",
+    "normalized_result": "血管畸形"
+  },
+  {
+    "text": "上呼吸道的疾病右下肢无力",
+    "normalized_result": "肢体无力##未特指的上呼吸道疾病"
+  },
+  {
+    "text": "\"食管胸中段癌,化疗呕吐,反流性食管炎,白细胞低\"",
+    "normalized_result": "食管胸中段恶性肿瘤##癌##化疗药物反应##呕吐##反流性食管炎##白细胞减少"
+  },
+  {
+    "text": "左侧颈动脉内膜符合粥样斑块组织学改变",
+    "normalized_result": "颈动脉粥样硬化"
+  },
+  {
+    "text": "脱髓鞘性脑白质病√",
+    "normalized_result": "脱髓鞘性白质脑病"
+  },
+  {
+    "text": "中重度肺高压",
+    "normalized_result": "中度肺动脉高压##重度肺动脉高压"
+  },
+  {
+    "text": "右肾重度积液右侧输尿管重度积液扩张",
+    "normalized_result": "输尿管扩张"
+  },
+  {
+    "text": "左食指中指撕脱性骨折",
+    "normalized_result": "指骨骨折"
+  },
+  {
+    "text": "子宫内节育器移位(下移)",
+    "normalized_result": "避孕环移位"
+  },
+  {
+    "text": "冠心病-心功能IV级",
+    "normalized_result": "冠状动脉粥样硬化性心脏病##心功能IV级(NYHA分级)"
+  },
+  {
+    "text": "弥漫大B细胞淋巴瘤复发",
+    "normalized_result": "弥漫大B细胞淋巴瘤##恶性肿瘤复发"
+  },
+  {
+    "text": "左上肢软组织劳损",
+    "normalized_result": "身体未特指部位的脱位、扭伤和劳损"
+  },
+  {
+    "text": "停经266周B超提示胎儿双侧外耳外观异常",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "左膝重度OA左膝胫骨骨缺损",
+    "normalized_result": "单侧膝关节骨性关节病"
+  },
+  {
+    "text": "双卵巢高级别浆液性腺癌IIIc期",
+    "normalized_result": "浆液性腺癌##双侧卵巢恶性肿瘤"
+  },
+  {
+    "text": "淋巴结病(CASTLEMAN病)",
+    "normalized_result": "Castleman病##淋巴结病"
+  },
+  {
+    "text": "肝穿组织轻度急性排异反应不除外",
+    "normalized_result": "肝移植物急性抗宿主病"
+  },
+  {
+    "text": "血管瘤 右侧大腿内侧",
+    "normalized_result": "肢体血管瘤"
+  },
+  {
+    "text": "胎盘残留-胎盘植入",
+    "normalized_result": "胎盘部分残留不伴出血##胎盘植入不伴出血"
+  },
+  {
+    "text": "左肺上叶支气管病变伴左上肺阻塞性病变",
+    "normalized_result": "\"慢性阻塞性肺疾病##支气管疾病,不可归类在他处者\""
+  },
+  {
+    "text": "盲肠腺瘤",
+    "normalized_result": "盲肠良性肿瘤##腺瘤"
+  },
+  {
+    "text": "冠心病-不稳定心绞痛",
+    "normalized_result": "冠状动脉粥样硬化性心脏病##不稳定性心绞痛"
+  },
+  {
+    "text": "窦房结功能不全",
+    "normalized_result": "窦房结功能低下"
+  },
+  {
+    "text": "右附睾头囊肿",
+    "normalized_result": "附睾囊肿"
+  },
+  {
+    "text": "双跟骨骨折",
+    "normalized_result": "跟骨骨折"
+  },
+  {
+    "text": "G周宫内妊娠引产后",
+    "normalized_result": "引产"
+  },
+  {
+    "text": "前列腺动态未定肿瘤",
+    "normalized_result": "前列腺动态未定或动态未知的肿瘤"
+  },
+  {
+    "text": "皮肤真皮及皮下组织癌转移",
+    "normalized_result": "皮肤继发恶性肿瘤##转移性癌"
+  },
+  {
+    "text": "双侧颈内动脉及椎动脉多发钙斑形成",
+    "normalized_result": "颈内动脉斑块##椎动脉斑块"
+  },
+  {
+    "text": "停经355周院外B超提示胎儿胃泡增大",
+    "normalized_result": "妊娠状态"
+  },
+  {
+    "text": "乙状结肠溃疡型中-低分化腺癌",
+    "normalized_result": "乙状结肠恶性肿瘤##腺癌"
+  },
+  {
+    "text": "\"经典霍奇金淋巴瘤(IV期A,肺部广泛侵润)\"",
+    "normalized_result": "经典型霍奇金淋巴瘤##肺继发恶性肿瘤"
+  },
+  {
+    "text": "恶性肿瘤的姑息化疗",
+    "normalized_result": "化学治疗"
+  },
+  {
+    "text": "上腹隐痛",
+    "normalized_result": "上腹痛"
+  },
+  {
+    "text": "\"右肺下叶小细胞肺癌 广泛期,食管胸中段癌食道溃疡狭窄,咳嗽 便秘化疗呕吐,食欲减退抗过敏,水肿利尿\"",
+    "normalized_result": "右肺下叶恶性肿瘤##小细胞癌##食管胸中段恶性肿瘤##癌##食管溃疡##食管狭窄##咳嗽##便秘##化疗药物反应##呕吐##食欲不振##水肿"
+  },
+  {
+    "text": "胎盘疾病胎膜残留",
+    "normalized_result": "胎膜部分残留不伴出血##未特指的胎盘疾患"
+  },
+  {
+    "text": "胸椎腰椎双侧髋关节退变脊柱轻度侧弯",
+    "normalized_result": "胸椎退行性病变##腰椎退行性病变##双侧髋关节骨性关节病##脊柱侧弯"
+  },
+  {
+    "text": "NKT细胞淋巴瘤",
+    "normalized_result": "结外NK/T细胞淋巴瘤(鼻型)"
+  },
+  {
+    "text": "双卵巢粘液性低分化腺癌",
+    "normalized_result": "卵巢恶性肿瘤##腺癌"
+  },
+  {
+    "text": "左肺上叶中央型肺癌IV期纵膈淋巴结肿大",
+    "normalized_result": "左肺上叶恶性肿瘤##癌##纵隔淋巴结肿大"
+  },
+  {
+    "text": "退行性脑病",
+    "normalized_result": "未特指的脑病"
+  },
+  {
+    "text": "右侧上颌多生埋伏牙",
+    "normalized_result": "埋伏牙##多生牙"
+  },
+  {
+    "text": "左眼睑擦伤",
+    "normalized_result": "眼睑和眼周区其他浅表损伤"
+  },
+  {
+    "text": "原发胃弥漫大B细胞性淋巴瘤",
+    "normalized_result": "弥漫大B细胞淋巴瘤##胃淋巴瘤"
+  },
+  {
+    "text": "双侧大隐静脉瓣膜功能不全",
+    "normalized_result": "下肢静脉功能不全"
+  },
+  {
+    "text": "亚急性淋巴结炎",
+    "normalized_result": "淋巴结炎"
+  },
+  {
+    "text": "深静脉血栓形成（左下肢）",
+    "normalized_result": "下肢深静脉血栓形成"
+  },
+  {
+    "text": "血管免疫母",
+    "normalized_result": "血管免疫母细胞性淋巴结病"
+  },
+  {
+    "text": "结肠癌晚期",
+    "normalized_result": "结肠恶性肿瘤##癌"
+  },
+  {
+    "text": "双肺陈旧性病变慢阻肺急发",
+    "normalized_result": "肺病##慢性阻塞性肺疾病急性加重"
+  },
+  {
+    "text": "直肠管状腺瘤少许腺体中度异型增生",
+    "normalized_result": "直肠良性肿瘤##管状腺瘤"
+  },
+  {
+    "text": "纳差查因肝内回声不均查因",
+    "normalized_result": "食欲不振"
+  },
+  {
+    "text": "慢性阻塞性肺病急性加重并感染",
+    "normalized_result": "慢性阻塞性肺疾病急性加重##肺部感染"
+  },
+  {
+    "text": "慢性移植物抗宿主反应病肝脏口腔皮肤胃肠道",
+    "normalized_result": "慢性移植物抗宿主病"
+  },
+  {
+    "text": "右颊部静脉畸形",
+    "normalized_result": "颊部血管畸形"
+  },
+  {
+    "text": "双肾发育异常",
+    "normalized_result": "先天性肾发育不良"
+  },
+  {
+    "text": "双髋退变",
+    "normalized_result": "双侧髋关节骨性关节病"
+  },
+  {
+    "text": "病毒性肝乙型慢性重度",
+    "normalized_result": "病毒性肝炎乙型慢性重型"
+  },
+  {
+    "text": "左下肢大面积软组织撕脱缺损",
+    "normalized_result": "下肢撕脱伤"
+  },
+  {
+    "text": "脑外伤后神经症颅内器质性病变待除外",
+    "normalized_result": "神经症性障碍"
+  },
+  {
+    "text": "第三颅神经麻痹",
+    "normalized_result": "第三[动眼]神经麻痹"
+  },
+  {
+    "text": "右上肢被玻璃划伤",
+    "normalized_result": "上肢开放性损伤##玻璃割伤"
+  },
+  {
+    "text": "肋骨胸椎骨质破坏待查",
+    "normalized_result": "骨质破坏"
+  },
+  {
+    "text": "1宫颈鳞状细胞CAⅡb期 2高血压病",
+    "normalized_result": "子宫颈恶性肿瘤##鳞状细胞癌##高血压"
+  },
+  {
+    "text": "PTCA+冠脉内支架植入术后",
+    "normalized_result": "冠状动脉支架植入术后状态"
+  },
+  {
+    "text": "大肠埃希杆菌感染",
+    "normalized_result": "大肠杆菌感染"
+  },
+  {
+    "text": "乙状结肠病变并不全梗阻",
+    "normalized_result": "不完全性肠梗阻"
+  },
+  {
+    "text": "1腰骶部神经源性肿瘤",
+    "normalized_result": "腰部肿瘤##骨盆部肿瘤"
+  },
+  {
+    "text": "右臀部及右侧骶髂关节病变原因结核性",
+    "normalized_result": "骶髂关节结核##臀部结核"
+  },
+  {
+    "text": "双眼高压眼底病变I级",
+    "normalized_result": "高眼压症"
+  },
+  {
+    "text": "蜂窝组织炎",
+    "normalized_result": "蜂窝织炎"
+  },
+  {
+    "text": "\"胸12压缩骨折,术后拆钉\"",
+    "normalized_result": "胸椎压缩性骨折##骨折术后"
+  },
+  {
+    "text": "双耳感音神经性聋，耳源性眩晕不能完全除外",
+    "normalized_result": "感音神经性聋##耳源性眩晕"
+  },
+  {
+    "text": "左肩背部肿瘤",
+    "normalized_result": "肩部肿瘤##背部肿瘤"
+  },
+  {
+    "text": "双侧颊部及牙龈扁平苔藓免疫异常",
+    "normalized_result": "扁平苔癣##口腔扁平苔癣"
+  },
+  {
+    "text": "双四肢神经元损伤",
+    "normalized_result": "上肢神经损伤##下肢神经损伤"
+  },
+  {
+    "text": "宫颈鳞状上皮内瘤样病变III级",
+    "normalized_result": "子宫颈上皮内瘤变III级[CINIII级]"
+  },
+  {
+    "text": "右输尿管结石伴肾积水",
+    "normalized_result": "肾积水伴输尿管结石"
+  },
+  {
+    "text": "卵巢子宫内膜样腺CA",
+    "normalized_result": "卵巢恶性肿瘤##子宫内膜样腺癌"
+  },
+  {
+    "text": "右冠状动脉远段病变处支架植入术成功",
+    "normalized_result": "冠状动脉支架植入术后状态"
+  },
+  {
+    "text": "\"右肺下叶腺癌 cT4N3M1 IV期,双肺转移,纵隔、右肺门、右锁骨上淋巴结转移,右胸膜转移可能\"",
+    "normalized_result": "右肺下叶恶性肿瘤##肺继发恶性肿瘤##腺癌##纵隔淋巴结继发恶性肿瘤##肺门淋巴结继发恶性肿瘤##锁骨上淋巴结继发恶性肿瘤##胸膜继发恶性肿瘤##转移性腺癌"
+  },
+  {
+    "text": "上消化道出血(食道胃底静脉曲张)",
+    "normalized_result": "上消化道出血##食管静脉曲张##胃底静脉曲张"
+  },
+  {
+    "text": "淋巴瘤白血病B细胞型",
+    "normalized_result": "B细胞淋巴瘤"
+  },
+  {
+    "text": "低钾；肾癌术后；前列腺癌；颌下感染",
+    "normalized_result": "低钾血症##肾恶性肿瘤##肾术后##前列腺恶性肿瘤##颌下感染##癌"
+  },
+  {
+    "text": "肝病综合征（巨细胞病毒感染）",
+    "normalized_result": "未特指的肝病##巨细胞病毒感染"
+  },
+  {
+    "text": "右胸壁肿瘤术后",
+    "normalized_result": "胸壁肿瘤"
+  },
+  {
+    "text": "被玻璃割伤右肘部",
+    "normalized_result": "上肢开放性损伤##玻璃割伤"
+  },
+  {
+    "text": "结肠腺瘤",
+    "normalized_result": "结肠良性肿瘤##腺瘤"
+  },
+  {
+    "text": "阴道异物继发感染",
+    "normalized_result": "阴道内异物##感染"
+  },
+  {
+    "text": "胰尾部恶性病变",
+    "normalized_result": "胰尾恶性肿瘤"
+  },
+  {
+    "text": "原发不孕纵膈子宫",
+    "normalized_result": "子宫纵隔"
+  },
+  {
+    "text": "纵隔支气管囊肿",
+    "normalized_result": "纵隔囊肿##支气管囊肿"
+  },
+  {
+    "text": "孕21周1天LMP:2014.09.08。13/01TSH：2.667",
+    "normalized_result": "孕21周##面先露"
+  },
+  {
+    "text": "子宫纵膈切除术后",
+    "normalized_result": "子宫纵隔##子宫术后"
+  },
+  {
+    "text": "右肺下叶中分化鳞状细胞癌",
+    "normalized_result": "右肺下叶恶性肿瘤##鳞状细胞癌"
+  },
+  {
+    "text": "脑干小脑梗死多发性腔隙性脑梗死",
+    "normalized_result": "小脑梗死##脑干梗死##多发性脑梗死##腔隙性脑梗死"
+  },
+  {
+    "text": "脾肿大原因待查血液系统疾病",
+    "normalized_result": "脾大##血液和造血器官未特指的疾病"
+  },
+  {
+    "text": "腹部刀刺伤",
+    "normalized_result": "刀刺伤##腹部开放性损伤"
+  },
+  {
+    "text": "胃低分化腺癌根治术后ⅢB期 T4aN2M0",
+    "normalized_result": "胃术后##胃恶性肿瘤##腺癌##淋巴结继发恶性肿瘤"
+  },
+  {
+    "text": "卵巢透明细胞癌IC期",
+    "normalized_result": "透明细胞癌##卵巢恶性肿瘤"
+  },
+  {
+    "text": "4%烫伤额面部左胸部左上肢浅II度",
+    "normalized_result": "上肢烫伤##躯干部烫伤"
+  },
+  {
+    "text": "肩关节肘关节退行性病变",
+    "normalized_result": "肩骨关节病##肘骨关节病"
+  },
+  {
+    "text": "子宫颈鳞状细胞癌ⅢB期放化疗后",
+    "normalized_result": "子宫颈恶性肿瘤##鳞状细胞癌##恶性肿瘤放疗##化学治疗"
+  },
+  {
+    "text": "\"胃癌,腹腔腹膜后淋巴结M,疼痛,呕吐,便秘\"",
+    "normalized_result": "胃恶性肿瘤##癌##腹腔淋巴结继发恶性肿瘤##腹膜后淋巴结继发恶性肿瘤##疼痛##呕吐##便秘"
+  },
+  {
+    "text": "横行腹直肌肌皮瓣移植术后",
+    "normalized_result": "皮瓣移植状态"
+  },
+  {
+    "text": "右侧结节性甲状腺肿伴囊性变",
+    "normalized_result": "结节性甲状腺肿"
+  },
+  {
+    "text": "尿布疹5卵圆孔未闭",
+    "normalized_result": "卵圆孔未闭##尿布性皮炎"
+  },
+  {
+    "text": "右腕蜂蜇伤",
+    "normalized_result": "腕部损伤##蜂螫伤"
+  },
+  {
+    "text": "室管膜瘤术后",
+    "normalized_result": "室管膜瘤##脑术后"
+  },
+  {
+    "text": "马凡综合征伴脊柱侧弯",
+    "normalized_result": "马方综合征[Marfan综合征]##脊柱侧弯"
+  },
+  {
+    "text": "脓毒症？症状性腹泻",
+    "normalized_result": "脓毒症"
+  },
+  {
+    "text": "左上睑外伤后疤痕左上睑闭眼功能不全",
+    "normalized_result": "影响眼睑功能的其他疾患"
+  },
+  {
+    "text": "右手腕肿块",
+    "normalized_result": "腕关节肿物"
+  },
+  {
+    "text": "右膝重度OA左膝OA重度OP",
+    "normalized_result": "双侧膝关节骨性关节病##重度骨质疏松"
+  },
+  {
+    "text": "肺气肿并肺大疱形成",
+    "normalized_result": "大疱性肺气肿"
+  },
+  {
+    "text": "无精症睾丸生精障碍",
+    "normalized_result": "无精子症##睾丸功能障碍"
+  },
+  {
+    "text": "VINIII级",
+    "normalized_result": "阴道上皮内瘤变III级[VAINIII级]"
+  },
+  {
+    "text": "继发性血红蛋白增多症",
+    "normalized_result": "血红蛋白增高"
+  },
+  {
+    "text": "骨髓淋巴细胞增生",
+    "normalized_result": "淋巴细胞增殖性疾病"
+  },
+  {
+    "text": "右侧海绵窦癌",
+    "normalized_result": "颅内恶性肿瘤##癌"
+  }
+]
